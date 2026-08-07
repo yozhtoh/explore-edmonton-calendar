@@ -44,10 +44,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add docs/explore-edmonton-events.ics
+
           if git diff --cached --quiet; then
             echo "Calendar is already up to date."
-          else
-            git commit -m "Update Explore Edmonton calendar"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update Explore Edmonton calendar"
+
+          git pull --rebase origin main
+          git push origin main
