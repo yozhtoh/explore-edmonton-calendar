@@ -52,3 +52,14 @@ The generated feed now attempts to include:
 ### Calendar-app limitations
 
 An iCalendar event is not a copy of a web page. Apple Calendar and Outlook generally display rich HTML descriptions better than Google Calendar. Some apps ignore images, custom fields, HTML headings, or `GEO`, but all apps should retain the standard title, dates, location, plain description, and source URL. A location/address normally becomes a clickable map link automatically in the calendar app. Coordinates are included as an additional mapping aid when Explore Edmonton publishes them.
+
+## 403 / anti-bot handling
+
+Version 3 uses two fetch methods automatically:
+
+1. `curl_cffi` impersonates a normal Chrome network stack for fast requests.
+2. If Explore Edmonton returns 403/Access Denied, Playwright launches headless Chromium and renders the page like a browser.
+
+The GitHub Actions workflow installs Chromium automatically. No API key or secret is required.
+
+If a run fails, open Actions > Update Explore Edmonton calendar > update > Build calendar and inspect the final error. The existing `.ics` file is intentionally left unchanged when no events can be parsed.

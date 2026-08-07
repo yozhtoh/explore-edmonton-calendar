@@ -14,7 +14,8 @@ from pathlib import Path
 from typing import Any, Iterable
 from urllib.parse import urljoin, urlparse
 
-import requests
+from curl_cffi import requests
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 from icalendar import Calendar, Event
@@ -22,13 +23,90 @@ from icalendar import Calendar, Event
 BASE_URL = "https://exploreedmonton.com"
 CALENDAR_URL = f"{BASE_URL}/event-calendar"
 OUTPUT = Path("docs/explore-edmonton-events.ics")
-USER_AGENT = "ExploreEdmontonCalendarFeed/2.0 (+personal calendar subscription)"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
 TIMEOUT = 30
 MAX_LISTING_PAGES = 30
 REQUEST_DELAY = 0.25
 
-session = requests.Session()
-session.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-CA,en;q=0.9"})
+session = requests.Session(impersonate="chrome")
+session.headers.update({
+    "User-Agent": USER_AGENT,
+    "Accept-Language": "en-CA,en-US;q=0.9,en;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+})
+
+_browser_state: dict[str, Any] = {}
+
+def _browser_html(url: str) -> str:
+    """Fetch a fully rendered page with Chromium. Used when anti-bot blocks HTTP clients."""
+    if "playwright" not in _browser_state:
+        pw = sync_playwright().start()
+        browser = pw.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled", "--no-sandbox"],
+        )
+        context = browser.new_context(
+            user_agent=USER_AGENT,
+            locale="en-CA",
+            timezone_id="America/Edmonton",
+            viewport={"width": 1440, "height": 1000},
+            extra_http_headers={
+                "Accept-Language": "en-CA,en-US;q=0.9,en;q=0.8",
+                "DNT": "1",
+            },
+        )
+        _browser_state.update(playwright=pw, browser=browser, context=context)
+    page = _browser_state["context"].new_page()
+    try:
+        response = page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(2500)
+        # Scroll once to trigger lazy-loaded event cards/content.
+        page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        page.wait_for_timeout(1200)
+        status = response.status if response else 0
+        html = page.content()
+        lowered = html.lower()
+        if status >= 400 or "403 forbidden" in lowered or "access denied" in lowered:
+            raise RuntimeError(f"Chromium received blocked response ({status}) for {url}")
+        return html
+    finally:
+        page.close()
+
+
+def fetch_html(url: str) -> str:
+    """Fetch HTML with Chrome TLS impersonation; fall back to real Chromium on blocking."""
+    last_error: Exception | None = None
+    for attempt in range(3):
+        try:
+            response = session.get(url, timeout=TIMEOUT, allow_redirects=True)
+            if response.status_code == 200 and response.text.strip():
+                return response.text
+            last_error = RuntimeError(f"HTTP {response.status_code}")
+        except Exception as exc:
+            last_error = exc
+        if attempt < 2:
+            time.sleep(2 ** attempt)
+    print(f"HTTP client blocked for {url} ({last_error}); trying Chromium...", file=sys.stderr)
+    return _browser_html(url)
+
+
+def close_browser() -> None:
+    if not _browser_state:
+        return
+    for key in ("context", "browser"):
+        obj = _browser_state.get(key)
+        if obj:
+            try:
+                obj.close()
+            except Exception:
+                pass
+    pw = _browser_state.get("playwright")
+    if pw:
+        try:
+            pw.stop()
+        except Exception:
+            pass
+    _browser_state.clear()
 
 
 @dataclass(frozen=True)
@@ -48,20 +126,6 @@ class ParsedEvent:
     price: str
     ticket_url: str
     updated: datetime
-
-
-def get(url: str) -> requests.Response:
-    last_error: Exception | None = None
-    for attempt in range(4):
-        try:
-            response = session.get(url, timeout=TIMEOUT)
-            response.raise_for_status()
-            return response
-        except Exception as exc:
-            last_error = exc
-            if attempt < 3:
-                time.sleep(2**attempt)
-    raise RuntimeError(f"Could not fetch {url}: {last_error}")
 
 
 def event_links_from_html(html: str, page_url: str) -> set[str]:
@@ -87,9 +151,9 @@ def discover_event_links() -> list[str]:
         if page_url in seen_pages:
             continue
         seen_pages.add(page_url)
-        response = get(page_url)
-        links.update(event_links_from_html(response.text, page_url))
-        soup = BeautifulSoup(response.text, "html.parser")
+        html = fetch_html(page_url)
+        links.update(event_links_from_html(html, page_url))
+        soup = BeautifulSoup(html, "html.parser")
         for anchor in soup.select("a[href]"):
             text = anchor.get_text(" ", strip=True).lower()
             rel = " ".join(anchor.get("rel", [])) if anchor.get("rel") else ""
@@ -282,8 +346,8 @@ def build_descriptions(item: dict[str, Any], soup: BeautifulSoup, url: str, loca
 
 
 def parse_event(url: str) -> ParsedEvent | None:
-    response = get(url)
-    soup = BeautifulSoup(response.text, "html.parser")
+    html = fetch_html(url)
+    soup = BeautifulSoup(html, "html.parser")
     candidates = [item for item in iter_jsonld(soup) if is_event_schema(item)]
     if not candidates:
         return None
@@ -305,13 +369,7 @@ def parse_event(url: str) -> ParsedEvent | None:
         item, soup, canonical_url, location, organizer, category, price, ticket_url
     )
 
-    last_modified = response.headers.get("Last-Modified")
-    try:
-        updated = dateparser.parse(last_modified) if last_modified else datetime.now(timezone.utc)
-    except Exception:
-        updated = datetime.now(timezone.utc)
-    if updated.tzinfo is None:
-        updated = updated.replace(tzinfo=timezone.utc)
+    updated = datetime.now(timezone.utc)
 
     return ParsedEvent(title, start, end, location, latitude, longitude, plain_desc, html_desc,
                        canonical_url, img, organizer, category, price, ticket_url, updated)
@@ -379,29 +437,32 @@ def build_calendar(events: list[ParsedEvent]) -> bytes:
 
 def main() -> int:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    links = discover_event_links()
-    print(f"Discovered {len(links)} event pages")
-    events: list[ParsedEvent] = []
-    failures = 0
-    for index, url in enumerate(links, 1):
-        try:
-            parsed = parse_event(url)
-            if parsed:
-                events.append(parsed)
-            else:
+    try:
+        links = discover_event_links()
+        print(f"Discovered {len(links)} event pages")
+        events: list[ParsedEvent] = []
+        failures = 0
+        for index, url in enumerate(links, 1):
+            try:
+                parsed = parse_event(url)
+                if parsed:
+                    events.append(parsed)
+                else:
+                    failures += 1
+                    print(f"WARN no Event JSON-LD: {url}", file=sys.stderr)
+            except Exception as exc:
                 failures += 1
-                print(f"WARN no Event JSON-LD: {url}", file=sys.stderr)
-        except Exception as exc:
-            failures += 1
-            print(f"WARN failed {url}: {exc}", file=sys.stderr)
-        if index % 20 == 0:
-            print(f"Processed {index}/{len(links)}")
-        time.sleep(REQUEST_DELAY)
-    if not events:
-        raise RuntimeError("No events were parsed; existing calendar was left unchanged")
-    OUTPUT.write_bytes(build_calendar(events))
-    print(f"Wrote {len(events)} events to {OUTPUT} ({failures} skipped)")
-    return 0
+                print(f"WARN failed {url}: {exc}", file=sys.stderr)
+            if index % 20 == 0:
+                print(f"Processed {index}/{len(links)}")
+            time.sleep(REQUEST_DELAY)
+        if not events:
+            raise RuntimeError("No events were parsed; existing calendar was left unchanged")
+        OUTPUT.write_bytes(build_calendar(events))
+        print(f"Wrote {len(events)} events to {OUTPUT} ({failures} skipped)")
+        return 0
+    finally:
+        close_browser()
 
 
 if __name__ == "__main__":
