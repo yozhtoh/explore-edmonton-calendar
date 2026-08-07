@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Street Car Cask Series
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:fbf9f2110ed2bb3ef7a03379d0c1735d@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/refere
  nce/High-Level-Streetcar-11.JPG
@@ -30,7 +30,7 @@ DESCRIPTION:Local brews and stunning views!\n\nHop aboard the excitement o
  idge Street Car\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.th
  ecommon.ca/street-cars\nExplore Edmonton: https://exploreedmonton.com/even
  t-calendar/street-car-cask-series
-LAST-MODIFIED:20260807T175729Z
+LAST-MODIFIED:20260807T181932Z
 LOCATION:High Level Bridge Street Car\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilations Dinner Theatre: Golden Girls Vegas Vacation
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:758faa5ae7b1f075de1cf91141ec55b1@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/IMG_78
  39.JPG
@@ -72,11 +72,12 @@ DESCRIPTION:The Golden Girls are headed to Vegas!\n\nEveryone’s favourit
  through the years.\n\nTake in the excitement (and stunning live vocals) wh
  ile you enjoy a delicious multi-course meal served by an incredible cast o
  f character servers. It’s a live show\, so anything could happen. Play a
- long and the actors might just include you in the act!\n\nEVENT INFORMATIO
- N\nLocation: Jubilations Dinner Theatre - 8882 170 St\, Edmonton\, Alberta
- \, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/golden
- -girls-vegas-vacation
-LAST-MODIFIED:20260807T175715Z
+ long and the actors might just include you in the act!\n\nYour guide to ce
+ lebrating National Indigenous History Month in Edmonton\n\nEVENT INFORMATI
+ ON\nLocation: Jubilations Dinner Theatre - 8882 170 St\, Edmonton\, Albert
+ a\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/golde
+ n-girls-vegas-vacation
+LAST-MODIFIED:20260807T181917Z
 LOCATION:Jubilations Dinner Theatre - 8882 170 St\, Edmonton\, Alberta\, C
  A
 STATUS:CONFIRMED
@@ -92,17 +93,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p>The Golden Girls are headed to Vegas!</p><
  d stunning live vocals) while you enjoy a delicious multi-course meal serv
  ed by an incredible cast of character servers. It’s a live show\, so any
  thing could happen. Play along and the actors might just include you in th
- e act!</p><h3>Event Information</h3><ul><li><strong>Location:</strong> Jub
- ilations Dinner Theatre - 8882 170 St\, Edmonton\, Alberta\, CA</li><li><s
- trong>Explore Edmonton:</strong> https://exploreedmonton.com/event-calenda
- r/golden-girls-vegas-vacation</li></ul>
+ e act!</p><p>Your guide to celebrating National Indigenous History Month i
+ n Edmonton</p><h3>Event Information</h3><ul><li><strong>Location:</strong>
+  Jubilations Dinner Theatre - 8882 170 St\, Edmonton\, Alberta\, CA</li><l
+ i><strong>Explore Edmonton:</strong> https://exploreedmonton.com/event-cal
+ endar/golden-girls-vegas-vacation</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/IMG_7839.JPG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:a566822cf1636a47c123c5686d394d47@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -114,14 +116,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -134,15 +136,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -151,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:08f5b1db20cdc2ebfabf32c8bfbac546@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -163,14 +165,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -183,15 +185,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -200,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:e5bcf65b43a8504d17c73f1e1d92b4d8@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -212,14 +214,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -232,15 +234,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -249,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:d06aaf42c18b9ab18f1f4759f621e7e8@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -261,14 +263,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -281,15 +283,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -298,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:0b1c0e088bac4b52cdce1bbbe1339a7e@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -310,14 +312,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -330,15 +332,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -347,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:e5cd5e7363e929f339e4f7d4c416e27e@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -359,14 +361,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -379,15 +381,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -396,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20260729T110000
 DTEND;TZID=America/Edmonton:20260729T180000
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:52ac2c27c90867c48dd50d9d0d53519d@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/galler
  y/Edmonton_Downtown_ICE-District-1_2026-06-09-171011_powb.jpg
@@ -415,7 +417,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  berta\, CA\nVisit / Tickets: https://www.cpkcwomensopen.com/\nExplore Edmo
  nton: https://exploreedmonton.com/event-calendar/cpkc-womens-open-golf-day
  s-in-the-ice-district
-LAST-MODIFIED:20260807T175706Z
+LAST-MODIFIED:20260807T181908Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -446,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:bd99de366ba4090979dd59bf09d3b684@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -458,14 +460,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -478,15 +480,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -495,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Hlinka Gretzky Cup
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:179197c46ce084806c397c1e3474a0f0@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/EE_Hli
  nkaGretzkyCup2024_0068-large-3.jpg
@@ -508,10 +510,11 @@ DESCRIPTION:Cheer on the future of hockey!\n\nThis summer\, see some of th
  d Juniors were Hlinka Gretzky Cup alumni. National teams from Canada\, USA
  \, Sweden\, Switzerland\, and more will put their skates on the ice at Rog
  ers Place to win this year's Hlinka Gretzky Cup. Don't miss it this August
- !\n\nEVENT INFORMATION\nLocation: Rogers Place - 10220 104 Ave NW\, Edmont
- on\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-cal
- endar/2026-hlinkagretzkycup
-LAST-MODIFIED:20260807T175656Z
+ !\n\nYour guide to celebrating National Indigenous History Month in Edmont
+ on\n\nEVENT INFORMATION\nLocation: Rogers Place - 10220 104 Ave NW\, Edmon
+ ton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-ca
+ lendar/2026-hlinkagretzkycup
+LAST-MODIFIED:20260807T181857Z
 LOCATION:Rogers Place - 10220 104 Ave NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -525,57 +528,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Cheer on the future of hockey!</p><p>This
  e Leaf at the 2026 World Juniors were Hlinka Gretzky Cup alumni. National 
  teams from Canada\, USA\, Sweden\, Switzerland\, and more will put their s
  kates on the ice at Rogers Place to win this year&#x27\;s Hlinka Gretzky C
- up. Don&#x27\;t miss it this August!</p><h3>Event Information</h3><ul><li>
- <strong>Location:</strong> Rogers Place - 10220 104 Ave NW\, Edmonton\, Al
- berta\, CA</li><li><strong>Explore Edmonton:</strong> https://exploreedmon
- ton.com/event-calendar/2026-hlinkagretzkycup</li></ul>
+ up. Don&#x27\;t miss it this August!</p><p>Your guide to celebrating Natio
+ nal Indigenous History Month in Edmonton</p><h3>Event Information</h3><ul>
+ <li><strong>Location:</strong> Rogers Place - 10220 104 Ave NW\, Edmonton\
+ , Alberta\, CA</li><li><strong>Explore Edmonton:</strong> https://exploree
+ dmonton.com/event-calendar/2026-hlinkagretzkycup</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/EE_HlinkaGretzkyCup2024_
  0068-large-3.jpg
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Nature Night: Movement in Nature
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-DTSTAMP:20260807T175736Z
-UID:0115b962711c39c467d9a1debdf1e620@explore-edmonton-calendar
-ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Emily-
- Hayes-FNW-May-24-2026-5-1.jpg
-DESCRIPTION:Experience free\, family-friendly fun!\n\nGet moving and groov
- e with nature-inspired activities around the John Walter Museum in Edmonto
- n’s Kinsmen Park! Join City of Edmonton Nature Interpreters\, the Invasi
- ve Plant Outreach Program\, and the City Arts Centre for engaging\, moveme
- nt-based experiences that connect you with the outdoors through exploratio
- n\, creativity\, and fun!\n\nEVENT INFORMATION\nLocation: John Walter Muse
- um - 9180 Walterdale Hill\, Edmonton\, Alberta\, CA\nVisit / Tickets: http
- s://naturealberta.ca/fnn-movement-in-nature/\nExplore Edmonton: https://ex
- ploreedmonton.com/event-calendar/family-nature-night-movement-in-nature
-LAST-MODIFIED:20260807T175712Z
-LOCATION:John Walter Museum - 9180 Walterdale Hill\, Edmonton\, Alberta\, 
- CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/family-nature-night-movemen
- t-in-nature
-X-ALT-DESC;FMTTYPE=text/html:<p>Experience free\, family-friendly fun!</p>
- <p>Get moving and groove with nature-inspired activities around the John W
- alter Museum in Edmonton’s Kinsmen Park! Join City of Edmonton Nature In
- terpreters\, the Invasive Plant Outreach Program\, and the City Arts Centr
- e for engaging\, movement-based experiences that connect you with the outd
- oors through exploration\, creativity\, and fun!</p><h3>Event Information<
- /h3><ul><li><strong>Location:</strong> John Walter Museum - 9180 Walterdal
- e Hill\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Tickets:</strong>
-  https://naturealberta.ca/fnn-movement-in-nature/</li><li><strong>Explore 
- Edmonton:</strong> https://exploreedmonton.com/event-calendar/family-natur
- e-night-movement-in-nature</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Emily-Hayes-FNW-May-24-2
- 026-5-1.jpg
-X-TICKETS-URL:https://naturealberta.ca/fnn-movement-in-nature/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20260805T110000
 DTEND;TZID=America/Edmonton:20260805T180000
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:9d2a423ea080e75eed625c0cf740d961@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/galler
  y/Edmonton_Downtown_ICE-District-1_2026-06-09-171011_powb.jpg
@@ -594,7 +559,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  berta\, CA\nVisit / Tickets: https://www.cpkcwomensopen.com/\nExplore Edmo
  nton: https://exploreedmonton.com/event-calendar/cpkc-womens-open-golf-day
  s-in-the-ice-district
-LAST-MODIFIED:20260807T175706Z
+LAST-MODIFIED:20260807T181908Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -625,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Folk Music Festival
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:ed512d4d61579b3a6e56fb34e0bae1ed@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-International-Folk-Music-Festival_17-large.jpg
@@ -649,7 +614,7 @@ DESCRIPTION:A dizzying four days of music and great food in a stellar sett
  : Gallagher Park - 9505 96 Ave\, Edmonton\, Alberta\, CA\nVisit / Tickets:
   https://edmontonfolkfest.org\nExplore Edmonton: https://exploreedmonton.c
  om/event-calendar/edmonton-folk-music-festival
-LAST-MODIFIED:20260807T175710Z
+LAST-MODIFIED:20260807T181911Z
 LOCATION:Gallagher Park - 9505 96 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -682,54 +647,10 @@ X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Interna
 X-TICKETS-URL:https://edmontonfolkfest.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Von Bieker - Servus Patio Series Concert
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260807
-DTSTAMP:20260807T175736Z
-UID:6f82c946743f53bde84cc30f99e6f12c@explore-edmonton-calendar
-ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/listin
- gs/Edmonton_Attraction_La-Cite-Francophone-Cafe-Bicyclette_Patio-Series-01
- .jpg
-DESCRIPTION:Kick off August in the best way!\n\nHis thoughtful lyrics\, ca
- ptivating live performances\, and signature collection of bow ties have ea
- rned Von Bieker a rapidly growing fanbase drawn to authenticity and connec
- tion. Blending the guitar-driven grooves of Bahamas with raw emotional int
- ensity and an unmistakable sense of playful charm\, Von Bieker delivers so
- ngs that are both deeply heartfelt and irresistibly memorable. With every 
- performance\, he invites audiences into a world where vulnerability\, joy\
- , and masterful songwriting come together to create an unforgettable live 
- experience.\n\nEVENT INFORMATION\nLocation: La Cité francophone - 8627 Ru
- e Marie-Anne Gaboury 91e Rue\, Edmonton\, Alberta\, CA\nExplore Edmonton: 
- https://exploreedmonton.com/event-calendar/von-bieker-servus-patio-series-
- concert-la-cite-francophone
-LAST-MODIFIED:20260807T175734Z
-LOCATION:La Cité francophone - 8627 Rue Marie-Anne Gaboury 91e Rue\, Edmo
- nton\, Alberta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/von-bieker-servus-patio-ser
- ies-concert-la-cite-francophone
-X-ALT-DESC;FMTTYPE=text/html:<p>Kick off August in the best way!</p><p>His
-  thoughtful lyrics\, captivating live performances\, and signature collect
- ion of bow ties have earned Von Bieker a rapidly growing fanbase drawn to 
- authenticity and connection. Blending the guitar-driven grooves of Bahamas
-  with raw emotional intensity and an unmistakable sense of playful charm\,
-  Von Bieker delivers songs that are both deeply heartfelt and irresistibly
-  memorable. With every performance\, he invites audiences into a world whe
- re vulnerability\, joy\, and masterful songwriting come together to create
-  an unforgettable live experience.</p><h3>Event Information</h3><ul><li><s
- trong>Location:</strong> La Cité francophone - 8627 Rue Marie-Anne Gabour
- y 91e Rue\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonton:</str
- ong> https://exploreedmonton.com/event-calendar/von-bieker-servus-patio-se
- ries-concert-la-cite-francophone</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/listings/Edmonton_Attrac
- tion_La-Cite-Francophone-Cafe-Bicyclette_Patio-Series-01.jpg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cariwest Caribbean Arts Festival
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:af261f2d9fb4e75962715a78681671d6@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/listin
  gs/Cariwest-Caribbean-Arts-Festival_A-large-group-dances-and-waves-colourf
@@ -751,7 +672,7 @@ DESCRIPTION:Don't miss three party-filled days of Caribbean culture in the
  n't want to miss this!\n\nEVENT INFORMATION\nLocation: Sir Winston Churchi
  ll Square\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmo
  nton.com/event-calendar/cariwest-caribbean-arts-festival
-LAST-MODIFIED:20260807T175704Z
+LAST-MODIFIED:20260807T181905Z
 LOCATION:Sir Winston Churchill Square\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -784,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:Farm to Flame Dinner at The Old Red Barn
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:47abb219ccc5ee84362a13e3cb6ccda9@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/old-re
  d-barn2.jpg
@@ -798,7 +719,7 @@ DESCRIPTION:Meet your farmer and taste the story behind every dish.\n\nExp
  r purchase!\n\nEVENT INFORMATION\nLocation: The Old Red Barn - 25518 Towns
  hip Road 490\, Leduc County\, Alberta\, CA\nExplore Edmonton: https://expl
  oreedmonton.com/event-calendar/farm-to-flame-dinner-august7
-LAST-MODIFIED:20260807T175713Z
+LAST-MODIFIED:20260807T181915Z
 LOCATION:The Old Red Barn - 25518 Township Road 490\, Leduc County\, Alber
  ta\, CA
 STATUS:CONFIRMED
@@ -823,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:AC/DC: Power Up Tour Pop-Up Event
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:f4658908e6022f94b41af439d0374882@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/JumpIn
  toJUNOS-StarliteRoom-3.jpg
@@ -837,7 +758,7 @@ DESCRIPTION:Get ready to rock this summer!\n\nAhead of AC/DC's Edmonton st
  RMATION\nLocation: Starlite Room - 10030 102 St NW\, Edmonton\, Alberta\, 
  CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/ac-dc-pow
  er-up-pop-up
-LAST-MODIFIED:20260807T175657Z
+LAST-MODIFIED:20260807T181858Z
 LOCATION:Starlite Room - 10030 102 St NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -860,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:Afternoon Sound Sessions on 124
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:0adc716c71560b546d936dff8f81f3b4@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Aftern
  oonSoundSessions.JPG
@@ -871,7 +792,7 @@ DESCRIPTION:Feel the beat of 124 Street!\n\nSpend your Saturday afternoon
  , CA\nVisit / Tickets: https://124street.ca/event/afternoon-sound-sessions
  -on-124/\nExplore Edmonton: https://exploreedmonton.com/event-calendar/aft
  ernoon-sound-sessions-on-124-aug8
-LAST-MODIFIED:20260807T175659Z
+LAST-MODIFIED:20260807T181859Z
 LOCATION:Various locations - 124 Street\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -894,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:Chinatown Classic: 9-Man Volleyball Festival
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:65d39064a37aae3765b43cc2079f5006@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/202606
  06-XUANWU9MANVB-342.jpg
@@ -922,7 +843,7 @@ DESCRIPTION:Be part of sporting history!\n\nThis August\, Edmonton's China
  ween 105-106 Avenue\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://e
  xploreedmonton.com/event-calendar/chinatown-classic-9-man-volleyball-festi
  val
-LAST-MODIFIED:20260807T175704Z
+LAST-MODIFIED:20260807T181905Z
 LOCATION:Chinatown Courts\, 98 Street\, between 105-106 Avenue\, Edmonton\
  , Alberta\, CA
 STATUS:CONFIRMED
@@ -962,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:Kid Market
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:cea7317ef4a3f9049e1bc9cc0da1cda4@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DJI_03
  99-medium-1.jpg
@@ -974,7 +895,7 @@ DESCRIPTION:Come shop\, explore\, and celebrate the creativity of Edmonton
  ere - 6004 Currents Dr\, Edmonton\, Alberta\, CA\nVisit / Tickets: https:/
  /shopcurrents.ca/kid-market-2/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/kid-market
-LAST-MODIFIED:20260807T175719Z
+LAST-MODIFIED:20260807T181922Z
 LOCATION:Currents of Windermere - 6004 Currents Dr\, Edmonton\, Alberta\, 
  CA
 STATUS:CONFIRMED
@@ -996,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:Music on Stony Plain Road
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:da610fd2213500b79414d60c0e783f3b@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/SPR-MO
  TR-July-11.JPG
@@ -1012,7 +933,7 @@ DESCRIPTION:From folk to funk\, every Saturday brings something new!\n\nMu
  Rd\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://stonyplainroad.com/
  music-on-stony-plain-road-2026/\nExplore Edmonton: https://exploreedmonton
  .com/event-calendar/music-on-stony-plain-road-august8
-LAST-MODIFIED:20260807T175723Z
+LAST-MODIFIED:20260807T181926Z
 LOCATION:ch. Cafeteria - 14802 Stony Plain Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1039,7 +960,7 @@ BEGIN:VEVENT
 SUMMARY:Pride Pop-Up Screening
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:851521f7b014b967052c98ec84d225fa@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DSC074
  71.jpeg
@@ -1050,13 +971,12 @@ DESCRIPTION:Celebrate Queer filmmakers\, artists\, and performers this Aug
  w creatives in a welcoming and inclusive space.\n\nAttendees are invited t
  o bring their friends\, support Edmonton’s Queer creative community\, an
  d celebrate together. Each ticket includes a complimentary beer and delici
- ous food from some of Edmonton’s favourite local businesses.\n\nYour gui
- de to celebrating National Indigenous History Month in Edmonton\n\nEVENT I
- NFORMATION\nLocation: 11726 95 St\, Edmonton\, Alberta\, CA\nVisit / Ticke
- ts: https://www.eventbrite.ca/e/pride-pop-up-screening-tickets-19909824170
- 05?aff=oddtdtcreator\nExplore Edmonton: https://exploreedmonton.com/event-
- calendar/pride-pop-up-film-screening
-LAST-MODIFIED:20260807T175725Z
+ ous food from some of Edmonton’s favourite local businesses.\n\nEVENT IN
+ FORMATION\nLocation: 11726 95 St\, Edmonton\, Alberta\, CA\nVisit / Ticket
+ s: https://www.eventbrite.ca/e/pride-pop-up-screening-tickets-199098241700
+ 5?aff=oddtdtcreator\nExplore Edmonton: https://exploreedmonton.com/event-c
+ alendar/pride-pop-up-film-screening
+LAST-MODIFIED:20260807T181928Z
 LOCATION:11726 95 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1069,13 +989,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Celebrate Queer filmmakers\, artists\, and
  <p>Attendees are invited to bring their friends\, support Edmonton’s Que
  er creative community\, and celebrate together. Each ticket includes a com
  plimentary beer and delicious food from some of Edmonton’s favourite loc
- al businesses.</p><p>Your guide to celebrating National Indigenous History
-  Month in Edmonton</p><h3>Event Information</h3><ul><li><strong>Location:<
- /strong> 11726 95 St\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Tic
- kets:</strong> https://www.eventbrite.ca/e/pride-pop-up-screening-tickets-
- 1990982417005?aff=oddtdtcreator</li><li><strong>Explore Edmonton:</strong>
-  https://exploreedmonton.com/event-calendar/pride-pop-up-film-screening</l
- i></ul>
+ al businesses.</p><h3>Event Information</h3><ul><li><strong>Location:</str
+ ong> 11726 95 St\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Tickets
+ :</strong> https://www.eventbrite.ca/e/pride-pop-up-screening-tickets-1990
+ 982417005?aff=oddtdtcreator</li><li><strong>Explore Edmonton:</strong> htt
+ ps://exploreedmonton.com/event-calendar/pride-pop-up-film-screening</li></
+ ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/DSC07471.jpeg
 X-TICKETS-URL:https://www.eventbrite.ca/e/pride-pop-up-screening-tickets-1
  990982417005?aff=oddtdtcreator
@@ -1084,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:Rutherford House - Domestic Science
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:ef47177d50a0862fc077799572011d48@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/RH_014
  7-Web-Publication.jpg
@@ -1092,11 +1011,12 @@ DESCRIPTION:Free with regular admission!\n\nVisit Rutherford House this we
  ekend to learn about the vital roles women played in the Edwardian period.
   Explore the life of the Rutherford House maid\, wash clothes “1915 styl
  e\,” and help bake cookies using one of Mrs. Rutherford’s beloved reci
- pes!\n\nEVENT INFORMATION\nLocation: Rutherford House - 11153 Saskatchewan
-  Dr\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://rutherfordhouse.ca
- /domestic-science-0\nExplore Edmonton: https://exploreedmonton.com/event-c
- alendar/rutherford-house-domestic-science
-LAST-MODIFIED:20260807T175727Z
+ pes!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nLocation: Ru
+ therford House - 11153 Saskatchewan Dr\, Edmonton\, Alberta\, CA\nVisit / 
+ Tickets: https://rutherfordhouse.ca/domestic-science-0\nExplore Edmonton: 
+ https://exploreedmonton.com/event-calendar/rutherford-house-domestic-scien
+ ce
+LAST-MODIFIED:20260807T181930Z
 LOCATION:Rutherford House - 11153 Saskatchewan Dr\, Edmonton\, Alberta\, C
  A
 STATUS:CONFIRMED
@@ -1107,12 +1027,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Free with regular admission!</p><p>Visit R
  utherford House this weekend to learn about the vital roles women played i
  n the Edwardian period. Explore the life of the Rutherford House maid\, wa
  sh clothes “1915 style\,” and help bake cookies using one of Mrs. Ruth
- erford’s beloved recipes!</p><h3>Event Information</h3><ul><li><strong>L
- ocation:</strong> Rutherford House - 11153 Saskatchewan Dr\, Edmonton\, Al
- berta\, CA</li><li><strong>Visit / Tickets:</strong> https://rutherfordhou
- se.ca/domestic-science-0</li><li><strong>Explore Edmonton:</strong> https:
- //exploreedmonton.com/event-calendar/rutherford-house-domestic-science</li
- ></ul>
+ erford’s beloved recipes!</p><p>October is Queer History Month!</p><h3>E
+ vent Information</h3><ul><li><strong>Location:</strong> Rutherford House -
+  11153 Saskatchewan Dr\, Edmonton\, Alberta\, CA</li><li><strong>Visit / T
+ ickets:</strong> https://rutherfordhouse.ca/domestic-science-0</li><li><st
+ rong>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar
+ /rutherford-house-domestic-science</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/RH_0147-Web-Publication.
  jpg
 X-TICKETS-URL:https://rutherfordhouse.ca/domestic-science-0
@@ -1121,7 +1041,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:b3b992430b3f16a65c3d6855610d8cec@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -1133,14 +1053,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1153,15 +1073,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -1170,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:AC/DC: Power Up Tour
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:cf036bdc8670c498169e7ba5ab46dd9a@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Common
  wealth-Elks_Edmonton.jpg
@@ -1186,7 +1106,7 @@ DESCRIPTION:Get ready to rock this summer!\n\nYour summer just got way mor
  to the public.\n\nEVENT INFORMATION\nLocation: Commonwealth Stadium - 1100
  0 Stadium Rd\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploree
  dmonton.com/event-calendar/ac-dc-power-up-tour
-LAST-MODIFIED:20260807T175658Z
+LAST-MODIFIED:20260807T181858Z
 LOCATION:Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1211,7 +1131,7 @@ BEGIN:VEVENT
 SUMMARY:Hot August Night
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:290ca66a3a61cb9751d2c6fd4fdd50b8@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Archiv
  e/Edmonton_Downtown-skyline_Summer.jpg
@@ -1226,7 +1146,7 @@ DESCRIPTION:Nonstop action guaranteed!\n\nMidas Hot August Night is back a
  he Jet Car Fire and Fireworks Finale!\n\nEVENT INFORMATION\nLocation: RAD 
  Torque Raceway - 50342 Range Rd 253\, Edmonton\, Alberta\, CA\nExplore Edm
  onton: https://exploreedmonton.com/event-calendar/hot-august-night
-LAST-MODIFIED:20260807T175716Z
+LAST-MODIFIED:20260807T181918Z
 LOCATION:RAD Torque Raceway - 50342 Range Rd 253\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1251,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:Solar Eclipse Viewing at the RASC Observatory
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:6dc8a605c46d79527dfa33140ae2728a@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Event-
  1-Solar-Eclipse-1.jpg
@@ -1266,7 +1186,7 @@ DESCRIPTION:Witness a celestial spectacle!\n\nCalling all space enthusiast
  explore/experiences/look-edmonton-eclipse-viewing/\nExplore Edmonton: http
  s://exploreedmonton.com/event-calendar/solar-eclipse-viewing-at-the-rasc-o
  bservatory
-LAST-MODIFIED:20260807T175728Z
+LAST-MODIFIED:20260807T181931Z
 LOCATION:TELUS World of Science - Edmonton\, 11211 142 St\, Edmonton\, Alb
  erta\, CA
 STATUS:CONFIRMED
@@ -1294,7 +1214,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20260812T110000
 DTEND;TZID=America/Edmonton:20260812T180000
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:a750d84520c8855324259a8ccf720062@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/galler
  y/Edmonton_Downtown_ICE-District-1_2026-06-09-171011_powb.jpg
@@ -1313,7 +1233,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  berta\, CA\nVisit / Tickets: https://www.cpkcwomensopen.com/\nExplore Edmo
  nton: https://exploreedmonton.com/event-calendar/cpkc-womens-open-golf-day
  s-in-the-ice-district
-LAST-MODIFIED:20260807T175706Z
+LAST-MODIFIED:20260807T181908Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1344,7 +1264,7 @@ BEGIN:VEVENT
 SUMMARY:Calvin Vollrath and Friends - Servus Patio Series
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:6bac2f12027ae9bfcc417410ecb10710@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/listin
  gs/Edmonton_Attraction_La-Cite-Francophone-Cafe-Bicyclette_Patio-Series-01
@@ -1357,7 +1277,7 @@ DESCRIPTION:Bring your dancing shoes - the dance floor will be waiting!\n\
  FORMATION\nLocation: La Cité francophone - 8627 Rue Marie-Anne Gaboury 91
  e Rue\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton
  .com/event-calendar/calvin-vollrath-and-friends-servus-patio-series
-LAST-MODIFIED:20260807T175703Z
+LAST-MODIFIED:20260807T181904Z
 LOCATION:La Cité francophone - 8627 Rue Marie-Anne Gaboury 91e Rue\, Edmo
  nton\, Alberta\, CA
 STATUS:CONFIRMED
@@ -1381,17 +1301,18 @@ BEGIN:VEVENT
 SUMMARY:Daniel Caesar: Son Of Spergy Tour
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:84d6cc7fe5c9b4c04c5a850b14d91dd0@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Attractions_Rogers-Place_Exterior.jpg
 DESCRIPTION:Daniel Caesar is headed to Edmonton this August!\n\nDaniel Cae
  sar is bringing his Son Of Spergy Tour to Edmonton! With special guest 070
   Shake\, get ready for a night of incredible music\, and even better vibes
- .\n\nEVENT INFORMATION\nLocation: Rogers Place - 10220 104 Ave\, Edmonton\
- , Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calend
- ar/daniel-caesar-son-of-spergy-tour
-LAST-MODIFIED:20260807T175707Z
+ .\n\nYour guide to celebrating National Indigenous History Month in Edmont
+ on\n\nEVENT INFORMATION\nLocation: Rogers Place - 10220 104 Ave\, Edmonton
+ \, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calen
+ dar/daniel-caesar-son-of-spergy-tour
+LAST-MODIFIED:20260807T181908Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1400,10 +1321,11 @@ URL:https://exploreedmonton.com/event-calendar/daniel-caesar-son-of-spergy
 X-ALT-DESC;FMTTYPE=text/html:<p>Daniel Caesar is headed to Edmonton this A
  ugust!</p><p>Daniel Caesar is bringing his Son Of Spergy Tour to Edmonton!
   With special guest 070 Shake\, get ready for a night of incredible music\
- , and even better vibes.</p><h3>Event Information</h3><ul><li><strong>Loca
- tion:</strong> Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA</li>
- <li><strong>Explore Edmonton:</strong> https://exploreedmonton.com/event-c
- alendar/daniel-caesar-son-of-spergy-tour</li></ul>
+ , and even better vibes.</p><p>Your guide to celebrating National Indigeno
+ us History Month in Edmonton</p><h3>Event Information</h3><ul><li><strong>
+ Location:</strong> Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA<
+ /li><li><strong>Explore Edmonton:</strong> https://exploreedmonton.com/eve
+ nt-calendar/daniel-caesar-son-of-spergy-tour</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Edmonton_Attractions_Rog
  ers-Place_Exterior.jpg
 END:VEVENT
@@ -1411,7 +1333,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Fringe Festival
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:ecdebf2693b87f1a6bf2e47bfd2254c5@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Fringe
  -photo-by-Marc-Chalifoux-DSC_0925_work.jpg
@@ -1451,7 +1373,7 @@ DESCRIPTION:North America’s biggest and oldest Fringe Festival!\n\nThe E
  d Strathcona and Whyte Avenue\, Edmonton\, Alberta\, CA\nVisit / Tickets: 
  https://www.fringetheatre.ca/festival/\nExplore Edmonton: https://exploree
  dmonton.com/event-calendar/edmonton-fringe-festival
-LAST-MODIFIED:20260807T175710Z
+LAST-MODIFIED:20260807T181912Z
 LOCATION:Old Strathcona and Whyte Avenue\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1502,7 +1424,7 @@ BEGIN:VEVENT
 SUMMARY:Par-Tee at Victoria Golf Course Driving Range
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:acaea651f6727ce90463e7815d0c151a@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DJI_03
  31-large.jpg
@@ -1518,7 +1440,7 @@ DESCRIPTION:Experience an afternoon of free golf\, live music\, and delici
  ley Victoria\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.birdc
  reatives.com/par-tee\nExplore Edmonton: https://exploreedmonton.com/event-
  calendar/par-tee-at-victoria-golf-course-driving-range
-LAST-MODIFIED:20260807T175724Z
+LAST-MODIFIED:20260807T181927Z
 LOCATION:Victoria Golf Course Driving Range - River Valley Victoria\, Edmo
  nton\, Alberta\, CA
 STATUS:CONFIRMED
@@ -1546,7 +1468,7 @@ BEGIN:VEVENT
 SUMMARY:Props and Hops
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:d1c1c463459fb4f7b68d1d7e4be10e1c@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Props-
  and-Hops-July-15.jpg
@@ -1567,7 +1489,7 @@ DESCRIPTION:Gather around for an evening of camp-inspired fun\, craft beve
  erience\n\nEVENT INFORMATION\nLocation: Alberta Aviation Museum - 11410 Ki
  ngsway\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonto
  n.com/event-calendar/props-and-hops
-LAST-MODIFIED:20260807T175726Z
+LAST-MODIFIED:20260807T181929Z
 LOCATION:Alberta Aviation Museum - 11410 Kingsway\, Edmonton\, Alberta\, C
  A
 STATUS:CONFIRMED
@@ -1598,7 +1520,7 @@ BEGIN:VEVENT
 SUMMARY:Top Talent Wrestling ft. Chavo Guerrero
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:a3e6ff13080188c93651e8398892688e@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Ticket
  Master-Photo.jpg
@@ -1612,7 +1534,7 @@ DESCRIPTION:Nonstop action guaranteed!\n\nTop Talent Wrestling is bringing
  EVENT INFORMATION\nLocation: Midway Music Hall - 6107 104 Street\, Edmonto
  n\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-cale
  ndar/top-talent-wrestling-ft-chavo-guerrero
-LAST-MODIFIED:20260807T175734Z
+LAST-MODIFIED:20260807T181938Z
 LOCATION:Midway Music Hall - 6107 104 Street\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1635,7 +1557,7 @@ BEGIN:VEVENT
 SUMMARY:Afternoon Sound Sessions on 124
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:faa6c6ae82f99f66c8bc41c2a5c3d2be@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Aftern
  oonSoundSessions.JPG
@@ -1646,7 +1568,7 @@ DESCRIPTION:Feel the beat of 124 Street!\n\nSpend your Saturday afternoon
  ta\, CA\nVisit / Tickets: https://124street.ca/event/afternoon-sound-sessi
  ons-on-124/\nExplore Edmonton: https://exploreedmonton.com/event-calendar/
  afternoon-sound-sessions-on-124-aug15
-LAST-MODIFIED:20260807T175658Z
+LAST-MODIFIED:20260807T181858Z
 LOCATION:Various locations - 124 Street\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1669,7 +1591,7 @@ BEGIN:VEVENT
 SUMMARY:Custom Perfuming Workshop at Darling Wine Bar
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:b38c94715eaa23580604935a04dad2cb@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Darlin
  g_x_PURA_4_2048x2048.png
@@ -1683,7 +1605,7 @@ DESCRIPTION:Create a personalized scent inspired by summer.\n\nThis August
  mer experience.\n\nEVENT INFORMATION\nLocation: Darling - 9616 Whyte Ave\,
   Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/ev
  ent-calendar/custom-perfuming-workshop-at-darling-wine-bar
-LAST-MODIFIED:20260807T175707Z
+LAST-MODIFIED:20260807T181908Z
 LOCATION:Darling - 9616 Whyte Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1708,7 +1630,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Love & Unity Reggae Festival
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:f9631f77249e4f4fed6082e9014a49f4@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DJI_03
  99-medium-1.jpg
@@ -1730,7 +1652,7 @@ DESCRIPTION:Celebrate culture\, connection\, inclusivity and so much more
  at Rd\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://edmontonreggaefe
  stivalsociety.ca/\nExplore Edmonton: https://exploreedmonton.com/event-cal
  endar/edmonton-love-unity-reggae-festival
-LAST-MODIFIED:20260807T175710Z
+LAST-MODIFIED:20260807T181912Z
 LOCATION:Heritage Amphitheatre - William Hawrelak Park\, 9330 Groat Rd\, E
  dmonton\, Alberta\, CA
 STATUS:CONFIRMED
@@ -1764,7 +1686,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Mural Festival
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:a7405b343ac0c58922d9c5d1b49ce995@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DSC_76
  28.jpg
@@ -1782,7 +1704,7 @@ DESCRIPTION:Walls become canvases as the Edmonton Mural Festival returns f
  n\nEVENT INFORMATION\nLocation: Various locations\, Edmonton\, Alberta\, C
  A\nVisit / Tickets: https://www.edmontonmuralfest.com/\nExplore Edmonton: 
  https://exploreedmonton.com/event-calendar/edmonton-mural-festival
-LAST-MODIFIED:20260807T175710Z
+LAST-MODIFIED:20260807T181912Z
 LOCATION:Various locations\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1810,7 +1732,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Elks vs. Toronto Argonauts: Family Day
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:41f0ef8f4ebdce28f3b4bdcad1180d92@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Common
  wealth-Elks_Edmonton.jpg
@@ -1822,7 +1744,7 @@ DESCRIPTION:Country Night returns!\n\nThe Edmonton Elks take on the Toront
  ommonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA\nExplore 
  Edmonton: https://exploreedmonton.com/event-calendar/elks-vs-argonauts-aug
  15
-LAST-MODIFIED:20260807T175711Z
+LAST-MODIFIED:20260807T181913Z
 LOCATION:Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1843,7 +1765,7 @@ BEGIN:VEVENT
 SUMMARY:Farm to Fork at The Old Red Barn
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:cba3b0e1c8b926465df6cdb9f9da7970@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/OldRed
  Barn.leduc.jpg
@@ -1860,7 +1782,7 @@ DESCRIPTION:Good food\, great music\, and summer on the farm - all in cele
  able!\n\nEVENT INFORMATION\nLocation: The Old Red Barn - 25518 Township Ro
  ad 490\, Leduc County\, Alberta\, CA\nExplore Edmonton: https://exploreedm
  onton.com/event-calendar/farm-to-fork
-LAST-MODIFIED:20260807T175713Z
+LAST-MODIFIED:20260807T181915Z
 LOCATION:The Old Red Barn - 25518 Township Road 490\, Leduc County\, Alber
  ta\, CA
 STATUS:CONFIRMED
@@ -1886,7 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:Meteor Shower Watchparty
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:76638f0b21a8f454b978c0bebe80c9df@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/galler
  y/Edmonton_Southside_Saskatchewan-Drive-Lookout-Night.jpg
@@ -1914,7 +1836,7 @@ DESCRIPTION:Experience stargazing under the summer sky!\n\nThere are ancie
  4609da6f8f206c72c1821de8a0d50d6b367841b4404b844772bfc71ca35167b691cff0c782
  c01&aff=ebdsshios\nExplore Edmonton: https://exploreedmonton.com/event-cal
  endar/meteor-shower-watchparty
-LAST-MODIFIED:20260807T175722Z
+LAST-MODIFIED:20260807T181925Z
 LOCATION:20414 Township Rd 502 - 20414 Township Rd 502\, Kingman\, Alberta
  \, CA
 STATUS:CONFIRMED
@@ -1957,7 +1879,7 @@ BEGIN:VEVENT
 SUMMARY:Music on Stony Plain Road
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:ca2eba10b6c4766bcedc7571a8f2931f@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/SPR-MO
  TR-July-11.JPG
@@ -1973,7 +1895,7 @@ DESCRIPTION:From folk to funk\, every Saturday brings something new!\n\nMu
  lain Rd\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://stonyplainroad
  .com/music-on-stony-plain-road-2026/\nExplore Edmonton: https://exploreedm
  onton.com/event-calendar/music-on-stony-plain-road-august15
-LAST-MODIFIED:20260807T175723Z
+LAST-MODIFIED:20260807T181926Z
 LOCATION:Jasper Gates Plaza - 15020 Stony Plain Rd\, Edmonton\, Alberta\, 
  CA
 STATUS:CONFIRMED
@@ -2001,7 +1923,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:3b02252794072240646b14f8138952d8@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -2013,14 +1935,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2033,15 +1955,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -2050,7 +1972,7 @@ BEGIN:VEVENT
 SUMMARY:Servus Edmonton Marathon
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:eab1f261ace4b3e3f1081f0f94610d04@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/L5A578
  4-full.jpg
@@ -2067,7 +1989,7 @@ DESCRIPTION:This international race attracts thousands!\n\nLace-up your sn
  MATION\nLocation: 9797 Jasper Ave\, Edmonton\, Alberta\, T5J 1N9\, CA\nExp
  lore Edmonton: https://exploreedmonton.com/event-calendar/servus-edmonton-
  marathon
-LAST-MODIFIED:20260807T175728Z
+LAST-MODIFIED:20260807T181931Z
 LOCATION:9797 Jasper Ave\, Edmonton\, Alberta\, T5J 1N9\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2092,7 +2014,7 @@ BEGIN:VEVENT
 SUMMARY:Shinedown: Dance\, Kid\, Dance Act II
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:a189c468cef267b002a6da5cdf80355c@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/rogers
  -place-edmonton.jpg
@@ -2103,7 +2025,7 @@ DESCRIPTION:Shinedown is coming to Edmonton this summer!\n\nRock icons Shi
   to see them live in the city.\n\nEVENT INFORMATION\nLocation: Rogers Plac
  e - 10220 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exp
  loreedmonton.com/event-calendar/shinedown-dance-kid-dance-act-ii
-LAST-MODIFIED:20260807T175728Z
+LAST-MODIFIED:20260807T181931Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2125,7 +2047,7 @@ BEGIN:VEVENT
 SUMMARY:2026 CPKC Women's Open
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:bf23e6826770cadf337a2b5b21c9dfce@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Golfin
  g_3-large.jpg
@@ -2142,13 +2064,12 @@ DESCRIPTION:Edmonton’s on par for excitement as the LPGA Tour rolls in f
   and a chance to be part of something bigger. Thanks to the CPKC Has Heart
   program\, the event has raised over $23 million for pediatric heart healt
  h across Canada since 2014. Stay tuned for details on tickets\, volunteer 
- spots\, and hospitality packages.\n\nOctober is Queer History Month!\n\nEV
- ENT INFORMATION\nLocation: Royal Mayfair Golf Club - 9450 Groat Rd\, Edmon
- ton\, Alberta\, CA\nVisit / Tickets: https://www.cpkcwomensopen.com/2025/0
- 7/16/edmontons-royal-mayfair-golf-club-to-host-2026-cpkc-womens-open/\nExp
- lore Edmonton: https://exploreedmonton.com/event-calendar/2026-cpkc-womens
- -open
-LAST-MODIFIED:20260807T175656Z
+ spots\, and hospitality packages.\n\nEVENT INFORMATION\nLocation: Royal Ma
+ yfair Golf Club - 9450 Groat Rd\, Edmonton\, Alberta\, CA\nVisit / Tickets
+ : https://www.cpkcwomensopen.com/2025/07/16/edmontons-royal-mayfair-golf-c
+ lub-to-host-2026-cpkc-womens-open/\nExplore Edmonton: https://exploreedmon
+ ton.com/event-calendar/2026-cpkc-womens-open
+LAST-MODIFIED:20260807T181856Z
 LOCATION:Royal Mayfair Golf Club - 9450 Groat Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2166,13 +2087,13 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Edmonton’s on par for excitement as the
  ion\, electric crowds\, and a chance to be part of something bigger. Thank
  s to the CPKC Has Heart program\, the event has raised over $23 million fo
  r pediatric heart health across Canada since 2014. Stay tuned for details 
- on tickets\, volunteer spots\, and hospitality packages.</p><p>October is 
- Queer History Month!</p><h3>Event Information</h3><ul><li><strong>Location
- :</strong> Royal Mayfair Golf Club - 9450 Groat Rd\, Edmonton\, Alberta\, 
- CA</li><li><strong>Visit / Tickets:</strong> https://www.cpkcwomensopen.co
- m/2025/07/16/edmontons-royal-mayfair-golf-club-to-host-2026-cpkc-womens-op
- en/</li><li><strong>Explore Edmonton:</strong> https://exploreedmonton.com
- /event-calendar/2026-cpkc-womens-open</li></ul>
+ on tickets\, volunteer spots\, and hospitality packages.</p><h3>Event Info
+ rmation</h3><ul><li><strong>Location:</strong> Royal Mayfair Golf Club - 9
+ 450 Groat Rd\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Tickets:</s
+ trong> https://www.cpkcwomensopen.com/2025/07/16/edmontons-royal-mayfair-g
+ olf-club-to-host-2026-cpkc-womens-open/</li><li><strong>Explore Edmonton:<
+ /strong> https://exploreedmonton.com/event-calendar/2026-cpkc-womens-open<
+ /li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Golfing_3-large.jpg
 X-TICKETS-URL:https://www.cpkcwomensopen.com/2025/07/16/edmontons-royal-ma
  yfair-golf-club-to-host-2026-cpkc-womens-open/
@@ -2181,7 +2102,7 @@ BEGIN:VEVENT
 SUMMARY:Spill the T - Drag: Beyond the Performance
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:75f5e687645c279f4dfcb6acbca4241b@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/McDoug
  all-Hill-Lookout_A-view-of-the-Muttart-Conservatory-pyramids-and-the-Low-L
@@ -2203,12 +2124,11 @@ DESCRIPTION:A series of conversations\, stories\, and connections that cel
  presenters and other community representatives will host tables focused on
   the topics explored during the presentations. Attendees will have the opp
  ortunity to visit these tables\, ask questions\, and engage in meaningful 
- conversations with presenters and community representatives.\n\nOctober is
-  Queer History Month!\n\nEVENT INFORMATION\nLocation: Kirk Centre - 13535 
- 122 Ave\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://spillthetedm.c
- a/\nExplore Edmonton: https://exploreedmonton.com/event-calendar/spill-the
- -t-drag-beyond-the-performance
-LAST-MODIFIED:20260807T175728Z
+ conversations with presenters and community representatives.\n\nEVENT INFO
+ RMATION\nLocation: Kirk Centre - 13535 122 Ave\, Edmonton\, Alberta\, CA\n
+ Visit / Tickets: https://spillthetedm.ca/\nExplore Edmonton: https://explo
+ reedmonton.com/event-calendar/spill-the-t-drag-beyond-the-performance
+LAST-MODIFIED:20260807T181932Z
 LOCATION:Kirk Centre - 13535 122 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2232,12 +2152,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>A series of conversations\, stories\, and
  s will host tables focused on the topics explored during the presentations
  . Attendees will have the opportunity to visit these tables\, ask question
  s\, and engage in meaningful conversations with presenters and community r
- epresentatives.</p><p>October is Queer History Month!</p><h3>Event Informa
- tion</h3><ul><li><strong>Location:</strong> Kirk Centre - 13535 122 Ave\, 
- Edmonton\, Alberta\, CA</li><li><strong>Visit / Tickets:</strong> https://
- spillthetedm.ca/</li><li><strong>Explore Edmonton:</strong> https://explor
- eedmonton.com/event-calendar/spill-the-t-drag-beyond-the-performance</li><
- /ul>
+ epresentatives.</p><h3>Event Information</h3><ul><li><strong>Location:</st
+ rong> Kirk Centre - 13535 122 Ave\, Edmonton\, Alberta\, CA</li><li><stron
+ g>Visit / Tickets:</strong> https://spillthetedm.ca/</li><li><strong>Explo
+ re Edmonton:</strong> https://exploreedmonton.com/event-calendar/spill-the
+ -t-drag-beyond-the-performance</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/McDougall-Hill-Lookout_A
  -view-of-the-Muttart-Conservatory-pyramids-and-the-Low-Level-Bridge-with-s
  ome-pink-trees-in-the-foreground-medium.jpg
@@ -2247,7 +2166,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20260819T110000
 DTEND;TZID=America/Edmonton:20260819T180000
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:a8fc99b53aab4d8736e589676b847f16@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/galler
  y/Edmonton_Downtown_ICE-District-1_2026-06-09-171011_powb.jpg
@@ -2266,7 +2185,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  berta\, CA\nVisit / Tickets: https://www.cpkcwomensopen.com/\nExplore Edmo
  nton: https://exploreedmonton.com/event-calendar/cpkc-womens-open-golf-day
  s-in-the-ice-district
-LAST-MODIFIED:20260807T175706Z
+LAST-MODIFIED:20260807T181908Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2297,7 +2216,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Edmonton Dragon Festival
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:56a4ed8aee07a3f0fffb732073e365a7@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Photo1
  .png
@@ -2317,7 +2236,7 @@ DESCRIPTION:Live performances\, local cuisine\, and so much more await!\n\
  ickets: https://www.explorechinatownyeg.com/dragon-festival\nExplore Edmon
  ton: https://exploreedmonton.com/event-calendar/2026-edmonton-dragon-festi
  val
-LAST-MODIFIED:20260807T175656Z
+LAST-MODIFIED:20260807T181856Z
 LOCATION:Various Locations\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2347,7 +2266,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Elks vs. Winnipeg Blue Bombers: Country Night
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:e4bad5adf581a10aafedcb4b5c43bc3e@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton_Attractions_Elks_Football.png
@@ -2359,7 +2278,7 @@ DESCRIPTION:You know it and you love it... Campus Clash is back!\n\nDust o
  Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA\nExplore
   Edmonton: https://exploreedmonton.com/event-calendar/edmonton-elks-vs-win
  nipeg-blue-bombers-aug21
-LAST-MODIFIED:20260807T175709Z
+LAST-MODIFIED:20260807T181911Z
 LOCATION:Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2381,19 +2300,18 @@ BEGIN:VEVENT
 SUMMARY:Edmonton PRIDE Festival
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:5abfbcf641979bbf0a1e12d1fecae8a1@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Pride-
  market.JPG
 DESCRIPTION:Celebrate Pride in August!\n\nCelebrate love\, diversity\, and
   community at Edmonton's Pride Festival in ICE District this August. Enjoy
   live music\, incredible performances\, pop-up activations\, and some trul
- y incredible vibes as downtown comes alive with Pride celebrations!\n\nYou
- r guide to celebrating National Indigenous History Month in Edmonton\n\nEV
- ENT INFORMATION\nLocation: Fan Park\, 10104 104 Ave\, Edmonton\, Alberta\,
-  CA\nVisit / Tickets: https://edmontonpridefest.com/\nExplore Edmonton: ht
- tps://exploreedmonton.com/event-calendar/edmonton-pride-festival-2026
-LAST-MODIFIED:20260807T175711Z
+ y incredible vibes as downtown comes alive with Pride celebrations!\n\nEVE
+ NT INFORMATION\nLocation: Fan Park\, 10104 104 Ave\, Edmonton\, Alberta\, 
+ CA\nVisit / Tickets: https://edmontonpridefest.com/\nExplore Edmonton: htt
+ ps://exploreedmonton.com/event-calendar/edmonton-pride-festival-2026
+LAST-MODIFIED:20260807T181913Z
 LOCATION:Fan Park\, 10104 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2403,12 +2321,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Celebrate Pride in August!</p><p>Celebrate
   love\, diversity\, and community at Edmonton&#x27\;s Pride Festival in IC
  E District this August. Enjoy live music\, incredible performances\, pop-u
  p activations\, and some truly incredible vibes as downtown comes alive wi
- th Pride celebrations!</p><p>Your guide to celebrating National Indigenous
-  History Month in Edmonton</p><h3>Event Information</h3><ul><li><strong>Lo
- cation:</strong> Fan Park\, 10104 104 Ave\, Edmonton\, Alberta\, CA</li><l
- i><strong>Visit / Tickets:</strong> https://edmontonpridefest.com/</li><li
- ><strong>Explore Edmonton:</strong> https://exploreedmonton.com/event-cale
- ndar/edmonton-pride-festival-2026</li></ul>
+ th Pride celebrations!</p><h3>Event Information</h3><ul><li><strong>Locati
+ on:</strong> Fan Park\, 10104 104 Ave\, Edmonton\, Alberta\, CA</li><li><s
+ trong>Visit / Tickets:</strong> https://edmontonpridefest.com/</li><li><st
+ rong>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar
+ /edmonton-pride-festival-2026</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Pride-market.JPG
 X-TICKETS-URL:https://edmontonpridefest.com/
 END:VEVENT
@@ -2416,7 +2333,7 @@ BEGIN:VEVENT
 SUMMARY:MONSTER TRUCK THROWDOWN 2026
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:ed4d679b7c68a76438398a36511dd1c6@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/McDoug
  all-Hill-Lookout_A-view-of-the-Muttart-Conservatory-pyramids-and-the-Low-L
@@ -2433,7 +2350,7 @@ DESCRIPTION:Don’t miss your chance to be part of the action!\n\nGet read
  ay - 50342 Range Rd 253\, Edmonton International Airport\, Alberta\, CA\nE
  xplore Edmonton: https://exploreedmonton.com/event-calendar/monster-truck-
  throwdown-2026
-LAST-MODIFIED:20260807T175722Z
+LAST-MODIFIED:20260807T181925Z
 LOCATION:RAD Torque Raceway - 50342 Range Rd 253\, Edmonton International 
  Airport\, Alberta\, CA
 STATUS:CONFIRMED
@@ -2461,7 +2378,7 @@ BEGIN:VEVENT
 SUMMARY:Zoobrew Vol. 3
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:6aad67b1a49f0df0f81539d7f7f48adc@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/image0
  0023.jpeg
@@ -2480,7 +2397,7 @@ DESCRIPTION:Drink\, dine\, and dance at the final Zoobrew of the summer!\n
  EVENT INFORMATION\nLocation: Edmonton Valley Zoo - 13315 Buena Vista Rd\, 
  Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/eve
  nt-calendar/zoobrew-vol-3
-LAST-MODIFIED:20260807T175735Z
+LAST-MODIFIED:20260807T181939Z
 LOCATION:Edmonton Valley Zoo - 13315 Buena Vista Rd\, Edmonton\, Alberta\,
   CA
 STATUS:CONFIRMED
@@ -2508,7 +2425,7 @@ BEGIN:VEVENT
 SUMMARY:97th Running of the Canadian Derby
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:cd46ac3ebe5669bd17d56ab656fd481c@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/refere
  nce/AHP210911_2011.jpg
@@ -2528,7 +2445,7 @@ DESCRIPTION:Grab your tickets\, gather your crew\, and join the celebratio
   Derby.\n\nEVENT INFORMATION\nLocation: Century Mile Racetrack & Casino - 
  4711 Airport Perimeter Rd\, Edmonton\, Alberta\, CA\nExplore Edmonton: htt
  ps://exploreedmonton.com/event-calendar/97th-running-of-the-canadian-derby
-LAST-MODIFIED:20260807T175657Z
+LAST-MODIFIED:20260807T181857Z
 LOCATION:Century Mile Racetrack & Casino - 4711 Airport Perimeter Rd\, Edm
  onton\, Alberta\, CA
 STATUS:CONFIRMED
@@ -2560,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:Afternoon Sound Sessions on 124
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:688349c51a8809b5405d7ebac2dae0d3@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Aftern
  oonSoundSessions.JPG
@@ -2571,7 +2488,7 @@ DESCRIPTION:Feel the beat of 124 Street!\n\nSpend your Saturday afternoon
  ta\, CA\nVisit / Tickets: https://124street.ca/event/afternoon-sound-sessi
  ons-on-124/\nExplore Edmonton: https://exploreedmonton.com/event-calendar/
  afternoon-sound-sessions-on-124-aug22
-LAST-MODIFIED:20260807T175658Z
+LAST-MODIFIED:20260807T181859Z
 LOCATION:Various locations - 124 Street\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2594,7 +2511,7 @@ BEGIN:VEVENT
 SUMMARY:Farm to Flame Dinner at The Old Red Barn
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:15e48f9eeaafe4de6ff69caf60696991@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/redbar
  n4.jpg
@@ -2608,7 +2525,7 @@ DESCRIPTION:Meet your farmer and taste the story behind every dish.\n\nExp
  r purchase!\n\nEVENT INFORMATION\nLocation: The Old Red Barn - 25518 Towns
  hip Road 490\, Leduc County\, Alberta\, CA\nExplore Edmonton: https://expl
  oreedmonton.com/event-calendar/farm-to-flame-dinner-august22
-LAST-MODIFIED:20260807T175713Z
+LAST-MODIFIED:20260807T181915Z
 LOCATION:The Old Red Barn - 25518 Township Road 490\, Leduc County\, Alber
  ta\, CA
 STATUS:CONFIRMED
@@ -2633,7 +2550,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:952581173795c9bed483ee5448b0ad6f@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -2645,14 +2562,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2665,15 +2582,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -2682,27 +2599,29 @@ BEGIN:VEVENT
 SUMMARY:Guns N' Roses: World Tour 2026
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:11e48942c597646bd1604e17a6f5becb@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Common
  wealth-Elks_Edmonton.jpg
 DESCRIPTION:Turn up the volume this summer!\n\nMark your calendars because
   Guns N' Roses are headed to Commonwealth Stadium this summer for their hi
- ghly anticipated World Tour!\n\nEVENT INFORMATION\nLocation: Commonwealth 
- Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA\nExplore Edmonton: ht
- tps://exploreedmonton.com/event-calendar/guns-n-roses-2026
-LAST-MODIFIED:20260807T175715Z
+ ghly anticipated World Tour!\n\nYour guide to celebrating National Indigen
+ ous History Month in Edmonton\n\nEVENT INFORMATION\nLocation: Commonwealth
+  Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA\nExplore Edmonton: h
+ ttps://exploreedmonton.com/event-calendar/guns-n-roses-2026
+LAST-MODIFIED:20260807T181917Z
 LOCATION:Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://exploreedmonton.com/event-calendar/guns-n-roses-2026
 X-ALT-DESC;FMTTYPE=text/html:<p>Turn up the volume this summer!</p><p>Mark
   your calendars because Guns N&#x27\; Roses are headed to Commonwealth Sta
- dium this summer for their highly anticipated World Tour!</p><h3>Event Inf
- ormation</h3><ul><li><strong>Location:</strong> Commonwealth Stadium - 110
- 00 Stadium Rd\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonton:<
- /strong> https://exploreedmonton.com/event-calendar/guns-n-roses-2026</li>
- </ul>
+ dium this summer for their highly anticipated World Tour!</p><p>Your guide
+  to celebrating National Indigenous History Month in Edmonton</p><h3>Event
+  Information</h3><ul><li><strong>Location:</strong> Commonwealth Stadium -
+  11000 Stadium Rd\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmont
+ on:</strong> https://exploreedmonton.com/event-calendar/guns-n-roses-2026<
+ /li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Commonwealth-Elks_Edmont
  on.jpg
 END:VEVENT
@@ -2710,7 +2629,7 @@ BEGIN:VEVENT
 SUMMARY:Love Pro Wrestling x Clandestine Wrestling Society #39
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:4ba441966999becba6726e746ca57d69@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Reid-Y
  eets-Steven.jpg
@@ -2723,7 +2642,7 @@ DESCRIPTION:Chaos\, comebacks\, and Clandestine showdowns!\n\nJoin LPW for
  : https://www.tixr.com/groups/lovewrestling/events/lpw-x-cws-39-a-prequel-
  to-lpw-51--201581\nExplore Edmonton: https://exploreedmonton.com/event-cal
  endar/love-pro-wrestling-x-clandestinewrestling-society-39
-LAST-MODIFIED:20260807T175721Z
+LAST-MODIFIED:20260807T181923Z
 LOCATION:The Rec Room South Edmonton Common - 1725 99 St\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -2749,7 +2668,7 @@ BEGIN:VEVENT
 SUMMARY:Lunar Eclipse Viewing at the RASC Observatory
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:5476b55ad515248026a4f1d86d8b3fba@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Event-
  2-Lunar-Eclipse-2.jpeg
@@ -2763,7 +2682,7 @@ DESCRIPTION:The night sky is putting on a show!\n\nCalling all space enthu
  ts: https://telusworldofscienceedmonton.ca/explore/experiences/look-edmont
  on-eclipse-viewing/\nExplore Edmonton: https://exploreedmonton.com/event-c
  alendar/lunar-eclipse-viewing-at-the-rasc-observatory
-LAST-MODIFIED:20260807T175721Z
+LAST-MODIFIED:20260807T181924Z
 LOCATION:TELUS World of Science - Edmonton\, 11211 142 St\, Edmonton\, Alb
  erta\, CA
 STATUS:CONFIRMED
@@ -2791,7 +2710,7 @@ BEGIN:VEVENT
 SUMMARY:Royal Alberta Museum: How Do You Want To Be Remembered
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:5b715f9f4c8f5d7bd954b3a70e35a285@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/RAM_Cu
  ltureDays-1.jpg
@@ -2814,7 +2733,7 @@ DESCRIPTION:A conversation about the RAM's newest featured exhibition.\n\n
  cwMy4xNzU1ODE2MTkz*_ga_Z1WZ20G2X8*czE3ODQzMTU4MTIkbzM5JGcxJHQxNzg0MzE2MzM3
  JGo2MCRsMCRoMA..\nExplore Edmonton: https://exploreedmonton.com/event-cale
  ndar/royal-alberta-museum-in-conversation
-LAST-MODIFIED:20260807T175726Z
+LAST-MODIFIED:20260807T181929Z
 LOCATION:Royal Alberta Museum - 9810 103a Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2852,7 +2771,7 @@ BEGIN:VEVENT
 SUMMARY:Boots and Hearts West
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:4ed2d6824bc5dc73a68b0f15be22b4e1@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/DJI_0481.jpg
@@ -2863,7 +2782,7 @@ DESCRIPTION:Get ready for the ultimate August-sendoff!\n\nRepublic Live an
   Get ready for an exciting way to close out August!\n\nEVENT INFORMATION\n
  Location: Fan Park - 10104 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edmo
  nton: https://exploreedmonton.com/event-calendar/boots-and-hearts-west
-LAST-MODIFIED:20260807T175700Z
+LAST-MODIFIED:20260807T181901Z
 LOCATION:Fan Park - 10104 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2883,7 +2802,7 @@ BEGIN:VEVENT
 SUMMARY:Dîner en Blanc Edmonton
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:820c09d0357665a1eb8d2c64c87b864f@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on-Cityscape-Summer-Sunset.jpg
@@ -2903,7 +2822,7 @@ DESCRIPTION:Experience an elegant and unforgettable evening!\n\nPart of a
  on\, community\, and joie de vivre.\n\nEVENT INFORMATION\nLocation: Secret
   location\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmo
  nton.com/event-calendar/diner-en-blanc-edmonton
-LAST-MODIFIED:20260807T175708Z
+LAST-MODIFIED:20260807T181909Z
 LOCATION:Secret location\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2932,7 +2851,7 @@ BEGIN:VEVENT
 SUMMARY:Jubilations Dinner Theatre: Back to the ’80s: The Magic Mix Tape
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:49230debe98fc6ec6bd8d9d30b7ffa36@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/refere
  nce/IMG_7837.JPG
@@ -2951,7 +2870,7 @@ DESCRIPTION:Go back in time to the '80s\, no time machine required!\n\n"Oo
  a\, CA\nVisit / Tickets: https://jubilations.ca/edmonton-shows/back-to-the
  -80s-the-magic-mix-tape/\nExplore Edmonton: https://exploreedmonton.com/ev
  ent-calendar/jubilations-dinner-theatre-back-to-the-80s-the-magic-mix-tape
-LAST-MODIFIED:20260807T175718Z
+LAST-MODIFIED:20260807T181921Z
 LOCATION:Jubilations Dinner Theatre - 8882 170 St\, Edmonton\, Alberta\, C
  A
 STATUS:CONFIRMED
@@ -2984,7 +2903,7 @@ BEGIN:VEVENT
 SUMMARY:Love Pro Wrestling 51: Marz Attacks!
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:31a264368785050c93c72e57eb7cf5d1@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/SP46-1
  1.jpg
@@ -3001,7 +2920,7 @@ DESCRIPTION:Nonstop action guaranteed!\n\nLove Pro Wrestling returns to th
   CA\nVisit / Tickets: https://www.tixr.com/groups/lovewrestling/events/lov
  e-pro-wrestling-51-marz-attacks--201582\nExplore Edmonton: https://explore
  edmonton.com/event-calendar/love-pro-wrestling-51
-LAST-MODIFIED:20260807T175720Z
+LAST-MODIFIED:20260807T181923Z
 LOCATION:The Rec Room South Edmonton Common\, 1725 99 St\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -3030,7 +2949,7 @@ BEGIN:VEVENT
 SUMMARY:Jerk and Jollof Fest 2026
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:c40ddc8758757a4e2e347baa928d25b9@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on-Cityscape-Summer-Sunset.jpg
@@ -3044,7 +2963,7 @@ DESCRIPTION:Enjoy food\, music\, and cultural celebration!\n\nCelebrate Af
   Park - 9999 Grierson Hill NW\, Edmonton\, Alberta\, CA\nVisit / Tickets: 
  https://jerkandjollof.ca/\nExplore Edmonton: https://exploreedmonton.com/e
  vent-calendar/jerk-and-jollof-fest-2026
-LAST-MODIFIED:20260807T175717Z
+LAST-MODIFIED:20260807T181919Z
 LOCATION:Louise McKinney Riverfront Park - 9999 Grierson Hill NW\, Edmonto
  n\, Alberta\, CA
 STATUS:CONFIRMED
@@ -3070,7 +2989,7 @@ BEGIN:VEVENT
 SUMMARY:Monster Jam
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:76bd94ec2f2011e12c911735b3ad11a3@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton_Events_Monster-Jam_Avenger_Commonwealth.jpg
@@ -3080,11 +2999,12 @@ DESCRIPTION:Good vibes\, awesome stunts\, and edge-of-your-seat excitement
  d with jaw-dropping stunts\, roaring engines\, and nonstop thrills. The at
  mosphere will be electric\, the cheers loud\, and the entertainment unforg
  ettable. Don’t miss your chance to be part of the action - this is one w
- ild ride you won’t want to miss!\n\nEVENT INFORMATION\nLocation: Rogers 
- Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://
- www.rogersplace.com/monster-jam-august-29-30-2026/\nExplore Edmonton: http
- s://exploreedmonton.com/event-calendar/monster-jam-2026
-LAST-MODIFIED:20260807T175722Z
+ ild ride you won’t want to miss!\n\nOctober is Queer History Month!\n\nE
+ VENT INFORMATION\nLocation: Rogers Place - 10220 104 Ave\, Edmonton\, Albe
+ rta\, CA\nVisit / Tickets: https://www.rogersplace.com/monster-jam-august-
+ 29-30-2026/\nExplore Edmonton: https://exploreedmonton.com/event-calendar/
+ monster-jam-2026
+LAST-MODIFIED:20260807T181925Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3095,12 +3015,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Good vibes\, awesome stunts\, and edge-of-
  e-fueled showdown packed with jaw-dropping stunts\, roaring engines\, and 
  nonstop thrills. The atmosphere will be electric\, the cheers loud\, and t
  he entertainment unforgettable. Don’t miss your chance to be part of the
-  action - this is one wild ride you won’t want to miss!</p><h3>Event Inf
- ormation</h3><ul><li><strong>Location:</strong> Rogers Place - 10220 104 A
- ve\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Tickets:</strong> htt
- ps://www.rogersplace.com/monster-jam-august-29-30-2026/</li><li><strong>Ex
- plore Edmonton:</strong> https://exploreedmonton.com/event-calendar/monste
- r-jam-2026</li></ul>
+  action - this is one wild ride you won’t want to miss!</p><p>October is
+  Queer History Month!</p><h3>Event Information</h3><ul><li><strong>Locatio
+ n:</strong> Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA</li><li
+ ><strong>Visit / Tickets:</strong> https://www.rogersplace.com/monster-jam
+ -august-29-30-2026/</li><li><strong>Explore Edmonton:</strong> https://exp
+ loreedmonton.com/event-calendar/monster-jam-2026</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton_Events_
  Monster-Jam_Avenger_Commonwealth.jpg
 X-TICKETS-URL:https://www.rogersplace.com/monster-jam-august-29-30-2026/
@@ -3109,7 +3029,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:49a8cdb6c0f96328535b0b13033ea4b0@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -3121,14 +3041,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3141,15 +3061,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -3158,7 +3078,7 @@ BEGIN:VEVENT
 SUMMARY:THE MARVELOUS WONDERETTES: DREAM ON
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:e535eff1e9cab2c7aa9dd54aa1949613@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/MDT-5-
  resized.jpg
@@ -3174,7 +3094,7 @@ DESCRIPTION:Where incredible performances and great food come together!\n\
  RMATION\nLocation: Mayfield Dinner Theatre - 16615 109 Ave\, Edmonton\, Al
  berta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/t
  he-marvelous-wonderettes-dream-on
-LAST-MODIFIED:20260807T175732Z
+LAST-MODIFIED:20260807T181935Z
 LOCATION:Mayfield Dinner Theatre - 16615 109 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3199,7 +3119,7 @@ BEGIN:VEVENT
 SUMMARY:"Weird Al" Yankovic: Bigger & Weirder 2026 Tour
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:190bda9459bfc8bffea08f2a474548fb@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Attractions_Rogers-Place_Exterior.jpg
@@ -3211,7 +3131,7 @@ DESCRIPTION:Kick off your September with "Weird Al" Yankovic performing li
  NT INFORMATION\nLocation: Rogers Place\, 10220 104 Ave\, Alberta\, CA\nExp
  lore Edmonton: https://exploreedmonton.com/event-calendar/weird-al-yankovi
  c-bigger-weirder-2026-tour
-LAST-MODIFIED:20260807T175734Z
+LAST-MODIFIED:20260807T181938Z
 LOCATION:Rogers Place\, 10220 104 Ave\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3233,7 +3153,7 @@ BEGIN:VEVENT
 SUMMARY:Kejia Festival
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:8215f4992642fd9eb1349257ed0a2a57@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Chef-T
  able-Living-Food-Bike-Tour_A-group-cycles-down-a-path-past-the-Chinese-Gar
@@ -3248,7 +3168,7 @@ DESCRIPTION:Between bites\, enjoy live music\, art\, and performances that
  ight be the hardest part!\n\nEVENT INFORMATION\nLocation: Louise McKinney 
  Riverfront Park\, 9999 Grierson Hill\, Edmonton\, AB\, CA\nExplore Edmonto
  n: https://exploreedmonton.com/event-calendar/kejia-festival
-LAST-MODIFIED:20260807T175719Z
+LAST-MODIFIED:20260807T181922Z
 LOCATION:Louise McKinney Riverfront Park\, 9999 Grierson Hill\, Edmonton\,
   AB\, CA
 STATUS:CONFIRMED
@@ -3274,7 +3194,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:f05c0142bd0c694022ab88c15692e304@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -3286,14 +3206,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3306,15 +3226,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -3323,7 +3243,7 @@ BEGIN:VEVENT
 SUMMARY:James Ehnes & Andrew Armstrong: Edmonton Chamber Music Society
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:0ae90360b783f81e7d43d5beb401471a@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Fall-C
  ityscape.jpg
@@ -3337,7 +3257,7 @@ DESCRIPTION:A musical collaboration worth celebrating!\n\nJoin the Edmonto
  d Christian Reformed Church\, 10015 149 St\, Edmonton\, AB\, CA\nExplore E
  dmonton: https://exploreedmonton.com/event-calendar/james-ehnes-andrew-arm
  strong-presented-by-the-edmonton-chamber-music-society
-LAST-MODIFIED:20260807T175716Z
+LAST-MODIFIED:20260807T181919Z
 LOCATION:West End Christian Reformed Church\, 10015 149 St\, Edmonton\, AB
  \, CA
 STATUS:CONFIRMED
@@ -3361,7 +3281,7 @@ BEGIN:VEVENT
 SUMMARY:Lyle Lovett and his Small Large Band
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:d89037f288c9ca43b025a9700df24e7e@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Jubile
  e-114.JPG
@@ -3380,7 +3300,7 @@ DESCRIPTION:Kick off September with some incredible tunes!\n\nCoupled with
  orthern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, Alberta\, C
  A\nExplore Edmonton: https://exploreedmonton.com/event-calendar/lyle-lovet
  t-and-his-small-large-band
-LAST-MODIFIED:20260807T175721Z
+LAST-MODIFIED:20260807T181924Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -3409,7 +3329,7 @@ BEGIN:VEVENT
 SUMMARY:The Lord of the Rings: The Two Towers In Concert
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:054b7d304d68be9cac39d39313e6ebf7@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Lord-of-the-Rings-Two-Towers-SNAJA-2026-1920x1080.png
@@ -3421,7 +3341,7 @@ DESCRIPTION:Experience a musical journey to Middle-earth this September!\n
  cation: Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, Al
  berta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/t
  he-lord-of-the-rings-the-two-towers-in-concert
-LAST-MODIFIED:20260807T175731Z
+LAST-MODIFIED:20260807T181935Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -3444,7 +3364,7 @@ BEGIN:VEVENT
 SUMMARY:Barrel Fest 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:36b65fd0f2c7e99578ddcbbb4f688014@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/BF24-P
  ost-Wide-1.jpg
@@ -3460,7 +3380,7 @@ DESCRIPTION:Great vibes and even better brews!\n\nBarrel Fest returns for
  ORMATION\nLocation: Ritchie Park - 7727 98 St\, Edmonton\, Alberta\, CA\nE
  xplore Edmonton: https://exploreedmonton.com/event-calendar/barrel-fest-20
  26
-LAST-MODIFIED:20260807T175700Z
+LAST-MODIFIED:20260807T181901Z
 LOCATION:Ritchie Park - 7727 98 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3484,7 +3404,7 @@ BEGIN:VEVENT
 SUMMARY:RAD Torque Raceway: Buck's Auto Part Annihilation Night
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:69d59fdcf1402f5d2af6c689ae6ef236@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DJI_03
  83-medium-1.jpg
@@ -3497,7 +3417,7 @@ DESCRIPTION:An evening of unfiltered adrenaline and nonstop chaos!\n\nBuck
  ATION\nLocation: RAD Torque Raceway - 50342 Range Rd 253\, Edmonton Intern
  ational Airport\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/bucks-auto-part-annihilation-night
-LAST-MODIFIED:20260807T175703Z
+LAST-MODIFIED:20260807T181904Z
 LOCATION:RAD Torque Raceway - 50342 Range Rd 253\, Edmonton International 
  Airport\, Alberta\, CA
 STATUS:CONFIRMED
@@ -3520,7 +3440,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Elks vs. Calgary Stampeders: Labour Day Rematch
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:27a1f258579daf6adaa03e24119e6c7b@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton_Attractions_Elks_Football.png
@@ -3531,7 +3451,7 @@ DESCRIPTION:The Labour Day Rematch is back!\n\nAn Edmonton tradition like
  Division showdown!\n\nEVENT INFORMATION\nLocation: Commonwealth Stadium - 
  11000 Stadium Rd\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://expl
  oreedmonton.com/event-calendar/elks-vs-stampeders-sep12
-LAST-MODIFIED:20260807T175712Z
+LAST-MODIFIED:20260807T181914Z
 LOCATION:Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3551,7 +3471,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:9a5082d867493edb5ad56b01e1597fb2@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -3563,14 +3483,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3583,15 +3503,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -3601,7 +3521,7 @@ SUMMARY:The Enchanted Rose Afternoon Tea: Inspired by The Beauty and the B
  east
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:53d83dcb6841b99bd179f59a33f28464@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Untitl
  ed-design-12-1.png
@@ -3616,7 +3536,7 @@ DESCRIPTION:Experience an afternoon of magic\, elegance\, and memories.\n\
  ea’s English Tea House - 10109 125 St\, Edmonton\, Alberta\, CA\nExplore
   Edmonton: https://exploreedmonton.com/event-calendar/the-enchanted-rose-a
  fternoon-tea-inspired-by-the-beauty-and-the-beast
-LAST-MODIFIED:20260807T175731Z
+LAST-MODIFIED:20260807T181935Z
 LOCATION:Lady Bea’s English Tea House - 10109 125 St\, Edmonton\, Albert
  a\, CA
 STATUS:CONFIRMED
@@ -3641,7 +3561,7 @@ BEGIN:VEVENT
 SUMMARY:Women In Ninja 2026
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:31c7294ed828d658a016fefdb8b857dc@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Valley
  -Line-LRT-Fall-large.jpg
@@ -3659,7 +3579,7 @@ DESCRIPTION:Witness athletic greatness!\n\nWomen in Ninja (WIN) is Canada'
  a - 8520 106a Ave\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.
  womeninninja.com/\nExplore Edmonton: https://exploreedmonton.com/event-cal
  endar/women-in-ninja-2026
-LAST-MODIFIED:20260807T175735Z
+LAST-MODIFIED:20260807T181939Z
 LOCATION:Fitset Ninja - 8520 106a Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3688,7 +3608,7 @@ BEGIN:VEVENT
 SUMMARY:Pirates of the Caribbean: The Curse of the Black Pearl
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:6ead30be9955f37438479ee9ee995c4c@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Pirate
  s-SNAJA-2026-1920x1080-1.png
@@ -3703,7 +3623,7 @@ DESCRIPTION:Aye aye! Climb aboard and set sail on a musical adventure.\n\n
  ON\nLocation: Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonto
  n\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-cale
  ndar/pirates-of-the-caribbean-the-curse-of-the-black-pearl
-LAST-MODIFIED:20260807T175725Z
+LAST-MODIFIED:20260807T181928Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -3729,7 +3649,7 @@ BEGIN:VEVENT
 SUMMARY:Rocktoberfest
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:d477c2a01042ea369e076d4a1e6d6ba6@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Finals
  _187.jpg
@@ -3747,7 +3667,7 @@ DESCRIPTION:Outdoor adventure awaits at Rocktoberfest!\n\nGet ready for an
   9735 Grierson Hill\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://ww
  w.climbyeg.com/comp-series\nExplore Edmonton: https://exploreedmonton.com/
  event-calendar/rocktoberfest
-LAST-MODIFIED:20260807T175726Z
+LAST-MODIFIED:20260807T181929Z
 LOCATION:Climb YEG - 9735 Grierson Hill\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3775,7 +3695,7 @@ BEGIN:VEVENT
 SUMMARY:Cody Johnson
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:046e5a0fc918f56e62a9ea9579747a79@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Attractions_Rogers-Place_Exterior.jpg
@@ -3786,7 +3706,7 @@ DESCRIPTION:Cody Johnson is headed to Edmonton this September!\n\nCountry
   for fans!\n\nEVENT INFORMATION\nLocation: Rogers Place - 10220 104 Ave\, 
  Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/eve
  nt-calendar/cody-johnson
-LAST-MODIFIED:20260807T175705Z
+LAST-MODIFIED:20260807T181906Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3806,7 +3726,7 @@ BEGIN:VEVENT
 SUMMARY:Foo Fighters: TAKE COVER TOUR 2026
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181939Z
 UID:aa35290108f9c910029ab2a7263e7ea4@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Common
  wealth-Elks.jpg
@@ -3815,7 +3735,7 @@ DESCRIPTION:Experience Foo Fighters live!\n\nCatch post-grunge legends Foo
  me music and even better memories!\n\nEVENT INFORMATION\nLocation: Commonw
  ealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA\nExplore Edmont
  on: https://exploreedmonton.com/event-calendar/foo-fighters
-LAST-MODIFIED:20260807T175714Z
+LAST-MODIFIED:20260807T181916Z
 LOCATION:Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3832,7 +3752,7 @@ BEGIN:VEVENT
 SUMMARY:Mosquers Film Festival
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:d62be336c25d62725172d0f3c0f4741b@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/image-
  1.png
@@ -3865,7 +3785,7 @@ DESCRIPTION:Celebrating diverse Muslim experiences through film.\n\nThe Mo
   Square Northwest - Corner of 99 Street & 102 Avenue\, Edmonton\, Alberta\
  , CA\nVisit / Tickets: http://www.themosquers.com/\nExplore Edmonton: http
  s://exploreedmonton.com/event-calendar/mosquers-film-festival-2026
-LAST-MODIFIED:20260807T175723Z
+LAST-MODIFIED:20260807T181926Z
 LOCATION:The Winspear Centre - 4 Sir Winston Churchill Square Northwest - 
  Corner of 99 Street & 102 Avenue\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
@@ -3909,7 +3829,7 @@ BEGIN:VEVENT
 SUMMARY:Derina Harvey Band at the New Moon Folk Club
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:902affad5e1d669455098457d9651e64@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Fall-C
  ityscape.jpg
@@ -3920,7 +3840,7 @@ DESCRIPTION:Experience Derina Harvey Band live in Edmonton this September!
  VENT INFORMATION\nLocation: New Moon Folk Club - 10819 71 Ave\, Edmonton\,
   Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calenda
  r/derina-harvey-band-at-the-new-moon-folk-club
-LAST-MODIFIED:20260807T175707Z
+LAST-MODIFIED:20260807T181909Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3940,7 +3860,7 @@ BEGIN:VEVENT
 SUMMARY:Kaleido Family Arts Festival 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:d74a7942c6aad8689d63311799d770ed@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Kaleid
  o-2025-Kaleido-2025-1EP02800.ARW.jpg
@@ -3956,7 +3876,7 @@ DESCRIPTION:A collision of music\, theatre\, dance\, literary arts\, film
  MATION\nLocation: Alberta Avenue - 118 Ave\, between 90 & 95 St\, Edmonton
  \, Alberta\, CA\nVisit / Tickets: http://kaleidofest.ca/\nExplore Edmonton
  : https://exploreedmonton.com/event-calendar/kaleido-family-arts-festival
-LAST-MODIFIED:20260807T175719Z
+LAST-MODIFIED:20260807T181921Z
 LOCATION:Alberta Avenue - 118 Ave\, between 90 & 95 St\, Edmonton\, Albert
  a\, CA
 STATUS:CONFIRMED
@@ -3985,7 +3905,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Block Party
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:029792a76153cdb800d46ccb0655daac@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -3997,14 +3917,14 @@ DESCRIPTION:Come early\, stay late\, and enjoy everything the area has to
  c streets. Whether you’re planning a full day downtown or just looking f
  or a fun stop to add to your evening\, it’s the perfect place to soak up
   the atmosphere\, support local businesses\, and enjoy the best of the sum
- mer season!\n\nEVENT INFORMATION\nSchedule: Jun 20\, 2026\, Jun 27\, 2026\
- , Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2
- 026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5
- \, 2026\, Sep 12\, 2026\, Sep 19\, 2026\nLocation: Rice Howard Way - Rice 
- Howard Wy\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.foundrye
- vents.ca/summer-block-party\nExplore Edmonton: https://exploreedmonton.com
- /event-calendar/summer-block-party
-LAST-MODIFIED:20260807T175729Z
+ mer season!\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\nSched
+ ule: Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18
+ \, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Au
+ g 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026
+ \nLocation: Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA\nVi
+ sit / Tickets: https://www.foundryevents.ca/summer-block-party\nExplore Ed
+ monton: https://exploreedmonton.com/event-calendar/summer-block-party
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Rice Howard Way - Rice Howard Wy\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4017,15 +3937,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Come early\, stay late\, and enjoy everyth
  of the city’s most iconic streets. Whether you’re planning a full day 
  downtown or just looking for a fun stop to add to your evening\, it’s th
  e perfect place to soak up the atmosphere\, support local businesses\, and
-  enjoy the best of the summer season!</p><h3>Event Information</h3><ul><li
- ><strong>Schedule:</strong> Jun 20\, 2026\, Jun 27\, 2026\, Jul 4\, 2026\,
-  Jul 11\, 2026\, Jul 18\, 2026\, Jul 25\, 2026\, Aug 1\, 2026\, Aug 8\, 20
- 26\, Aug 15\, 2026\, Aug 22\, 2026\, Aug 29\, 2026\, Sep 5\, 2026\, Sep 12
- \, 2026\, Sep 19\, 2026</li><li><strong>Location:</strong> Rice Howard Way
-  - Rice Howard Wy\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Ticket
- s:</strong> https://www.foundryevents.ca/summer-block-party</li><li><stron
- g>Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/su
- mmer-block-party</li></ul>
+  enjoy the best of the summer season!</p><p>October is Queer History Month
+ !</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Jun 20\,
+  2026\, Jun 27\, 2026\, Jul 4\, 2026\, Jul 11\, 2026\, Jul 18\, 2026\, Jul
+  25\, 2026\, Aug 1\, 2026\, Aug 8\, 2026\, Aug 15\, 2026\, Aug 22\, 2026\,
+  Aug 29\, 2026\, Sep 5\, 2026\, Sep 12\, 2026\, Sep 19\, 2026</li><li><str
+ ong>Location:</strong> Rice Howard Way - Rice Howard Wy\, Edmonton\, Alber
+ ta\, CA</li><li><strong>Visit / Tickets:</strong> https://www.foundryevent
+ s.ca/summer-block-party</li><li><strong>Explore Edmonton:</strong> https:/
+ /exploreedmonton.com/event-calendar/summer-block-party</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 X-TICKETS-URL:https://www.foundryevents.ca/summer-block-party
@@ -4034,7 +3954,7 @@ BEGIN:VEVENT
 SUMMARY:The Citadel Theatre: Murder on the Orient Express
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:26b0222955c006ef653ac58a17d2fda5@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/MOTOE-
  RMTC-1.png
@@ -4050,7 +3970,7 @@ DESCRIPTION:A captivating whodunit mystery you won't want to miss!\n\nStep
  NT INFORMATION\nLocation: Citadel Theatre - 9828 101A Ave\, Edmonton\, Alb
  erta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/th
  e-citadel-theatre-murder-on-the-orient-express
-LAST-MODIFIED:20260807T175730Z
+LAST-MODIFIED:20260807T181933Z
 LOCATION:Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4075,7 +3995,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Terry Fox Run
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:bc7aa6de37b561d7d15760881a797268@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Summer_Skyline_Walterdale_Bridge_Ariel_North_Saskatchewan_River.jpg
@@ -4095,12 +4015,11 @@ DESCRIPTION:Learn more about Terry Fox's remarkable legacy.\n\nThe story o
   and the event is noncompetitive. You are also invited to register a team 
  and help fundraise for cancer research at https://run.terryfox.ca/edmonton
   .\n\nJoin a meaningful event that has been a symbol of Canadian connected
- ness and a hopeful example of how one person can make a difference.\n\nYou
- r guide to celebrating National Indigenous History Month in Edmonton\n\nEV
- ENT INFORMATION\nLocation: Kinsmen Park - 9100 Walterdale Hill\, Edmonton\
- , AB\, CA\nVisit / Tickets: https://run.terryfox.ca/129794\nExplore Edmont
- on: https://exploreedmonton.com/event-calendar/edmonton-terry-fox-run-2026
-LAST-MODIFIED:20260807T175711Z
+ ness and a hopeful example of how one person can make a difference.\n\nEVE
+ NT INFORMATION\nLocation: Kinsmen Park - 9100 Walterdale Hill\, Edmonton\,
+  AB\, CA\nVisit / Tickets: https://run.terryfox.ca/129794\nExplore Edmonto
+ n: https://exploreedmonton.com/event-calendar/edmonton-terry-fox-run-2026
+LAST-MODIFIED:20260807T181913Z
 LOCATION:Kinsmen Park - 9100 Walterdale Hill\, Edmonton\, AB\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4122,12 +4041,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Learn more about Terry Fox&#x27\;s remarka
  re also invited to register a team and help fundraise for cancer research 
  at https://run.terryfox.ca/edmonton .</p><p>Join a meaningful event that h
  as been a symbol of Canadian connectedness and a hopeful example of how on
- e person can make a difference.</p><p>Your guide to celebrating National I
- ndigenous History Month in Edmonton</p><h3>Event Information</h3><ul><li><
- strong>Location:</strong> Kinsmen Park - 9100 Walterdale Hill\, Edmonton\,
-  AB\, CA</li><li><strong>Visit / Tickets:</strong> https://run.terryfox.ca
- /129794</li><li><strong>Explore Edmonton:</strong> https://exploreedmonton
- .com/event-calendar/edmonton-terry-fox-run-2026</li></ul>
+ e person can make a difference.</p><h3>Event Information</h3><ul><li><stro
+ ng>Location:</strong> Kinsmen Park - 9100 Walterdale Hill\, Edmonton\, AB\
+ , CA</li><li><strong>Visit / Tickets:</strong> https://run.terryfox.ca/129
+ 794</li><li><strong>Explore Edmonton:</strong> https://exploreedmonton.com
+ /event-calendar/edmonton-terry-fox-run-2026</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Edmonton_Summer_Skyline_
  Walterdale_Bridge_Ariel_North_Saskatchewan_River.jpg
 X-TICKETS-URL:https://run.terryfox.ca/129794
@@ -4136,7 +4054,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Across Canada Presents: & Juliet
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:3fb08f45f299205952e6b09e41d3fcd0@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Jubile
  e-114.JPG
@@ -4155,7 +4073,7 @@ DESCRIPTION:The only thing tragic would be missing this show!\n\nCreated b
  \, Edmonton\, Alberta\, CA\nVisit / Tickets: https://edmonton.broadway.com
  /shows/juliet/\nExplore Edmonton: https://exploreedmonton.com/event-calend
  ar/broadway-across-canada-presents-juliet
-LAST-MODIFIED:20260807T175702Z
+LAST-MODIFIED:20260807T181903Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -4187,7 +4105,7 @@ BEGIN:VEVENT
 SUMMARY:Bring Me The Horizon
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:51e1f6ae219e5ce87901d9d6cd042a08@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Attractions_Rogers-Place_Exterior.jpg
@@ -4198,7 +4116,7 @@ DESCRIPTION:Bring Me The Horizon is headed to Edmonton this September!\n\n
   INFORMATION\nLocation: Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\
  , CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/bring-m
  e-the-horizon
-LAST-MODIFIED:20260807T175701Z
+LAST-MODIFIED:20260807T181901Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4218,7 +4136,7 @@ BEGIN:VEVENT
 SUMMARY:Journey: Final Frontier Tour (An Evening With)
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:ee66b17b9ed6d55f0f4e65b94e055635@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Attractions_Rogers-Place_Exterior.jpg
@@ -4231,7 +4149,7 @@ DESCRIPTION:Don't stop believing!\n\nLegendary rock band Journey is taking
  etmaster.ca/journey-final-frontier-tour-an-evening-edmonton-alberta-09-24-
  2026/event/110064A698258DBB\nExplore Edmonton: https://exploreedmonton.com
  /event-calendar/journey-rogers-place-2026
-LAST-MODIFIED:20260807T175718Z
+LAST-MODIFIED:20260807T181921Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4256,7 +4174,7 @@ BEGIN:VEVENT
 SUMMARY:AsiaFest 2026
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:34dec30c487a4a2467ee2ffb2d2c7006@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/dji_fl
  y_20250913_203812_0257_1757817897811_photo.jpeg
@@ -4270,11 +4188,12 @@ DESCRIPTION:Celebrate Under the Moon!\n\nAsiaFest returns to Edmonton this
  nce family activities\, artisan shopping\, community exhibits\, and more. 
  With a venue twice the size of last year\, AsiaFest 2026 offers a weekend 
  of food\, entertainment\, and cultural discovery for all ages. Admission i
- s free\, and everyone is welcome!\n\nEVENT INFORMATION\nLocation: Currents
-  of Windermere - 6183 Currents Dr NW\, Edmonton\, Alberta\, CA\nVisit / Ti
- ckets: https://www.asiafestyeg.ca/\nExplore Edmonton: https://exploreedmon
- ton.com/event-calendar/asiafest-2026
-LAST-MODIFIED:20260807T175700Z
+ s free\, and everyone is welcome!\n\nYour guide to celebrating National In
+ digenous History Month in Edmonton\n\nEVENT INFORMATION\nLocation: Current
+ s of Windermere - 6183 Currents Dr NW\, Edmonton\, Alberta\, CA\nVisit / T
+ ickets: https://www.asiafestyeg.ca/\nExplore Edmonton: https://exploreedmo
+ nton.com/event-calendar/asiafest-2026
+LAST-MODIFIED:20260807T181900Z
 LOCATION:Currents of Windermere - 6183 Currents Dr NW\, Edmonton\, Alberta
  \, CA
 STATUS:CONFIRMED
@@ -4291,11 +4210,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Celebrate Under the Moon!</p><p>AsiaFest r
  ping\, community exhibits\, and more. With a venue twice the size of last 
  year\, AsiaFest 2026 offers a weekend of food\, entertainment\, and cultur
  al discovery for all ages. Admission is free\, and everyone is welcome!</p
- ><h3>Event Information</h3><ul><li><strong>Location:</strong> Currents of 
- Windermere - 6183 Currents Dr NW\, Edmonton\, Alberta\, CA</li><li><strong
- >Visit / Tickets:</strong> https://www.asiafestyeg.ca/</li><li><strong>Exp
- lore Edmonton:</strong> https://exploreedmonton.com/event-calendar/asiafes
- t-2026</li></ul>
+ ><p>Your guide to celebrating National Indigenous History Month in Edmonto
+ n</p><h3>Event Information</h3><ul><li><strong>Location:</strong> Currents
+  of Windermere - 6183 Currents Dr NW\, Edmonton\, Alberta\, CA</li><li><st
+ rong>Visit / Tickets:</strong> https://www.asiafestyeg.ca/</li><li><strong
+ >Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/asi
+ afest-2026</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/dji_fly_20250913_203812_
  0257_1757817897811_photo.jpeg
 X-TICKETS-URL:https://www.asiafestyeg.ca/
@@ -4304,7 +4224,7 @@ BEGIN:VEVENT
 SUMMARY:Jimmy Carr: Laughs Funny
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:b85b6b1ec775317a25ecf3288c06cb86@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Attractions_Rogers-Place-Exterior.jpg
@@ -4316,10 +4236,11 @@ DESCRIPTION:Jimmy Carr is coming to Edmonton!\n\nKnown worldwide for his l
  -up comedians of the last decade. His most recent tour\, Terribly Funny 2.
  0 \, surpassed one million tickets worldwide and saw him perform 293 shows
   across 145 cities in a single year\, cementing his reputation as one of t
- he hardest-working acts in comedy!\n\nEVENT INFORMATION\nLocation: Rogers 
- Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https:/
- /exploreedmonton.com/event-calendar/jimmy-carr-2026-laughs-funny-canada
-LAST-MODIFIED:20260807T175717Z
+ he hardest-working acts in comedy!\n\nYour guide to celebrating National I
+ ndigenous History Month in Edmonton\n\nEVENT INFORMATION\nLocation: Rogers
+  Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https:
+ //exploreedmonton.com/event-calendar/jimmy-carr-2026-laughs-funny-canada
+LAST-MODIFIED:20260807T181920Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4333,11 +4254,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Jimmy Carr is coming to Edmonton!</p><p>Kn
  the most streamed stand-up comedians of the last decade. His most recent t
  our\, Terribly Funny 2.0 \, surpassed one million tickets worldwide and sa
  w him perform 293 shows across 145 cities in a single year\, cementing his
-  reputation as one of the hardest-working acts in comedy!</p><h3>Event Inf
- ormation</h3><ul><li><strong>Location:</strong> Rogers Place - 10220 104 A
- ve\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonton:</strong> ht
- tps://exploreedmonton.com/event-calendar/jimmy-carr-2026-laughs-funny-cana
- da</li></ul>
+  reputation as one of the hardest-working acts in comedy!</p><p>Your guide
+  to celebrating National Indigenous History Month in Edmonton</p><h3>Event
+  Information</h3><ul><li><strong>Location:</strong> Rogers Place - 10220 1
+ 04 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonton:</strong
+ > https://exploreedmonton.com/event-calendar/jimmy-carr-2026-laughs-funny-
+ canada</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Edmonton_Attractions_Rog
  ers-Place-Exterior.jpg
 END:VEVENT
@@ -4345,7 +4267,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Elks vs. Hamilton Tiger-Cats: Indigenous Celebration
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:cd31a3ad9f5386146a37d9d35f5e662c@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Commonwealth-Skyline.jpg
@@ -4357,7 +4279,7 @@ DESCRIPTION:Don’t miss this powerful tribute game.\n\nJoin the Edmonton
  .\n\nEVENT INFORMATION\nLocation: Commonwealth Stadium - 11000 Stadium Rd\
  , Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/e
  vent-calendar/elks-vs-tiger-cats-september26
-LAST-MODIFIED:20260807T175712Z
+LAST-MODIFIED:20260807T181914Z
 LOCATION:Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4379,7 +4301,7 @@ BEGIN:VEVENT
 SUMMARY:Open Cockpit Day
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:fab7ebc5a7f30ebb28d9bb8020247ba4@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/2023-0
  9-09-Open-Cockpit-Day-by-Ezra-Jeffrey-39.jpg
@@ -4397,7 +4319,7 @@ DESCRIPTION:Calling all history buffs and aviation enthusiasts—this one
  nton\, Alberta\, CA\nVisit / Tickets: https://albertaaviationmuseum.com/ev
  ents/open-cockpit-day/\nExplore Edmonton: https://exploreedmonton.com/even
  t-calendar/open-cockpit-day
-LAST-MODIFIED:20260807T175724Z
+LAST-MODIFIED:20260807T181927Z
 LOCATION:Alberta Aviation Museum - 11410 Kingsway\, Edmonton\, Alberta\, C
  A
 STATUS:CONFIRMED
@@ -4427,7 +4349,7 @@ BEGIN:VEVENT
 SUMMARY:Generations at the New Moon Folk Club
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:71f055c59d903e2b8a6324b7e79f4752@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DJI_03
  31-large.jpg
@@ -4441,11 +4363,12 @@ DESCRIPTION:One night\, four families\, and music carried across generatio
  ide folk veteran Gord Matthews and his son Travis.\n\nThe second set featu
  res acclaimed songwriter Billie Zizi with her father\, world-travelled fid
  dler Cam Neufeld and Road to Django\, joined by rising artist Kaiya Kodie 
- performing with her father Jason.\n\nEVENT INFORMATION\nLocation: New Moon
-  Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: htt
- ps://exploreedmonton.com/event-calendar/generations-at-the-new-moon-folk-c
- lub
-LAST-MODIFIED:20260807T175714Z
+ performing with her father Jason.\n\nYour guide to celebrating National In
+ digenous History Month in Edmonton\n\nEVENT INFORMATION\nLocation: New Moo
+ n Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: ht
+ tps://exploreedmonton.com/event-calendar/generations-at-the-new-moon-folk-
+ club
+LAST-MODIFIED:20260807T181916Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4461,18 +4384,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p>One night\, four families\, and music carr
  ther Tree project\, alongside folk veteran Gord Matthews and his son Travi
  s.</p><p>The second set features acclaimed songwriter Billie Zizi with her
   father\, world-travelled fiddler Cam Neufeld and Road to Django\, joined 
- by rising artist Kaiya Kodie performing with her father Jason.</p><h3>Even
- t Information</h3><ul><li><strong>Location:</strong> New Moon Folk Club - 
- 10819 71 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonton:</
- strong> https://exploreedmonton.com/event-calendar/generations-at-the-new-
- moon-folk-club</li></ul>
+ by rising artist Kaiya Kodie performing with her father Jason.</p><p>Your 
+ guide to celebrating National Indigenous History Month in Edmonton</p><h3>
+ Event Information</h3><ul><li><strong>Location:</strong> New Moon Folk Clu
+ b - 10819 71 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonto
+ n:</strong> https://exploreedmonton.com/event-calendar/generations-at-the-
+ new-moon-folk-club</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/DJI_0331-large.jpg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Story Of Linda Ronstadt
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:ec9046d093b13f45eaecfc15b229e048@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Jubile
  e-114.JPG
@@ -4493,7 +4417,7 @@ DESCRIPTION:A must-see performance this fall!\n\nLinda Ronstadt didn’t j
  eart of the journey!\n\nEVENT INFORMATION\nLocation: Northern Alberta Jubi
  lee Auditorium - 11455 87 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton:
   https://exploreedmonton.com/event-calendar/the-story-of-linda-ronstadt
-LAST-MODIFIED:20260807T175732Z
+LAST-MODIFIED:20260807T181936Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -4524,7 +4448,7 @@ BEGIN:VEVENT
 SUMMARY:Cinch Canadian Country Expo
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:1057febbad3e90477a47828d2a0fe14c@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Octobe
  r-4-CCE-Callie-100.jpg
@@ -4548,7 +4472,7 @@ DESCRIPTION:A can’t-miss experience for Western enthusiasts!\n\nThe Cinc
  , Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.cfr.ca/CCE/home-ca
  nadian-county-expo\nExplore Edmonton: https://exploreedmonton.com/event-ca
  lendar/cinch-canadian-country-expo
-LAST-MODIFIED:20260807T175704Z
+LAST-MODIFIED:20260807T181906Z
 LOCATION:Edmonton EXPO Centre - 7515 118 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4583,7 +4507,7 @@ BEGIN:VEVENT
 SUMMARY:Canadian Finals Rodeo & CFR Week
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:48cda86446d4e00e8f930d9d538152e7@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/BR_Gra
  dyYoung_ChesterA.jpg
@@ -4620,7 +4544,7 @@ DESCRIPTION:It’s that time of year again\, CFR is here!\n\nThe champions
  104 Ave\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://www.cfr.ca/\nE
  xplore Edmonton: https://exploreedmonton.com/event-calendar/canadian-final
  s-rodeo-cfr-week
-LAST-MODIFIED:20260807T175703Z
+LAST-MODIFIED:20260807T181904Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4669,7 +4593,7 @@ BEGIN:VEVENT
 SUMMARY:Cinch Canadian Country Expo Tradeshow
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:587d18a6680416aebcedd2fa6bae33a7@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/CFR-53
  .jpg
@@ -4691,7 +4615,7 @@ DESCRIPTION:Western style starts here!\n\nStep into the heart of Western l
  Visit / Tickets: https://www.cfr.ca/CCE/home-canadian-county-expo\nExplore
   Edmonton: https://exploreedmonton.com/event-calendar/cinch-canadian-count
  ry-expo-tradeshow
-LAST-MODIFIED:20260807T175705Z
+LAST-MODIFIED:20260807T181906Z
 LOCATION:Edmonton EXPO Centre - 7515 118 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4723,7 +4647,7 @@ BEGIN:VEVENT
 SUMMARY:How to Train Your Dragon 2 in Concert
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:281b1b617122b5e9eee26c99c05e5fc4@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Jubile
  e-114.JPG
@@ -4738,7 +4662,7 @@ DESCRIPTION:Soar into adventure with Hiccup and Toothless!\n\nWhen beloved
  ation: Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, Alb
  erta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/ho
  w-to-train-your-dragon-2-in-concert
-LAST-MODIFIED:20260807T175716Z
+LAST-MODIFIED:20260807T181918Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -4763,7 +4687,7 @@ BEGIN:VEVENT
 SUMMARY:Litfest
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:dd0902e791c4c7939629f94377f6a569@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/LitFes
  t25-Laberinto-075-1.jpg
@@ -4782,7 +4706,7 @@ DESCRIPTION:Incredible nonfiction content comes to life.\n\nEvery October\
  \nLocation: Various Venues\, Edmonton\, Alberta\, CA\nVisit / Tickets: htt
  ps://litfestalberta.org/\nExplore Edmonton: https://exploreedmonton.com/ev
  ent-calendar/litfest
-LAST-MODIFIED:20260807T175720Z
+LAST-MODIFIED:20260807T181922Z
 LOCATION:Various Venues\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4811,7 +4735,7 @@ BEGIN:VEVENT
 SUMMARY:Yaga
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:b43989625acd1745368e67570cbde58d@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Varscona-Theatre.jpg
@@ -4822,7 +4746,7 @@ DESCRIPTION:Shadow Theatre presents a chilling classic!\n\nEdmonton's prem
  o the final moment!\n\nEVENT INFORMATION\nLocation: Varscona Theatre - 103
  29 83 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmo
  nton.com/event-calendar/yaga
-LAST-MODIFIED:20260807T175735Z
+LAST-MODIFIED:20260807T181939Z
 LOCATION:Varscona Theatre - 10329 83 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4842,7 +4766,7 @@ BEGIN:VEVENT
 SUMMARY:The Citadel Theatre: Our Little Secret - A True\, New Musical
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:44cdca26b88506a005bf9aef9680b289@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on-Citadel-Theatre-exterior.jpg
@@ -4855,7 +4779,7 @@ DESCRIPTION:A striking show on identity\, truth\, and legacy.\n\nOur Littl
  ation: Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA\nExplore 
  Edmonton: https://exploreedmonton.com/event-calendar/the-citadel-theatre-o
  ur-little-secret-a-true-new-musical
-LAST-MODIFIED:20260807T175730Z
+LAST-MODIFIED:20260807T181934Z
 LOCATION:Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4878,7 +4802,7 @@ BEGIN:VEVENT
 SUMMARY:Alberta Powersports Show
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:df25c7761b5928ddad6046f3a2ebd287@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/EdmontonEXPOCentre-6.jpg
@@ -4892,7 +4816,7 @@ DESCRIPTION:Powersports fans\, your perfect weekend starts here!\n\nFrom c
  tion: Edmonton EXPO Centre - 7515 118 Ave\, Edmonton\, Alberta\, CA\nVisit
   / Tickets: https://albertapowersportshow.ca/\nExplore Edmonton: https://e
  xploreedmonton.com/event-calendar/alberta-powersports-show
-LAST-MODIFIED:20260807T175659Z
+LAST-MODIFIED:20260807T181859Z
 LOCATION:Edmonton EXPO Centre - 7515 118 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4917,7 +4841,7 @@ BEGIN:VEVENT
 SUMMARY:Edmonton Elks vs. Winnipeg Blue Bombers: United in Pink
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:90011537567cb23ccb816e7732b503fa@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Common
  wealth-Elks_Edmonton.jpg
@@ -4929,7 +4853,7 @@ DESCRIPTION:Support the Edmonton Elks in the fight against breast cancer.\
  e.\n\nEVENT INFORMATION\nLocation: Commonwealth Stadium - 11000 Stadium Rd
  \, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/
  event-calendar/edmonton-elks-vs-winnipeg-blue-bombers-oct16
-LAST-MODIFIED:20260807T175709Z
+LAST-MODIFIED:20260807T181911Z
 LOCATION:Commonwealth Stadium - 11000 Stadium Rd\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4952,7 +4876,7 @@ BEGIN:VEVENT
 SUMMARY:Lloyd Spiegel at the New Moon Folk Club
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:809c94018481f5c809b27a162876fe06@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Valley
  -Line-LRT-Fall-large.jpg
@@ -4966,7 +4890,7 @@ DESCRIPTION:One of Australia’s most celebrated artists is headed to Edmo
   of Fame!\n\nEVENT INFORMATION\nLocation: New Moon Folk Club - 10819 71 Av
  e\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com
  /event-calendar/lloyd-spiegel-at-the-new-moon-folk-club
-LAST-MODIFIED:20260807T175720Z
+LAST-MODIFIED:20260807T181923Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4990,7 +4914,7 @@ BEGIN:VEVENT
 SUMMARY:Picklefest
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:4262ad3ce9a04070738c1445745e8bf8@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/galler
  y/Edmonton_Downtown_ICE-District-1.jpg
@@ -5001,7 +4925,7 @@ DESCRIPTION:This festival is a pretty big dill.\n\nPickle lovers\, unite!
  fun pickle-filled twist!\n\nEVENT INFORMATION\nLocation: Fan Park - 10104 
  104 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmont
  on.com/event-calendar/picklefest
-LAST-MODIFIED:20260807T175725Z
+LAST-MODIFIED:20260807T181928Z
 LOCATION:Fan Park - 10104 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5021,7 +4945,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening in Burgundy: Wine Dinner at The Marc
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:db532d415e993fd82016b9ea28d92b26@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Fall-C
  ityscape.jpg
@@ -5041,7 +4965,7 @@ DESCRIPTION:Fall in love with exquisite food and wine pairings this Octobe
  tion: The Marc - 9940 106 St\, Edmonton\, Alberta\, CA\nExplore Edmonton: 
  https://exploreedmonton.com/event-calendar/an-evening-in-burgundy-wine-din
  ner-at-the-marc
-LAST-MODIFIED:20260807T175659Z
+LAST-MODIFIED:20260807T181900Z
 LOCATION:The Marc - 9940 106 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5070,7 +4994,7 @@ BEGIN:VEVENT
 SUMMARY:Iron Matron
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:dcb65364e21d853cd294f941e1758978@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Explor
  e-Edmonton_Cityscape_sunset-glow-over-downtown-skyline.jpeg
@@ -5087,7 +5011,7 @@ DESCRIPTION:A must-see performance!\n\nThis show follows Alice\, who is ov
   Alberta\, CA\nVisit / Tickets: https://northernlighttheatre.com/2026-2027
  -season/iron-matron/\nExplore Edmonton: https://exploreedmonton.com/event-
  calendar/iron-matron
-LAST-MODIFIED:20260807T175716Z
+LAST-MODIFIED:20260807T181918Z
 LOCATION:Studio Theatre Inside Fringe Theatre Adventures - 10330 84 Ave\, 
  Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
@@ -5116,7 +5040,7 @@ BEGIN:VEVENT
 SUMMARY:Colin Linden at the New Moon Folk Club
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:dbf12c6df6bb1c927b3972b506a3d032@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DJI_03
  31-large.jpg
@@ -5133,7 +5057,7 @@ DESCRIPTION:Experience Colin Linden live onstage this fall!\n\nA genuine r
  n Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: ht
  tps://exploreedmonton.com/event-calendar/colin-linden-at-the-new-moon-folk
  -club
-LAST-MODIFIED:20260807T175705Z
+LAST-MODIFIED:20260807T181907Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5159,7 +5083,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:e2294e313746d739d03a48fea4bc8675@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Event_Deadmonton_HauntedHouse.jpg
@@ -5171,7 +5095,7 @@ DESCRIPTION:Get your scream on this Halloween!\n\nCalling all ghosts and g
  t some inspiration for Halloween events in Edmonton this year!\n\nEVENT IN
  FORMATION\nLocation: Various Locations\, Edmonton\, Alberta\, CA\nExplore 
  Edmonton: https://exploreedmonton.com/event-calendar/halloween
-LAST-MODIFIED:20260807T175715Z
+LAST-MODIFIED:20260807T181917Z
 LOCATION:Various Locations\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5193,7 +5117,7 @@ BEGIN:VEVENT
 SUMMARY:The Citadel Theatre: The Great Gatsby
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:9296339a69db6133a578199bf7e8801a@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Explor
  e-Edmonton_Citadel-Theatre_Things-to-Do_Theatre_1.JPG
@@ -5211,7 +5135,7 @@ DESCRIPTION:Experience this powerful\, ground-breaking\, and deeply moving
  on: Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA\nExplore Edm
  onton: https://exploreedmonton.com/event-calendar/the-citadel-theatre-the-
  great-gatsby
-LAST-MODIFIED:20260807T175730Z
+LAST-MODIFIED:20260807T181934Z
 LOCATION:Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5239,7 +5163,7 @@ BEGIN:VEVENT
 SUMMARY:Farmfair International
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:eb8e5f8351caf19c35931a444a9eb07b@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/TH24-0
  093_2025-04-07-153547_ihrs.jpg
@@ -5256,7 +5180,7 @@ DESCRIPTION:Farmfair is back & better than ever!\n\nFarmfair International
   Edmonton\, Alberta\, CA\nVisit / Tickets: https://farmfairinternational.c
  om/\nExplore Edmonton: https://exploreedmonton.com/event-calendar/farmfair
  -international
-LAST-MODIFIED:20260807T175714Z
+LAST-MODIFIED:20260807T181916Z
 LOCATION:Edmonton EXPO Centre - 7515 118 Ave NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5283,7 +5207,7 @@ BEGIN:VEVENT
 SUMMARY:Farmfair International Country Christmas Marketplace
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:f65ae48763b9cea80be359c0e8a84df0@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/FFI202
  4-SAT-308.jpg
@@ -5303,7 +5227,7 @@ DESCRIPTION:Saddle up for an array of local treasures!\n\nStep into the sp
  lberta\, CA\nVisit / Tickets: https://www.farmfairinternational.com/see-an
  d-do/country-christmas-marketplace\nExplore Edmonton: https://exploreedmon
  ton.com/event-calendar/country-christmas-marketplace-2026
-LAST-MODIFIED:20260807T175706Z
+LAST-MODIFIED:20260807T181907Z
 LOCATION:Edmonton EXPO Centre - 7515 118 Ave NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5335,7 +5259,7 @@ BEGIN:VEVENT
 SUMMARY:PBR Canada National Finals 2025
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:08ae6e7299229200f6ee12180738258e@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/rogers
  -place-edmonton.jpg
@@ -5350,7 +5274,7 @@ DESCRIPTION:Giddy up to Rogers Place for two days of action-packed excitem
   Place!\n\nEVENT INFORMATION\nLocation: Rogers Place - 10220 104 Ave NW\, 
  Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/eve
  nt-calendar/pbr-canada-national-finals-2026
-LAST-MODIFIED:20260807T175724Z
+LAST-MODIFIED:20260807T181927Z
 LOCATION:Rogers Place - 10220 104 Ave NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5375,7 +5299,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Across Canada Presents Disney’s Beauty and the Beast
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:1bad18c61257f5e942bd4eef4a6eb105@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Jubile
  e-114.JPG
@@ -5395,7 +5319,7 @@ DESCRIPTION:The beloved musical that brings Disney magic to life!\n\nBe Ou
  ton\, Alberta\, CA\nVisit / Tickets: https://edmonton.broadway.com/shows/b
  eauty-and-the-beast/\nExplore Edmonton: https://exploreedmonton.com/event-
  calendar/broadway-across-canada-presents-disneys-beauty-and-the-beast
-LAST-MODIFIED:20260807T175701Z
+LAST-MODIFIED:20260807T181902Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -5427,7 +5351,7 @@ BEGIN:VEVENT
 SUMMARY:Double Bill: Mia Kelly & Eliza Mary Doyle
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:71dcae75a5f7afe4783e420e98ec3386@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Valley
  -Line-LRT-Fall-large.jpg
@@ -5444,7 +5368,7 @@ DESCRIPTION:Experience Mia Kelly & Eliza Mary Doyle live at the New Moon F
  olk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https
  ://exploreedmonton.com/event-calendar/double-bill-mia-kelly-eliza-mary-doy
  le
-LAST-MODIFIED:20260807T175708Z
+LAST-MODIFIED:20260807T181910Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5471,7 +5395,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Carol
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:76f10d00c1b3c658a4e1f3fb8b5d6540@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Citade
  l-Carol-2025-Breanna-set-0410.jpg
@@ -5485,7 +5409,7 @@ DESCRIPTION:A classic show for the holidays at the Citadel!\n\nHard-hearte
   bright this season!\n\nEVENT INFORMATION\nLocation: Citadel Theatre - 982
  8 A Avenue\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedm
  onton.com/event-calendar/a-christmas-carol-2026
-LAST-MODIFIED:20260807T175657Z
+LAST-MODIFIED:20260807T181857Z
 LOCATION:Citadel Theatre - 9828 A Avenue\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5508,7 +5432,7 @@ BEGIN:VEVENT
 SUMMARY:The Sultans of String
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:ce10d54eef3181f7f922d36539319218@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/DJI_03
  31-large.jpg
@@ -5517,11 +5441,12 @@ DESCRIPTION:The Sultans of String have a festive performance in store!\n\n
  tive\, feel-good show full of energy and warmth. This JUNO-nominated ensem
  ble reimagines seasonal favourites and original pieces with soaring violin
  \, fiery guitar\, and infectious rhythms\, creating a joyful “trip aroun
- d the world in one December night.”\n\nEVENT INFORMATION\nLocation: New 
- Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA\nVisit / Tickets: 
- https://newmoon.ticketpro.ca/en/pages/1685472620\nExplore Edmonton: https:
- //exploreedmonton.com/event-calendar/the-sultans-of-string
-LAST-MODIFIED:20260807T175733Z
+ d the world in one December night.”\n\nOctober is Queer History Month!\n
+ \nEVENT INFORMATION\nLocation: New Moon Folk Club - 10819 71 Ave\, Edmonto
+ n\, Alberta\, CA\nVisit / Tickets: https://newmoon.ticketpro.ca/en/pages/1
+ 685472620\nExplore Edmonton: https://exploreedmonton.com/event-calendar/th
+ e-sultans-of-string
+LAST-MODIFIED:20260807T181936Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5531,12 +5456,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>The Sultans of String have a festive perfo
  lub this fall for a festive\, feel-good show full of energy and warmth. Th
  is JUNO-nominated ensemble reimagines seasonal favourites and original pie
  ces with soaring violin\, fiery guitar\, and infectious rhythms\, creating
-  a joyful “trip around the world in one December night.”</p><h3>Event 
- Information</h3><ul><li><strong>Location:</strong> New Moon Folk Club - 10
- 819 71 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Visit / Tickets:</str
- ong> https://newmoon.ticketpro.ca/en/pages/1685472620</li><li><strong>Expl
- ore Edmonton:</strong> https://exploreedmonton.com/event-calendar/the-sult
- ans-of-string</li></ul>
+  a joyful “trip around the world in one December night.”</p><p>October
+  is Queer History Month!</p><h3>Event Information</h3><ul><li><strong>Loca
+ tion:</strong> New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
+ </li><li><strong>Visit / Tickets:</strong> https://newmoon.ticketpro.ca/en
+ /pages/1685472620</li><li><strong>Explore Edmonton:</strong> https://explo
+ reedmonton.com/event-calendar/the-sultans-of-string</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/DJI_0331-large.jpg
 X-TICKETS-URL:https://newmoon.ticketpro.ca/en/pages/1685472620
 END:VEVENT
@@ -5544,7 +5469,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:47c26189d90dfdffd36ef4c2f8f45de4@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Attractions_Rogers-Place_Exterior.jpg
@@ -5552,11 +5477,11 @@ DESCRIPTION:Don't miss your chance to experience RUSH live in Edmonton thi
  s winter!\n\nRUSH\, the iconic Canadian rock band\, is making their way to
   Edmonton this winter! These GRAMMY® Award-nominated rock legends have sh
  aped generations of music fans with their unforgettable sound and electrif
- ying performances.\n\nEVENT INFORMATION\nSchedule: Dec 10\, 2026\, Dec 12\
- , 2026\nLocation: Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\n
- Explore Edmonton: https://exploreedmonton.com/event-calendar/rush-fifty-so
- mething
-LAST-MODIFIED:20260807T175727Z
+ ying performances.\n\nOctober is Queer History Month!\n\nEVENT INFORMATION
+ \nSchedule: Dec 10\, 2026\, Dec 12\, 2026\nLocation: Rogers Place - 10220 
+ 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmont
+ on.com/event-calendar/rush-fifty-something
+LAST-MODIFIED:20260807T181930Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5565,11 +5490,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Don&#x27\;t miss your chance to experience
   RUSH live in Edmonton this winter!</p><p>RUSH\, the iconic Canadian rock 
  band\, is making their way to Edmonton this winter! These GRAMMY® Award-n
  ominated rock legends have shaped generations of music fans with their unf
- orgettable sound and electrifying performances.</p><h3>Event Information</
- h3><ul><li><strong>Schedule:</strong> Dec 10\, 2026\, Dec 12\, 2026</li><l
- i><strong>Location:</strong> Rogers Place - 10220 104 Ave\, Edmonton\, Alb
- erta\, CA</li><li><strong>Explore Edmonton:</strong> https://exploreedmont
- on.com/event-calendar/rush-fifty-something</li></ul>
+ orgettable sound and electrifying performances.</p><p>October is Queer His
+ tory Month!</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong
+ > Dec 10\, 2026\, Dec 12\, 2026</li><li><strong>Location:</strong> Rogers 
+ Place - 10220 104 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Explore Ed
+ monton:</strong> https://exploreedmonton.com/event-calendar/rush-fifty-som
+ ething</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Edmonton_Attractions_Rog
  ers-Place_Exterior.jpg
 END:VEVENT
@@ -5577,7 +5503,7 @@ BEGIN:VEVENT
 SUMMARY:Disney's The Muppet Christmas Carol in Concert
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:55e6a497545bf8fc42b33e26bfc3051e@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Muppet
  s-NAJA-2026-1920x1080-1.png
@@ -5595,7 +5521,7 @@ DESCRIPTION:Don't miss this holiday favourite!\n\nAfter sold-out shows in
  rta Jubilee Auditorium - 1455 87 Ave\, Edmonton\, Alberta\, CA\nExplore Ed
  monton: https://exploreedmonton.com/event-calendar/disneys-the-muppet-chri
  stmas-carol-in-concert
-LAST-MODIFIED:20260807T175708Z
+LAST-MODIFIED:20260807T181910Z
 LOCATION:Northern Alberta Jubilee Auditorium - 1455 87 Ave\, Edmonton\, Al
  berta\, CA
 STATUS:CONFIRMED
@@ -5624,7 +5550,7 @@ BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:2f6e87464ce646690b4d0e520745c6f3@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Edmont
  on_Attractions_Rogers-Place_Exterior.jpg
@@ -5632,11 +5558,11 @@ DESCRIPTION:Don't miss your chance to experience RUSH live in Edmonton thi
  s winter!\n\nRUSH\, the iconic Canadian rock band\, is making their way to
   Edmonton this winter! These GRAMMY® Award-nominated rock legends have sh
  aped generations of music fans with their unforgettable sound and electrif
- ying performances.\n\nEVENT INFORMATION\nSchedule: Dec 10\, 2026\, Dec 12\
- , 2026\nLocation: Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\n
- Explore Edmonton: https://exploreedmonton.com/event-calendar/rush-fifty-so
- mething
-LAST-MODIFIED:20260807T175727Z
+ ying performances.\n\nOctober is Queer History Month!\n\nEVENT INFORMATION
+ \nSchedule: Dec 10\, 2026\, Dec 12\, 2026\nLocation: Rogers Place - 10220 
+ 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmont
+ on.com/event-calendar/rush-fifty-something
+LAST-MODIFIED:20260807T181930Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5645,11 +5571,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Don&#x27\;t miss your chance to experience
   RUSH live in Edmonton this winter!</p><p>RUSH\, the iconic Canadian rock 
  band\, is making their way to Edmonton this winter! These GRAMMY® Award-n
  ominated rock legends have shaped generations of music fans with their unf
- orgettable sound and electrifying performances.</p><h3>Event Information</
- h3><ul><li><strong>Schedule:</strong> Dec 10\, 2026\, Dec 12\, 2026</li><l
- i><strong>Location:</strong> Rogers Place - 10220 104 Ave\, Edmonton\, Alb
- erta\, CA</li><li><strong>Explore Edmonton:</strong> https://exploreedmont
- on.com/event-calendar/rush-fifty-something</li></ul>
+ orgettable sound and electrifying performances.</p><p>October is Queer His
+ tory Month!</p><h3>Event Information</h3><ul><li><strong>Schedule:</strong
+ > Dec 10\, 2026\, Dec 12\, 2026</li><li><strong>Location:</strong> Rogers 
+ Place - 10220 104 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Explore Ed
+ monton:</strong> https://exploreedmonton.com/event-calendar/rush-fifty-som
+ ething</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Edmonton_Attractions_Rog
  ers-Place_Exterior.jpg
 END:VEVENT
@@ -5657,7 +5584,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Across Canada Presents Mrs. Doubtfire
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:967ea2c94df9626d6f48763872270640@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Mrs.-Doubtfire-1-2.jpg
@@ -5672,7 +5599,7 @@ DESCRIPTION:A heartfelt classic!\n\nEveryone’s favorite Scottish nanny i
  on\, Alberta\, CA\nVisit / Tickets: https://edmonton.broadway.com/shows/mr
  s-doubtfire/\nExplore Edmonton: https://exploreedmonton.com/event-calendar
  /broadway-across-canada-presents-mrs-doubtfire
-LAST-MODIFIED:20260807T175702Z
+LAST-MODIFIED:20260807T181903Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -5700,7 +5627,7 @@ BEGIN:VEVENT
 SUMMARY:The Waltz
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270218
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:0b64a78f13c59f15e9e652b37c0e8b70@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Varscona.jpg
@@ -5716,7 +5643,7 @@ DESCRIPTION:Shadow Theatre presents a heartfelt coming-of-age story.\n\nEd
  identity\, and possibility.\n\nEVENT INFORMATION\nLocation: Varscona Theat
  re - 10329 83 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exp
  loreedmonton.com/event-calendar/the-waltz
-LAST-MODIFIED:20260807T175734Z
+LAST-MODIFIED:20260807T181938Z
 LOCATION:Varscona Theatre - 10329 83 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5740,7 +5667,7 @@ BEGIN:VEVENT
 SUMMARY:The Story of Merle Haggard
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:4c1811ad21ac3a4de2afc175b9f9fb2a@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Jubile
  e-114.JPG
@@ -5760,7 +5687,7 @@ DESCRIPTION:A must-see show!\n\nBe part of a special evening dedicated to
   of Merle Haggard.\n\nEVENT INFORMATION\nLocation: Northern Alberta Jubile
  e Auditorium - 11455 87 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: h
  ttps://exploreedmonton.com/event-calendar/the-story-of-merle-haggard
-LAST-MODIFIED:20260807T175732Z
+LAST-MODIFIED:20260807T181936Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -5790,7 +5717,7 @@ BEGIN:VEVENT
 SUMMARY:John Wort Hannam Trio at the New Moon Folk Club
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:4350699a78c90230fe8034b3a1b2ffa8@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Walterdale-Bridge-Sunset-1-large-2.jpg
@@ -5804,7 +5731,7 @@ DESCRIPTION:Experience John Wort Hannam Trio live in concert this winter!\
  RMATION\nLocation: New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\
  , CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/john-wo
  rt-hannam-trio-at-the-new-moon-folk-club
-LAST-MODIFIED:20260807T175718Z
+LAST-MODIFIED:20260807T181920Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5828,7 +5755,7 @@ BEGIN:VEVENT
 SUMMARY:Annie at the Citadel Theatre
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270308
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:54c51ce774fbf8a6389d2eb739410803@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Citade
  lTheatre-4-medium.jpg
@@ -5844,7 +5771,7 @@ DESCRIPTION:Experience this heartwarming classic!\n\nSet in 1930s New York
  : Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA\nExplore Edmon
  ton: https://exploreedmonton.com/event-calendar/annie-at-the-citadel-theat
  re
-LAST-MODIFIED:20260807T175659Z
+LAST-MODIFIED:20260807T181900Z
 LOCATION:Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5870,7 +5797,7 @@ BEGIN:VEVENT
 SUMMARY:Double Bill: Terra Spencer & Ken Stead at the New Moon Folk Club
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:612a733d7578a81437f176f6c9dcedfc@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Walterdale-Bridge-Sunset-1-large-2.jpg
@@ -5883,7 +5810,7 @@ DESCRIPTION:Two full sets\, one cozy New Moon stage.\n\nTwo master storyte
  RMATION\nLocation: New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\
  , CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/double-
  bill-terra-spencer-ken-stead-at-the-new-moon-folk-club
-LAST-MODIFIED:20260807T175709Z
+LAST-MODIFIED:20260807T181910Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5906,7 +5833,7 @@ BEGIN:VEVENT
 SUMMARY:The Citadel Theatre: Sense and Sensibility
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270315
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:d3f5076bd009f4ca9e31ed94fa28605c@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Citade
  lTheatre-4-medium.jpg
@@ -5921,7 +5848,7 @@ DESCRIPTION:A fun and fresh adaptation of the Jane Austen classic comes to
  INFORMATION\nLocation: Citadel Theatre - 9828 101A Ave\, Edmonton\, Albert
  a\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/sense
  -and-sensibility-citadel-theatre-2027
-LAST-MODIFIED:20260807T175727Z
+LAST-MODIFIED:20260807T181931Z
 LOCATION:Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5946,7 +5873,7 @@ BEGIN:VEVENT
 SUMMARY:The Andrew Collins Trio
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:9749497484e04681bdd764bf075ad141@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Walter
  dale-Bridge-Sunset-1-large-1.jpg
@@ -5961,7 +5888,7 @@ DESCRIPTION:Experience The Andrew Collins Trio live at the New Moon Folk C
  on: New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA\nExplore E
  dmonton: https://exploreedmonton.com/event-calendar/the-andrew-collins-tri
  o
-LAST-MODIFIED:20260807T175729Z
+LAST-MODIFIED:20260807T181933Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5985,7 +5912,7 @@ BEGIN:VEVENT
 SUMMARY:The Sweet Caroline Tour: A Tribute to Neil Diamond
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:03216ce99a9c782347683ebec444b04e@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Neil-D
  iamond-Tribute-SNAJA-2026-1920x1080-2.jpg
@@ -5997,7 +5924,7 @@ DESCRIPTION:Experience timeless classics brought to life through incredibl
  ON\nLocation: Northern Alberta Jubilee Auditorium\, 11455 87 Ave\, Edmonto
  n\, Alberta\, CA\nExplore Edmonton: https://exploreedmonton.com/event-cale
  ndar/the-sweet-caroline-tour-a-tribute-to-neil-diamond
-LAST-MODIFIED:20260807T175733Z
+LAST-MODIFIED:20260807T181937Z
 LOCATION:Northern Alberta Jubilee Auditorium\, 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -6020,7 +5947,7 @@ BEGIN:VEVENT
 SUMMARY:The Unfaithful Servants at the New Moon Folk Club
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:c2c2ee800b7d970704b413ad47881434@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Walterdale-Bridge-Sunset-1-large-2.jpg
@@ -6036,7 +5963,7 @@ DESCRIPTION:The Unfaithful Servants are playing in Edmonton this winter!\n
  lub - 10819 71 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://ex
  ploreedmonton.com/event-calendar/the-unfaithful-servants-at-the-new-moon-f
  olk-club
-LAST-MODIFIED:20260807T175733Z
+LAST-MODIFIED:20260807T181937Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6062,7 +5989,7 @@ BEGIN:VEVENT
 SUMMARY:The Citadel Theatre: The Comeback
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270419
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:c374c20645e243594043f7e661fda3f3@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Citade
  lTheatre-4-medium.jpg
@@ -6078,7 +6005,7 @@ DESCRIPTION:Experience The Citadel Theatre situated in Edmonton's Arts Dis
  N\nLocation: Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA\nEx
  plore Edmonton: https://exploreedmonton.com/event-calendar/the-comeback-ci
  tadel-theatre
-LAST-MODIFIED:20260807T175731Z
+LAST-MODIFIED:20260807T181934Z
 LOCATION:Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6104,7 +6031,7 @@ BEGIN:VEVENT
 SUMMARY:Jeffery Straker at the New Moon Folk Club
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:e4f6a0934a8773c1e7a134c10783ef11@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/featur
  e/Edmonton-Cityscape-at-Sunset-Summer.jpg
@@ -6119,11 +6046,10 @@ DESCRIPTION:Experience Jeffery Straker live this April!\n\nJeffery Straker
   of the Year" and Western Canadian Music Award winner whose songs have app
  eared on CBC and in film and theatre\, Straker brings a heartfelt\, big-sk
  y piano show to New Moon Folk Club that feels both cinematic and beautiful
- ly down-to-earth.\n\nOctober is Queer History Month!\n\nEVENT INFORMATION\
- nLocation: New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA\nEx
- plore Edmonton: https://exploreedmonton.com/event-calendar/jeffery-straker
- -at-the-new-moon-folk-club
-LAST-MODIFIED:20260807T175717Z
+ ly down-to-earth.\n\nEVENT INFORMATION\nLocation: New Moon Folk Club - 108
+ 19 71 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmo
+ nton.com/event-calendar/jeffery-straker-at-the-new-moon-folk-club
+LAST-MODIFIED:20260807T181919Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6140,11 +6066,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Experience Jeffery Straker live this April
  c Award &quot\;Roots/Folk Artist of the Year&quot\; and Western Canadian M
  usic Award winner whose songs have appeared on CBC and in film and theatre
  \, Straker brings a heartfelt\, big-sky piano show to New Moon Folk Club t
- hat feels both cinematic and beautifully down-to-earth.</p><p>October is Q
- ueer History Month!</p><h3>Event Information</h3><ul><li><strong>Location:
- </strong> New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA</li>
- <li><strong>Explore Edmonton:</strong> https://exploreedmonton.com/event-c
- alendar/jeffery-straker-at-the-new-moon-folk-club</li></ul>
+ hat feels both cinematic and beautifully down-to-earth.</p><h3>Event Infor
+ mation</h3><ul><li><strong>Location:</strong> New Moon Folk Club - 10819 7
+ 1 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonton:</strong>
+  https://exploreedmonton.com/event-calendar/jeffery-straker-at-the-new-moo
+ n-folk-club</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/feature/Edmonton-Citysca
  pe-at-Sunset-Summer.jpg
 END:VEVENT
@@ -6152,7 +6078,7 @@ BEGIN:VEVENT
 SUMMARY:ChocoFest
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270411
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:9913722895f0941bdde664ac7168ff83@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/ChocoF
  est-53.jpg
@@ -6171,7 +6097,7 @@ DESCRIPTION:Prepare to level up your sweet treat game.\n\nChocoFest is Wes
  ton Inn & Conference Centre\, 11834 Kingsway\, Edmonton\, Alberta\, CA\nVi
  sit / Tickets: https://chocofest.ca/edmonton-chocofest-2027/\nExplore Edmo
  nton: https://exploreedmonton.com/event-calendar/chocofest-2027
-LAST-MODIFIED:20260807T175704Z
+LAST-MODIFIED:20260807T181905Z
 LOCATION:Edmonton Inn & Conference Centre\, 11834 Kingsway\, Edmonton\, Al
  berta\, CA
 STATUS:CONFIRMED
@@ -6201,7 +6127,7 @@ BEGIN:VEVENT
 SUMMARY:Maggie's Wake at the New Moon Folk Club
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:e8f393eeb4c0a087d69469a2a9469b96@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/McDoug
  all-Hill-Lookout_A-view-of-the-Muttart-Conservatory-pyramids-and-the-Low-L
@@ -6220,7 +6146,7 @@ DESCRIPTION:Maggie's Wake is performing at the New Moon Folk Club this Apr
  RMATION\nLocation: New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\
  , CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar/maggies
  -wake-at-the-new-moon-folk-club
-LAST-MODIFIED:20260807T175722Z
+LAST-MODIFIED:20260807T181924Z
 LOCATION:New Moon Folk Club - 10819 71 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6249,7 +6175,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Across Canada Presents SIX
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270510
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:1c21012b3e80bbe6f6416dbf2308a210@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/The-No
  rth-American-Tour-Aragon-Company-of-SIX.-Photo-by-Joan-Marcus-A0001r-1.jpg
@@ -6262,7 +6188,7 @@ DESCRIPTION:A fan-favourite is coming to Edmonton!\n\nFrom Tudor queens to
  \, Alberta\, CA\nVisit / Tickets: https://edmonton.broadway.com/shows/six/
  \nExplore Edmonton: https://exploreedmonton.com/event-calendar/broadway-ac
  ross-canada-presents-six
-LAST-MODIFIED:20260807T175702Z
+LAST-MODIFIED:20260807T181903Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
@@ -6287,7 +6213,7 @@ BEGIN:VEVENT
 SUMMARY:The Citadel Theatre: Come From Away
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:20925dfaff72faeee3b67717dcea3898@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/Come-F
  rom-Away-Arts-Club-Explore-Edmonton.jpg
@@ -6303,7 +6229,7 @@ DESCRIPTION:A heartwarming show about community connection and resilience.
  8 101A Ave\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://citadelthea
  tre.com/productions/come-from-away-26/\nExplore Edmonton: https://exploree
  dmonton.com/event-calendar/come-from-away-2027
-LAST-MODIFIED:20260807T175706Z
+LAST-MODIFIED:20260807T181907Z
 LOCATION:Citadel Theatre - 9828 101A Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6330,7 +6256,7 @@ BEGIN:VEVENT
 SUMMARY:Broadway Across Canada: Hamilton
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270705
-DTSTAMP:20260807T175736Z
+DTSTAMP:20260807T181940Z
 UID:32eadff94ea80dcb72c52b7b8a84f572@explore-edmonton-calendar
 ATTACH;FMTTYPE=image/jpeg:https://assets.exploreedmonton.com/images/17-Com
  pany-HAMILTON-National-Tour-c-Joan-Marcus-2024-2.jpg
@@ -6343,7 +6269,7 @@ DESCRIPTION:A must-see performance!\n\nLin Manuel Miranda’s Hamilton is
  7 Ave\, Edmonton\, Alberta\, CA\nVisit / Tickets: https://edmonton.broadwa
  y.com/shows/hamilton/\nExplore Edmonton: https://exploreedmonton.com/event
  -calendar/broadway-across-canada-presents-hamilton
-LAST-MODIFIED:20260807T175701Z
+LAST-MODIFIED:20260807T181902Z
 LOCATION:Northern Alberta Jubilee Auditorium - 11455 87 Ave\, Edmonton\, A
  lberta\, CA
 STATUS:CONFIRMED
