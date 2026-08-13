@@ -1,4 +1,4 @@
-name: Update Explore Edmonton calendar
+name: Update Explore Edmonton timed calendar
 
 on:
   schedule:
@@ -15,18 +15,20 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-calendar
-  cancel-in-progress: false
+  group: explore-edmonton-calendar-update
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
@@ -37,22 +39,37 @@ jobs:
       - name: Install Chromium
         run: python -m playwright install --with-deps chromium
 
-      - name: Build calendar
+      - name: Parser self-test
+        run: python update_calendar.py --self-test
+
+      - name: Build timed-only calendar
         run: python update_calendar.py
 
+      - name: Verify no all-day events
+        shell: bash
+        run: |
+          if grep -qE '^DT(START|END);VALUE=DATE' docs/explore-edmonton-events.ics; then
+            echo "ERROR: all-day event found in generated feed"
+            exit 1
+          fi
+          if ! grep -q '^DTSTART' docs/explore-edmonton-events.ics; then
+            echo "ERROR: generated feed has no timed events"
+            exit 1
+          fi
+          echo "Verified: feed contains timed events only"
+
       - name: Commit updated calendar
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add docs/explore-edmonton-events.ics
 
           if git diff --cached --quiet; then
-            echo "Calendar is already up to date."
+            echo "Calendar already up to date."
             exit 0
           fi
 
-          git commit -m "Update Explore Edmonton calendar"
-
+          git commit -m "Update Explore Edmonton timed calendar"
           git pull --rebase origin main
           git push origin main
