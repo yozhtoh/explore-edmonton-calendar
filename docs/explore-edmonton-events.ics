@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20130729T110000
 DTEND;TZID=America/Edmonton:20130729T180000
-DTSTAMP:20260816T130338Z
+DTSTAMP:20260816T184958Z
 UID:ff2d41bcc37dae537c94425b47d86ca1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
  _ICE-District-1_2026-06-09-171011_powb.jpg
@@ -30,7 +30,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  n: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Visit 
  site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://exploreed
  monton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-district
-LAST-MODIFIED:20260816T130046Z
+LAST-MODIFIED:20260816T184704Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20130805T110000
 DTEND;TZID=America/Edmonton:20130805T180000
-DTSTAMP:20260816T130338Z
+DTSTAMP:20260816T184958Z
 UID:e9644685c892c1672adccfae26589e3c@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
  _ICE-District-1_2026-06-09-171011_powb.jpg
@@ -79,7 +79,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  on: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Visit
   site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://exploree
  dmonton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-district
-LAST-MODIFIED:20260816T130046Z
+LAST-MODIFIED:20260816T184704Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20130812T110000
 DTEND;TZID=America/Edmonton:20130812T180000
-DTSTAMP:20260816T130338Z
+DTSTAMP:20260816T184958Z
 UID:5b91628c950fcca502db2e3c97f424c7@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
  _ICE-District-1_2026-06-09-171011_powb.jpg
@@ -128,7 +128,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  ion: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Visi
  t site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://explore
  edmonton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-district
-LAST-MODIFIED:20260816T130046Z
+LAST-MODIFIED:20260816T184704Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20130819T110000
 DTEND;TZID=America/Edmonton:20130819T180000
-DTSTAMP:20260816T130338Z
+DTSTAMP:20260816T184958Z
 UID:8e9d07c0eea20bb087c818f845033270@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
  _ICE-District-1_2026-06-09-171011_powb.jpg
@@ -177,7 +177,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  ion: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Visi
  t site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://explore
  edmonton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-district
-LAST-MODIFIED:20260816T130046Z
+LAST-MODIFIED:20260816T184704Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunar Eclipse Viewing at the RASC Observatory
 DTSTART;TZID=America/Edmonton:20260827T203000
-DTSTAMP:20260816T130338Z
+DTSTAMP:20260816T184958Z
 UID:83d08c621b912356eb7afabde6ad89f5@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Event-2-Lunar-Eclipse-2.j
  peg
@@ -220,7 +220,7 @@ DESCRIPTION:The night sky is putting on a show!\n\nCalling all space enthu
  st 27\, 2026 at 8:30 PM\nLocation: TELUS World of Science - Edmonton\, 112
  11 142 St\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmo
  nton.com/event-calendar/lunar-eclipse-viewing-at-the-rasc-observatory
-LAST-MODIFIED:20260816T130206Z
+LAST-MODIFIED:20260816T184826Z
 LOCATION:TELUS World of Science - Edmonton\, 11211 142 St\, Edmonton\, Alb
  erta\, CA
 STATUS:CONFIRMED
