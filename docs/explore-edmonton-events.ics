@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20130729T110000
 DTEND;TZID=America/Edmonton:20130729T180000
-DTSTAMP:20260816T020137Z
+DTSTAMP:20260816T070240Z
 UID:ff2d41bcc37dae537c94425b47d86ca1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
  _ICE-District-1_2026-06-09-171011_powb.jpg
@@ -30,7 +30,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  n: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Visit 
  site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://exploreed
  monton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-district
-LAST-MODIFIED:20260816T015827Z
+LAST-MODIFIED:20260816T065926Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20130805T110000
 DTEND;TZID=America/Edmonton:20130805T180000
-DTSTAMP:20260816T020137Z
+DTSTAMP:20260816T070240Z
 UID:e9644685c892c1672adccfae26589e3c@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
  _ICE-District-1_2026-06-09-171011_powb.jpg
@@ -79,7 +79,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  on: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Visit
   site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://exploree
  dmonton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-district
-LAST-MODIFIED:20260816T015827Z
+LAST-MODIFIED:20260816T065926Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -108,59 +108,9 @@ X-TICKETS-URL:https://www.cpkcwomensopen.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
-DTSTART;TZID=America/Edmonton:20130810T110000
-DTEND;TZID=America/Edmonton:20130810T180000
-DTSTAMP:20260816T020137Z
-UID:6a29b0237dcea991872472daba8debc8@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
- _ICE-District-1_2026-06-09-171011_powb.jpg
-DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead 
- to the ICE District Plaza every Wednesday from 11:00 a.m. to 6:00 p.m. for
-  a series of free\, family-friendly golf events leading up to the CPKC Wom
- en’s Open\, returning to Edmonton this August for the first time since 2
- 013.\n\nTest your skills on the PGX Mini Golf Course\, take on the long pu
- tt challenge\, learn more about She Plays Golf and First Tee – Alberta\,
-  and discover the impact these programs are making with youth across the p
- rovince. Guests can also explore everything the CPKC Women’s Open has to
-  offer.\n\nEnjoy food trucks\, prizes\, and giveaways throughout the day\,
-  including chances to win tickets to the CPKC Women’s Open!\n\nEVENT INF
- ORMATION\nSchedule: Saturday\, August 10\, 2013 at 11:00 AM–6:00 PM\nLoc
- ation: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Vi
- sit site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://explo
- reedmonton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-distri
- ct
-LAST-MODIFIED:20260816T015827Z
-LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/cpkc-womens-open-golf-days-
- in-the-ice-district
-X-ALT-DESC;FMTTYPE=text/html:<p>For avid golfers\, beginners\, and fun-see
- kers alike!</p><p>Head to the ICE District Plaza every Wednesday from 11:0
- 0 a.m. to 6:00 p.m. for a series of free\, family-friendly golf events lea
- ding up to the CPKC Women’s Open\, returning to Edmonton this August for
-  the first time since 2013.</p><p>Test your skills on the PGX Mini Golf Co
- urse\, take on the long putt challenge\, learn more about She Plays Golf a
- nd First Tee – Alberta\, and discover the impact these programs are maki
- ng with youth across the province. Guests can also explore everything the 
- CPKC Women’s Open has to offer.</p><p>Enjoy food trucks\, prizes\, and g
- iveaways throughout the day\, including chances to win tickets to the CPKC
-  Women’s Open!</p><h3>Event Information</h3><ul><li><strong>Schedule:</s
- trong> Saturday\, August 10\, 2013 at 11:00 AM–6:00 PM</li><li><strong>L
- ocation:</strong> ICE District - 10360 102 St\, Edmonton\, Alberta\, CA</l
- i><li><strong>Tickets / Visit site:</strong> https://www.cpkcwomensopen.co
- m/</li><li><strong>Explore Edmonton:</strong> https://exploreedmonton.com/
- event-calendar/cpkc-womens-open-golf-days-in-the-ice-district</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtow
- n_ICE-District-1_2026-06-09-171011_powb.jpg
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://www.cpkcwomensopen.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20130812T110000
 DTEND;TZID=America/Edmonton:20130812T180000
-DTSTAMP:20260816T020137Z
+DTSTAMP:20260816T070240Z
 UID:5b91628c950fcca502db2e3c97f424c7@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
  _ICE-District-1_2026-06-09-171011_powb.jpg
@@ -178,7 +128,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  ion: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Visi
  t site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://explore
  edmonton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-district
-LAST-MODIFIED:20260816T015827Z
+LAST-MODIFIED:20260816T065926Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -209,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:CPKC Women's Open Golf Days in the ICE District
 DTSTART;TZID=America/Edmonton:20130819T110000
 DTEND;TZID=America/Edmonton:20130819T180000
-DTSTAMP:20260816T020137Z
+DTSTAMP:20260816T070240Z
 UID:8e9d07c0eea20bb087c818f845033270@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/gallery/Edmonton_Downtown
  _ICE-District-1_2026-06-09-171011_powb.jpg
@@ -227,7 +177,7 @@ DESCRIPTION:For avid golfers\, beginners\, and fun-seekers alike!\n\nHead
  ion: ICE District - 10360 102 St\, Edmonton\, Alberta\, CA\nTickets / Visi
  t site: https://www.cpkcwomensopen.com/\nExplore Edmonton: https://explore
  edmonton.com/event-calendar/cpkc-womens-open-golf-days-in-the-ice-district
-LAST-MODIFIED:20260816T015827Z
+LAST-MODIFIED:20260816T065926Z
 LOCATION:ICE District - 10360 102 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -257,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lunar Eclipse Viewing at the RASC Observatory
 DTSTART;TZID=America/Edmonton:20260827T203000
-DTSTAMP:20260816T020137Z
+DTSTAMP:20260816T070240Z
 UID:83d08c621b912356eb7afabde6ad89f5@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Event-2-Lunar-Eclipse-2.j
  peg
@@ -270,7 +220,7 @@ DESCRIPTION:The night sky is putting on a show!\n\nCalling all space enthu
  st 27\, 2026 at 8:30 PM\nLocation: TELUS World of Science - Edmonton\, 112
  11 142 St\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmo
  nton.com/event-calendar/lunar-eclipse-viewing-at-the-rasc-observatory
-LAST-MODIFIED:20260816T015957Z
+LAST-MODIFIED:20260816T070101Z
 LOCATION:TELUS World of Science - Edmonton\, 11211 142 St\, Edmonton\, Alb
  erta\, CA
 STATUS:CONFIRMED
