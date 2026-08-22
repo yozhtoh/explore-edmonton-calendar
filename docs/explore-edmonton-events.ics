@@ -11,7 +11,7 @@ X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
 SUMMARY:Lunar Eclipse Viewing at the RASC Observatory
 DTSTART;TZID=America/Edmonton:20260827T203000
-DTSTAMP:20260822T070240Z
+DTSTAMP:20260822T130322Z
 UID:83d08c621b912356eb7afabde6ad89f5@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Event-2-Lunar-Eclipse-2.j
  peg
@@ -20,12 +20,11 @@ DESCRIPTION:The night sky is putting on a show!\n\nCalling all space enthu
  l Society of Edmonton to experience the lunar eclipse\, beginning at 8:30 
  p.m.\n\nDiscover the science behind the Moon as you observe the eclipse th
  rough one of their observatory telescopes and enjoy a closer look at our n
- earest celestial neighbor!\n\nYour guide to celebrating National Indigenou
- s History Month in Edmonton\n\nEVENT INFORMATION\nSchedule: Thursday\, Aug
- ust 27\, 2026 at 8:30 PM\nLocation: TELUS World of Science - Edmonton\, 11
- 211 142 St\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedm
- onton.com/event-calendar/lunar-eclipse-viewing-at-the-rasc-observatory
-LAST-MODIFIED:20260822T070109Z
+ earest celestial neighbor!\n\nEVENT INFORMATION\nSchedule: Thursday\, Augu
+ st 27\, 2026 at 8:30 PM\nLocation: TELUS World of Science - Edmonton\, 112
+ 11 142 St\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://exploreedmo
+ nton.com/event-calendar/lunar-eclipse-viewing-at-the-rasc-observatory
+LAST-MODIFIED:20260822T130158Z
 LOCATION:TELUS World of Science - Edmonton\, 11211 142 St\, Edmonton\, Alb
  erta\, CA
 STATUS:CONFIRMED
@@ -37,13 +36,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>The night sky is putting on a show!</p><p>
  d the Royal Astronomical Society of Edmonton to experience the lunar eclip
  se\, beginning at 8:30 p.m.</p><p>Discover the science behind the Moon as 
  you observe the eclipse through one of their observatory telescopes and en
- joy a closer look at our nearest celestial neighbor!</p><p>Your guide to c
- elebrating National Indigenous History Month in Edmonton</p><h3>Event Info
- rmation</h3><ul><li><strong>Schedule:</strong> Thursday\, August 27\, 2026
-  at 8:30 PM</li><li><strong>Location:</strong> TELUS World of Science - Ed
- monton\, 11211 142 St\, Edmonton\, Alberta\, CA</li><li><strong>Explore Ed
- monton:</strong> https://exploreedmonton.com/event-calendar/lunar-eclipse-
- viewing-at-the-rasc-observatory</li></ul>
+ joy a closer look at our nearest celestial neighbor!</p><h3>Event Informat
+ ion</h3><ul><li><strong>Schedule:</strong> Thursday\, August 27\, 2026 at 
+ 8:30 PM</li><li><strong>Location:</strong> TELUS World of Science - Edmont
+ on\, 11211 142 St\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmont
+ on:</strong> https://exploreedmonton.com/event-calendar/lunar-eclipse-view
+ ing-at-the-rasc-observatory</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/Event-2-Lunar-Eclipse-2.
  jpeg
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
