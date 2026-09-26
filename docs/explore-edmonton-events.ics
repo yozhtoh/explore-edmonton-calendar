@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Canadian Finals Rodeo & CFR Week
 DTSTART;TZID=America/Edmonton:20261010T080000
 DTEND;TZID=America/Edmonton:20261010T110000
-DTSTAMP:20260926T045824Z
+DTSTAMP:20260926T112533Z
 UID:e16d62d1d9192a339343e1f7c6dea494@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/BR_GradyYoung_ChesterA.jp
  g
@@ -58,7 +58,7 @@ DESCRIPTION:It’s that time of year again\, CFR is here!\n\nThe champions
  ation: Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edm
  onton: https://exploreedmonton.com/event-calendar/canadian-finals-rodeo-cf
  r-week
-LAST-MODIFIED:20260926T045543Z
+LAST-MODIFIED:20260926T112238Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
