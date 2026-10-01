@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Canadian Finals Rodeo & CFR Week
 DTSTART;TZID=America/Edmonton:20261010T080000
 DTEND;TZID=America/Edmonton:20261010T110000
-DTSTAMP:20260930T221612Z
+DTSTAMP:20261001T055110Z
 UID:e16d62d1d9192a339343e1f7c6dea494@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/BR_GradyYoung_ChesterA.jp
  g
@@ -53,12 +53,13 @@ DESCRIPTION:It’s that time of year again\, CFR is here!\n\nThe champions
   Hotels Ltd.\n\nInformation about the chili cook off can be found here: ht
  tps://www.cfr.ca/schedule/the-great-canadian-cfr-chili-cook-off !\n\nCFR s
  howcases the best of rodeo sport\, from powerful roughstock rides to light
- ning-fast timed events and precision women’s competitions.\n\nEVENT INFO
- RMATION\nSchedule: Saturday\, October 10\, 2026 at 8:00 AM–11:00 AM\nLoc
- ation: Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edm
- onton: https://exploreedmonton.com/event-calendar/canadian-finals-rodeo-cf
- r-week
-LAST-MODIFIED:20260930T221348Z
+ ning-fast timed events and precision women’s competitions.\n\nA GUIDE TO
+  NATIONAL INDIGENOUS HISTORY MONTH IN EDMONTON\nYour guide to celebrating 
+ National Indigenous History Month in Edmonton\n\nEVENT INFORMATION\nSchedu
+ le: Saturday\, October 10\, 2026 at 8:00 AM–11:00 AM\nLocation: Rogers P
+ lace - 10220 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edmonton: https://
+ exploreedmonton.com/event-calendar/canadian-finals-rodeo-cfr-week
+LAST-MODIFIED:20261001T054848Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -102,12 +103,14 @@ X-ALT-DESC;FMTTYPE=text/html:<p>It’s that time of year again\, CFR is he
  Ltd.</p><p>Information about the chili cook off can be found here: https:/
  /www.cfr.ca/schedule/the-great-canadian-cfr-chili-cook-off !</p><p>CFR sho
  wcases the best of rodeo sport\, from powerful roughstock rides to lightni
- ng-fast timed events and precision women’s competitions.</p><h3>Event In
- formation</h3><ul><li><strong>Schedule:</strong> Saturday\, October 10\, 2
- 026 at 8:00 AM–11:00 AM</li><li><strong>Location:</strong> Rogers Place 
- - 10220 104 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonton
- :</strong> https://exploreedmonton.com/event-calendar/canadian-finals-rode
- o-cfr-week</li></ul>
+ ng-fast timed events and precision women’s competitions.</p><h3>A Guide 
+ to National Indigenous History Month in Edmonton</h3><p>Your guide to cele
+ brating National Indigenous History Month in Edmonton</p><h3>Event Informa
+ tion</h3><ul><li><strong>Schedule:</strong> Saturday\, October 10\, 2026 a
+ t 8:00 AM–11:00 AM</li><li><strong>Location:</strong> Rogers Place - 102
+ 20 104 Ave\, Edmonton\, Alberta\, CA</li><li><strong>Explore Edmonton:</st
+ rong> https://exploreedmonton.com/event-calendar/canadian-finals-rodeo-cfr
+ -week</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/BR_GradyYoung_ChesterA.j
  pg
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
