@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Canadian Finals Rodeo & CFR Week
 DTSTART;TZID=America/Edmonton:20261010T080000
 DTEND;TZID=America/Edmonton:20261010T110000
-DTSTAMP:20261010T055223Z
+DTSTAMP:20261010T123124Z
 UID:e16d62d1d9192a339343e1f7c6dea494@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/BR_GradyYoung_ChesterA.jp
  g
@@ -58,7 +58,7 @@ DESCRIPTION:It’s that time of year again\, CFR is here!\n\nThe champions
  ation: Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edm
  onton: https://exploreedmonton.com/event-calendar/canadian-finals-rodeo-cf
  r-week
-LAST-MODIFIED:20261010T054926Z
+LAST-MODIFIED:20261010T122831Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T120000
 DTEND;TZID=America/Edmonton:20261106T160000
-DTSTAMP:20261010T055223Z
+DTSTAMP:20261010T123124Z
 UID:c130021bea4b66dfcdb436d89fe26242@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -139,7 +139,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  monton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.com
  /edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.c
  om/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T055125Z
+LAST-MODIFIED:20261010T123030Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T173000
 DTEND;TZID=America/Edmonton:20261107T100000
-DTSTAMP:20261010T055223Z
+DTSTAMP:20261010T123124Z
 UID:b03ad9d5ccbeed9f938a0265a5496ca1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -201,7 +201,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  ite: https://rockymountainwine.com/edmonton-wine-food-festival/\nExplore E
  dmonton: https://exploreedmonton.com/event-calendar/rocky-mountain-wine-fo
  od-festival
-LAST-MODIFIED:20261010T055125Z
+LAST-MODIFIED:20261010T123030Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T180000
 DTEND;TZID=America/Edmonton:20261106T220000
-DTSTAMP:20261010T055223Z
+DTSTAMP:20261010T123124Z
 UID:6f733cbd82c0c0f9e3c2708b13ffc4a1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -262,7 +262,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  dmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.co
  m/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T055125Z
+LAST-MODIFIED:20261010T123030Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -298,132 +298,9 @@ X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
-DTSTART;TZID=America/Edmonton:20261107T120000
-DTEND;TZID=America/Edmonton:20261107T160000
-DTSTAMP:20261010T055223Z
-UID:a1805cbadabf86b4455c6cabb88b3482@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
- w-Photography-49-1.JPG
-DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
- .\n\nSince launching in 1998\, the Rocky Mountain Wine & Food Festival\, p
- resented by Sobeys Liquor & Safeway Liquor\, has been Alberta’s largest 
- and most beloved food & adult beverage event\, welcoming hundreds of exhib
- itors and thousands of guests travelling from across Western Canada each y
- ear!\n\nThe Rocky Mountain Wine & Food Festival is an opportunity to taste
-  and try a selection of adult beverages and local cuisine\, while learning
-  about the processes and people behind your favourite sips and bites! Disc
- over and explore a variety of fine wines\, premium spirits\, and craft bee
- rs\, and meet chefs from local restaurants who will be serving up deliciou
- s fare to pair with the wonderful assortment of drinks!\n\nFriday\, Nov. 6
-  Evening Session: 5:30p.m.-10:000p.m.\n\nSaturday\, Nov. 7 Afternoon Sessi
- on: 12:00p.m.-4:00p.m.\n\nSaturday\, Nov. 7 Evening Session: 6:00p.m.-10:0
- 0p.m.\n\nPro tip: Get 40% off General Admission tickets with the code EXPL
- ORE\n\nEVENT INFORMATION\nSchedule: Saturday\, November 7\, 2026 at 12:00 
- PM–4:00 PM\nLocation: Edmonton Convention Centre - 9797 Jasper Avenue\, 
- Edmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.c
- om/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton
- .com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T055125Z
-LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
- rta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/rocky-mountain-wine-food-fe
- stival
-X-ALT-DESC;FMTTYPE=text/html:<p>Dynamic wines\, smooth spirits\, and downr
- ight delicious beers.</p><p>Since launching in 1998\, the Rocky Mountain W
- ine &amp\; Food Festival\, presented by Sobeys Liquor &amp\; Safeway Liquo
- r\, has been Alberta’s largest and most beloved food &amp\; adult bevera
- ge event\, welcoming hundreds of exhibitors and thousands of guests travel
- ling from across Western Canada each year!</p><p>The Rocky Mountain Wine &
- amp\; Food Festival is an opportunity to taste and try a selection of adul
- t beverages and local cuisine\, while learning about the processes and peo
- ple behind your favourite sips and bites! Discover and explore a variety o
- f fine wines\, premium spirits\, and craft beers\, and meet chefs from loc
- al restaurants who will be serving up delicious fare to pair with the wond
- erful assortment of drinks!</p><p>Friday\, Nov. 6 Evening Session: 5:30p.m
- .-10:000p.m.</p><p>Saturday\, Nov. 7 Afternoon Session: 12:00p.m.-4:00p.m.
- </p><p>Saturday\, Nov. 7 Evening Session: 6:00p.m.-10:00p.m.</p><p>Pro tip
- : Get 40% off General Admission tickets with the code EXPLORE</p><h3>Event
-  Information</h3><ul><li><strong>Schedule:</strong> Saturday\, November 7\
- , 2026 at 12:00 PM–4:00 PM</li><li><strong>Location:</strong> Edmonton C
- onvention Centre - 9797 Jasper Avenue\, Edmonton\, Alberta\, CA</li><li><s
- trong>Tickets / Visit site:</strong> https://rockymountainwine.com/edmonto
- n-wine-food-festival/</li><li><strong>Explore Edmonton:</strong> https://e
- xploreedmonton.com/event-calendar/rocky-mountain-wine-food-festival</li></
- ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andr
- ew-Photography-49-1.JPG
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rocky Mountain Wine & Food Festival
-DTSTART;TZID=America/Edmonton:20261107T173000
-DTEND;TZID=America/Edmonton:20261108T100000
-DTSTAMP:20261010T055223Z
-UID:ae0848fba047f1dda5078e3e366e747c@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
- w-Photography-49-1.JPG
-DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
- .\n\nSince launching in 1998\, the Rocky Mountain Wine & Food Festival\, p
- resented by Sobeys Liquor & Safeway Liquor\, has been Alberta’s largest 
- and most beloved food & adult beverage event\, welcoming hundreds of exhib
- itors and thousands of guests travelling from across Western Canada each y
- ear!\n\nThe Rocky Mountain Wine & Food Festival is an opportunity to taste
-  and try a selection of adult beverages and local cuisine\, while learning
-  about the processes and people behind your favourite sips and bites! Disc
- over and explore a variety of fine wines\, premium spirits\, and craft bee
- rs\, and meet chefs from local restaurants who will be serving up deliciou
- s fare to pair with the wonderful assortment of drinks!\n\nFriday\, Nov. 6
-  Evening Session: 5:30p.m.-10:000p.m.\n\nSaturday\, Nov. 7 Afternoon Sessi
- on: 12:00p.m.-4:00p.m.\n\nSaturday\, Nov. 7 Evening Session: 6:00p.m.-10:0
- 0p.m.\n\nPro tip: Get 40% off General Admission tickets with the code EXPL
- ORE\n\nEVENT INFORMATION\nSchedule: Saturday\, November 7\, 2026 at 5:30 P
- M – Sunday\, November 8\, 2026 at 10:00 AM\nLocation: Edmonton Conventio
- n Centre - 9797 Jasper Avenue\, Edmonton\, Alberta\, CA\nTickets / Visit s
- ite: https://rockymountainwine.com/edmonton-wine-food-festival/\nExplore E
- dmonton: https://exploreedmonton.com/event-calendar/rocky-mountain-wine-fo
- od-festival
-LAST-MODIFIED:20261010T055125Z
-LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
- rta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/rocky-mountain-wine-food-fe
- stival
-X-ALT-DESC;FMTTYPE=text/html:<p>Dynamic wines\, smooth spirits\, and downr
- ight delicious beers.</p><p>Since launching in 1998\, the Rocky Mountain W
- ine &amp\; Food Festival\, presented by Sobeys Liquor &amp\; Safeway Liquo
- r\, has been Alberta’s largest and most beloved food &amp\; adult bevera
- ge event\, welcoming hundreds of exhibitors and thousands of guests travel
- ling from across Western Canada each year!</p><p>The Rocky Mountain Wine &
- amp\; Food Festival is an opportunity to taste and try a selection of adul
- t beverages and local cuisine\, while learning about the processes and peo
- ple behind your favourite sips and bites! Discover and explore a variety o
- f fine wines\, premium spirits\, and craft beers\, and meet chefs from loc
- al restaurants who will be serving up delicious fare to pair with the wond
- erful assortment of drinks!</p><p>Friday\, Nov. 6 Evening Session: 5:30p.m
- .-10:000p.m.</p><p>Saturday\, Nov. 7 Afternoon Session: 12:00p.m.-4:00p.m.
- </p><p>Saturday\, Nov. 7 Evening Session: 6:00p.m.-10:00p.m.</p><p>Pro tip
- : Get 40% off General Admission tickets with the code EXPLORE</p><h3>Event
-  Information</h3><ul><li><strong>Schedule:</strong> Saturday\, November 7\
- , 2026 at 5:30 PM – Sunday\, November 8\, 2026 at 10:00 AM</li><li><stro
- ng>Location:</strong> Edmonton Convention Centre - 9797 Jasper Avenue\, Ed
- monton\, Alberta\, CA</li><li><strong>Tickets / Visit site:</strong> https
- ://rockymountainwine.com/edmonton-wine-food-festival/</li><li><strong>Expl
- ore Edmonton:</strong> https://exploreedmonton.com/event-calendar/rocky-mo
- untain-wine-food-festival</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andr
- ew-Photography-49-1.JPG
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261107T180000
 DTEND;TZID=America/Edmonton:20261107T220000
-DTSTAMP:20261010T055223Z
+DTSTAMP:20261010T123124Z
 UID:e2b10cef9d73461d562a3985a2eb5221@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -446,7 +323,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  Edmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.c
  om/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton
  .com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T055125Z
+LAST-MODIFIED:20261010T123030Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -469,190 +346,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Dynamic wines\, smooth spirits\, and downr
  </p><p>Saturday\, Nov. 7 Evening Session: 6:00p.m.-10:00p.m.</p><p>Pro tip
  : Get 40% off General Admission tickets with the code EXPLORE</p><h3>Event
   Information</h3><ul><li><strong>Schedule:</strong> Saturday\, November 7\
- , 2026 at 6:00 PM–10:00 PM</li><li><strong>Location:</strong> Edmonton C
- onvention Centre - 9797 Jasper Avenue\, Edmonton\, Alberta\, CA</li><li><s
- trong>Tickets / Visit site:</strong> https://rockymountainwine.com/edmonto
- n-wine-food-festival/</li><li><strong>Explore Edmonton:</strong> https://e
- xploreedmonton.com/event-calendar/rocky-mountain-wine-food-festival</li></
- ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andr
- ew-Photography-49-1.JPG
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rocky Mountain Wine & Food Festival
-DTSTART;TZID=America/Edmonton:20261110T120000
-DTEND;TZID=America/Edmonton:20261110T160000
-DTSTAMP:20261010T055223Z
-UID:ae9d381baa4c3a25ae6f83ec4e6d4bcb@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
- w-Photography-49-1.JPG
-DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
- .\n\nSince launching in 1998\, the Rocky Mountain Wine & Food Festival\, p
- resented by Sobeys Liquor & Safeway Liquor\, has been Alberta’s largest 
- and most beloved food & adult beverage event\, welcoming hundreds of exhib
- itors and thousands of guests travelling from across Western Canada each y
- ear!\n\nThe Rocky Mountain Wine & Food Festival is an opportunity to taste
-  and try a selection of adult beverages and local cuisine\, while learning
-  about the processes and people behind your favourite sips and bites! Disc
- over and explore a variety of fine wines\, premium spirits\, and craft bee
- rs\, and meet chefs from local restaurants who will be serving up deliciou
- s fare to pair with the wonderful assortment of drinks!\n\nFriday\, Nov. 6
-  Evening Session: 5:30p.m.-10:000p.m.\n\nSaturday\, Nov. 7 Afternoon Sessi
- on: 12:00p.m.-4:00p.m.\n\nSaturday\, Nov. 7 Evening Session: 6:00p.m.-10:0
- 0p.m.\n\nPro tip: Get 40% off General Admission tickets with the code EXPL
- ORE\n\nEVENT INFORMATION\nSchedule: Tuesday\, November 10\, 2026 at 12:00 
- PM–4:00 PM\nLocation: Edmonton Convention Centre - 9797 Jasper Avenue\, 
- Edmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.c
- om/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton
- .com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T055125Z
-LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
- rta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/rocky-mountain-wine-food-fe
- stival
-X-ALT-DESC;FMTTYPE=text/html:<p>Dynamic wines\, smooth spirits\, and downr
- ight delicious beers.</p><p>Since launching in 1998\, the Rocky Mountain W
- ine &amp\; Food Festival\, presented by Sobeys Liquor &amp\; Safeway Liquo
- r\, has been Alberta’s largest and most beloved food &amp\; adult bevera
- ge event\, welcoming hundreds of exhibitors and thousands of guests travel
- ling from across Western Canada each year!</p><p>The Rocky Mountain Wine &
- amp\; Food Festival is an opportunity to taste and try a selection of adul
- t beverages and local cuisine\, while learning about the processes and peo
- ple behind your favourite sips and bites! Discover and explore a variety o
- f fine wines\, premium spirits\, and craft beers\, and meet chefs from loc
- al restaurants who will be serving up delicious fare to pair with the wond
- erful assortment of drinks!</p><p>Friday\, Nov. 6 Evening Session: 5:30p.m
- .-10:000p.m.</p><p>Saturday\, Nov. 7 Afternoon Session: 12:00p.m.-4:00p.m.
- </p><p>Saturday\, Nov. 7 Evening Session: 6:00p.m.-10:00p.m.</p><p>Pro tip
- : Get 40% off General Admission tickets with the code EXPLORE</p><h3>Event
-  Information</h3><ul><li><strong>Schedule:</strong> Tuesday\, November 10\
- , 2026 at 12:00 PM–4:00 PM</li><li><strong>Location:</strong> Edmonton C
- onvention Centre - 9797 Jasper Avenue\, Edmonton\, Alberta\, CA</li><li><s
- trong>Tickets / Visit site:</strong> https://rockymountainwine.com/edmonto
- n-wine-food-festival/</li><li><strong>Explore Edmonton:</strong> https://e
- xploreedmonton.com/event-calendar/rocky-mountain-wine-food-festival</li></
- ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andr
- ew-Photography-49-1.JPG
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rocky Mountain Wine & Food Festival
-DTSTART;TZID=America/Edmonton:20261110T173000
-DTEND;TZID=America/Edmonton:20261111T100000
-DTSTAMP:20261010T055223Z
-UID:a9bc2aaad134ac8ea659bf57360e4147@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
- w-Photography-49-1.JPG
-DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
- .\n\nSince launching in 1998\, the Rocky Mountain Wine & Food Festival\, p
- resented by Sobeys Liquor & Safeway Liquor\, has been Alberta’s largest 
- and most beloved food & adult beverage event\, welcoming hundreds of exhib
- itors and thousands of guests travelling from across Western Canada each y
- ear!\n\nThe Rocky Mountain Wine & Food Festival is an opportunity to taste
-  and try a selection of adult beverages and local cuisine\, while learning
-  about the processes and people behind your favourite sips and bites! Disc
- over and explore a variety of fine wines\, premium spirits\, and craft bee
- rs\, and meet chefs from local restaurants who will be serving up deliciou
- s fare to pair with the wonderful assortment of drinks!\n\nFriday\, Nov. 6
-  Evening Session: 5:30p.m.-10:000p.m.\n\nSaturday\, Nov. 7 Afternoon Sessi
- on: 12:00p.m.-4:00p.m.\n\nSaturday\, Nov. 7 Evening Session: 6:00p.m.-10:0
- 0p.m.\n\nPro tip: Get 40% off General Admission tickets with the code EXPL
- ORE\n\nEVENT INFORMATION\nSchedule: Tuesday\, November 10\, 2026 at 5:30 P
- M – Wednesday\, November 11\, 2026 at 10:00 AM\nLocation: Edmonton Conve
- ntion Centre - 9797 Jasper Avenue\, Edmonton\, Alberta\, CA\nTickets / Vis
- it site: https://rockymountainwine.com/edmonton-wine-food-festival/\nExplo
- re Edmonton: https://exploreedmonton.com/event-calendar/rocky-mountain-win
- e-food-festival
-LAST-MODIFIED:20261010T055125Z
-LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
- rta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/rocky-mountain-wine-food-fe
- stival
-X-ALT-DESC;FMTTYPE=text/html:<p>Dynamic wines\, smooth spirits\, and downr
- ight delicious beers.</p><p>Since launching in 1998\, the Rocky Mountain W
- ine &amp\; Food Festival\, presented by Sobeys Liquor &amp\; Safeway Liquo
- r\, has been Alberta’s largest and most beloved food &amp\; adult bevera
- ge event\, welcoming hundreds of exhibitors and thousands of guests travel
- ling from across Western Canada each year!</p><p>The Rocky Mountain Wine &
- amp\; Food Festival is an opportunity to taste and try a selection of adul
- t beverages and local cuisine\, while learning about the processes and peo
- ple behind your favourite sips and bites! Discover and explore a variety o
- f fine wines\, premium spirits\, and craft beers\, and meet chefs from loc
- al restaurants who will be serving up delicious fare to pair with the wond
- erful assortment of drinks!</p><p>Friday\, Nov. 6 Evening Session: 5:30p.m
- .-10:000p.m.</p><p>Saturday\, Nov. 7 Afternoon Session: 12:00p.m.-4:00p.m.
- </p><p>Saturday\, Nov. 7 Evening Session: 6:00p.m.-10:00p.m.</p><p>Pro tip
- : Get 40% off General Admission tickets with the code EXPLORE</p><h3>Event
-  Information</h3><ul><li><strong>Schedule:</strong> Tuesday\, November 10\
- , 2026 at 5:30 PM – Wednesday\, November 11\, 2026 at 10:00 AM</li><li><
- strong>Location:</strong> Edmonton Convention Centre - 9797 Jasper Avenue\
- , Edmonton\, Alberta\, CA</li><li><strong>Tickets / Visit site:</strong> h
- ttps://rockymountainwine.com/edmonton-wine-food-festival/</li><li><strong>
- Explore Edmonton:</strong> https://exploreedmonton.com/event-calendar/rock
- y-mountain-wine-food-festival</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andr
- ew-Photography-49-1.JPG
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rocky Mountain Wine & Food Festival
-DTSTART;TZID=America/Edmonton:20261110T180000
-DTEND;TZID=America/Edmonton:20261110T220000
-DTSTAMP:20261010T055223Z
-UID:7d105e0ae83c676b3e3cf47265dc169e@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
- w-Photography-49-1.JPG
-DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
- .\n\nSince launching in 1998\, the Rocky Mountain Wine & Food Festival\, p
- resented by Sobeys Liquor & Safeway Liquor\, has been Alberta’s largest 
- and most beloved food & adult beverage event\, welcoming hundreds of exhib
- itors and thousands of guests travelling from across Western Canada each y
- ear!\n\nThe Rocky Mountain Wine & Food Festival is an opportunity to taste
-  and try a selection of adult beverages and local cuisine\, while learning
-  about the processes and people behind your favourite sips and bites! Disc
- over and explore a variety of fine wines\, premium spirits\, and craft bee
- rs\, and meet chefs from local restaurants who will be serving up deliciou
- s fare to pair with the wonderful assortment of drinks!\n\nFriday\, Nov. 6
-  Evening Session: 5:30p.m.-10:000p.m.\n\nSaturday\, Nov. 7 Afternoon Sessi
- on: 12:00p.m.-4:00p.m.\n\nSaturday\, Nov. 7 Evening Session: 6:00p.m.-10:0
- 0p.m.\n\nPro tip: Get 40% off General Admission tickets with the code EXPL
- ORE\n\nEVENT INFORMATION\nSchedule: Tuesday\, November 10\, 2026 at 6:00 P
- M–10:00 PM\nLocation: Edmonton Convention Centre - 9797 Jasper Avenue\, 
- Edmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.c
- om/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton
- .com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T055125Z
-LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
- rta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/rocky-mountain-wine-food-fe
- stival
-X-ALT-DESC;FMTTYPE=text/html:<p>Dynamic wines\, smooth spirits\, and downr
- ight delicious beers.</p><p>Since launching in 1998\, the Rocky Mountain W
- ine &amp\; Food Festival\, presented by Sobeys Liquor &amp\; Safeway Liquo
- r\, has been Alberta’s largest and most beloved food &amp\; adult bevera
- ge event\, welcoming hundreds of exhibitors and thousands of guests travel
- ling from across Western Canada each year!</p><p>The Rocky Mountain Wine &
- amp\; Food Festival is an opportunity to taste and try a selection of adul
- t beverages and local cuisine\, while learning about the processes and peo
- ple behind your favourite sips and bites! Discover and explore a variety o
- f fine wines\, premium spirits\, and craft beers\, and meet chefs from loc
- al restaurants who will be serving up delicious fare to pair with the wond
- erful assortment of drinks!</p><p>Friday\, Nov. 6 Evening Session: 5:30p.m
- .-10:000p.m.</p><p>Saturday\, Nov. 7 Afternoon Session: 12:00p.m.-4:00p.m.
- </p><p>Saturday\, Nov. 7 Evening Session: 6:00p.m.-10:00p.m.</p><p>Pro tip
- : Get 40% off General Admission tickets with the code EXPLORE</p><h3>Event
-  Information</h3><ul><li><strong>Schedule:</strong> Tuesday\, November 10\
  , 2026 at 6:00 PM–10:00 PM</li><li><strong>Location:</strong> Edmonton C
  onvention Centre - 9797 Jasper Avenue\, Edmonton\, Alberta\, CA</li><li><s
  trong>Tickets / Visit site:</strong> https://rockymountainwine.com/edmonto
