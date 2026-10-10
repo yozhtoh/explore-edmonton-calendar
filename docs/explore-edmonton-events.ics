@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Canadian Finals Rodeo & CFR Week
 DTSTART;TZID=America/Edmonton:20261010T080000
 DTEND;TZID=America/Edmonton:20261010T110000
-DTSTAMP:20261010T123124Z
+DTSTAMP:20261010T214419Z
 UID:e16d62d1d9192a339343e1f7c6dea494@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/BR_GradyYoung_ChesterA.jp
  g
@@ -58,7 +58,7 @@ DESCRIPTION:It’s that time of year again\, CFR is here!\n\nThe champions
  ation: Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA\nExplore Edm
  onton: https://exploreedmonton.com/event-calendar/canadian-finals-rodeo-cf
  r-week
-LAST-MODIFIED:20261010T122831Z
+LAST-MODIFIED:20261010T214133Z
 LOCATION:Rogers Place - 10220 104 Ave\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T120000
 DTEND;TZID=America/Edmonton:20261106T160000
-DTSTAMP:20261010T123124Z
+DTSTAMP:20261010T214419Z
 UID:c130021bea4b66dfcdb436d89fe26242@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -139,7 +139,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  monton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.com
  /edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.c
  om/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T123030Z
+LAST-MODIFIED:20261010T214326Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T173000
 DTEND;TZID=America/Edmonton:20261107T100000
-DTSTAMP:20261010T123124Z
+DTSTAMP:20261010T214419Z
 UID:b03ad9d5ccbeed9f938a0265a5496ca1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -201,7 +201,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  ite: https://rockymountainwine.com/edmonton-wine-food-festival/\nExplore E
  dmonton: https://exploreedmonton.com/event-calendar/rocky-mountain-wine-fo
  od-festival
-LAST-MODIFIED:20261010T123030Z
+LAST-MODIFIED:20261010T214326Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T180000
 DTEND;TZID=America/Edmonton:20261106T220000
-DTSTAMP:20261010T123124Z
+DTSTAMP:20261010T214419Z
 UID:6f733cbd82c0c0f9e3c2708b13ffc4a1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -262,7 +262,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  dmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.co
  m/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T123030Z
+LAST-MODIFIED:20261010T214326Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -300,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261107T180000
 DTEND;TZID=America/Edmonton:20261107T220000
-DTSTAMP:20261010T123124Z
+DTSTAMP:20261010T214419Z
 UID:e2b10cef9d73461d562a3985a2eb5221@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -323,7 +323,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  Edmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.c
  om/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton
  .com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261010T123030Z
+LAST-MODIFIED:20261010T214326Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
