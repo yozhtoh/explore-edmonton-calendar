@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T120000
 DTEND;TZID=America/Edmonton:20261106T160000
-DTSTAMP:20261026T225040Z
+DTSTAMP:20261027T050213Z
 UID:c130021bea4b66dfcdb436d89fe26242@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -35,7 +35,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  monton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.com
  /edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.c
  om/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261026T225005Z
+LAST-MODIFIED:20261027T050139Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T173000
 DTEND;TZID=America/Edmonton:20261107T100000
-DTSTAMP:20261026T225040Z
+DTSTAMP:20261027T050213Z
 UID:b03ad9d5ccbeed9f938a0265a5496ca1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -97,7 +97,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  ite: https://rockymountainwine.com/edmonton-wine-food-festival/\nExplore E
  dmonton: https://exploreedmonton.com/event-calendar/rocky-mountain-wine-fo
  od-festival
-LAST-MODIFIED:20261026T225005Z
+LAST-MODIFIED:20261027T050139Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T180000
 DTEND;TZID=America/Edmonton:20261106T220000
-DTSTAMP:20261026T225040Z
+DTSTAMP:20261027T050213Z
 UID:6f733cbd82c0c0f9e3c2708b13ffc4a1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -158,7 +158,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  dmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.co
  m/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261026T225005Z
+LAST-MODIFIED:20261027T050139Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -193,10 +193,64 @@ X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Love Pro Wrestling x Art Gallery of Alberta: The Joy of Grappling
+DTSTART;TZID=America/Edmonton:20261107T110000
+DTEND;TZID=America/Edmonton:20261107T170000
+DTSTAMP:20261027T050213Z
+UID:e32525228ca57ceadf4d7d50612ddc83@explore-edmonton-calendar
+ATTACH:https://assets.exploreedmonton.com/images/AGA.jpg
+DESCRIPTION:Love Pro Wrestling and the AGA invite you to an unforgettable 
+ afternoon of art\, performance and sport. Featuring portraits of wrestlers
+  by artist Kim Parrent and compelling images of Stampede Wrestling by phot
+ ographer George Webber\, this unique event pairs exhibition experiences wi
+ th live wrestling action in the heart of the gallery!\n\nSurround the squa
+ red circle\, cheer on your favourite stars and soak up the fun as drama\, 
+ athleticism and larger-than-life personalities collide. Expect big moves\,
+  bold stories and plenty of surprises as wrestlers battle it out in a seri
+ es of epic matches.\n\nGallery admission is included in the price of your 
+ ticket. The exhibitions are open 11am to 5pm so come early or stay after t
+ he match to see Kim Parrent: Ring A Ding Dong Dandy and Sports! The Art of
+  Competing.\n\nEVENT INFORMATION\nSchedule: Saturday\, November 7\, 2026 a
+ t 11:00 AM–5:00 PM\nLocation: Art Gallery of Alberta - 2 Sir Winston Chu
+ rchill Sq\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://www.you
+ raga.ca/whats-on/aga-x-love-pro-wrestling\nExplore Edmonton: https://explo
+ reedmonton.com/event-calendar/love-pro-wrestling-x-art-gallery-of-alberta-
+ the-joy-of-grappling
+LAST-MODIFIED:20261027T050110Z
+LOCATION:Art Gallery of Alberta - 2 Sir Winston Churchill Sq\, Edmonton\, 
+ Alberta\, CA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://exploreedmonton.com/event-calendar/love-pro-wrestling-x-art-ga
+ llery-of-alberta-the-joy-of-grappling
+X-ALT-DESC;FMTTYPE=text/html:<p>Love Pro Wrestling and the AGA invite you 
+ to an unforgettable afternoon of art\, performance and sport. Featuring po
+ rtraits of wrestlers by artist Kim Parrent and compelling images of Stampe
+ de Wrestling by photographer George Webber\, this unique event pairs exhib
+ ition experiences with live wrestling action in the heart of the gallery!<
+ /p><p>Surround the squared circle\, cheer on your favourite stars and soak
+  up the fun as drama\, athleticism and larger-than-life personalities coll
+ ide. Expect big moves\, bold stories and plenty of surprises as wrestlers 
+ battle it out in a series of epic matches.</p><p>Gallery admission is incl
+ uded in the price of your ticket. The exhibitions are open 11am to 5pm so 
+ come early or stay after the match to see Kim Parrent: Ring A Ding Dong Da
+ ndy and Sports! The Art of Competing.</p><h3>Event Information</h3><ul><li
+ ><strong>Schedule:</strong> Saturday\, November 7\, 2026 at 11:00 AM–5:0
+ 0 PM</li><li><strong>Location:</strong> Art Gallery of Alberta - 2 Sir Win
+ ston Churchill Sq\, Edmonton\, Alberta\, CA</li><li><strong>Tickets / Visi
+ t site:</strong> https://www.youraga.ca/whats-on/aga-x-love-pro-wrestling<
+ /li><li><strong>Explore Edmonton:</strong> https://exploreedmonton.com/eve
+ nt-calendar/love-pro-wrestling-x-art-gallery-of-alberta-the-joy-of-grappli
+ ng</li></ul>
+X-IMAGE:https://assets.exploreedmonton.com/images/AGA.jpg
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TICKETS-URL:https://www.youraga.ca/whats-on/aga-x-love-pro-wrestling
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261107T180000
 DTEND;TZID=America/Edmonton:20261107T220000
-DTSTAMP:20261026T225040Z
+DTSTAMP:20261027T050213Z
 UID:e2b10cef9d73461d562a3985a2eb5221@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -219,7 +273,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  Edmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.c
  om/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton
  .com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261026T225005Z
+LAST-MODIFIED:20261027T050139Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -255,55 +309,21 @@ X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Is Bright Festival
-DTSTART;TZID=America/Edmonton:20261110T200000
-DTSTAMP:20261026T225040Z
-UID:d07df8aca1472eede0aac354c7ee7503@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo.
- jpg
-DESCRIPTION:The All Is Bright Festival is a free\, family-friendly event c
- elebrating the magic of winter\, the spirit of the season\, and the local 
- businesses along 124 Street and the surrounding area. This year\, the fest
- ival returns for two days of winter festivities!\n\nEVENT INFORMATION\nSch
- edule: Tuesday\, November 10\, 2026 at 8:00 PM\nLocation: 124 St & 107 to 
- 109 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://124
- street.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedmo
- nton.com/event-calendar/all-is-bright-festival
-LAST-MODIFIED:20261026T224822Z
-LOCATION:124 St & 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/all-is-bright-festival
-X-ALT-DESC;FMTTYPE=text/html:<p>The All Is Bright Festival is a free\, fam
- ily-friendly event celebrating the magic of winter\, the spirit of the sea
- son\, and the local businesses along 124 Street and the surrounding area. 
- This year\, the festival returns for two days of winter festivities!</p><h
- 3>Event Information</h3><ul><li><strong>Schedule:</strong> Tuesday\, Novem
- ber 10\, 2026 at 8:00 PM</li><li><strong>Location:</strong> 124 St &amp\; 
- 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA</li><li><strong>Tickets / V
- isit site:</strong> https://124street.ca/event/all-is-bright-2026/</li><li
- ><strong>Explore Edmonton:</strong> https://exploreedmonton.com/event-cale
- ndar/all-is-bright-festival</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo
- .jpg
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://124street.ca/event/all-is-bright-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All Is Bright Festival
 DTSTART;TZID=America/Edmonton:20261113T200000
-DTSTAMP:20261026T225040Z
+DTSTAMP:20261027T050213Z
 UID:fcb40468faf9262e8b1bf86514d7a5ef@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo.
  jpg
 DESCRIPTION:The All Is Bright Festival is a free\, family-friendly event c
  elebrating the magic of winter\, the spirit of the season\, and the local 
  businesses along 124 Street and the surrounding area. This year\, the fest
- ival returns for two days of winter festivities!\n\nEVENT INFORMATION\nSch
- edule: Friday\, November 13\, 2026 at 8:00 PM\nLocation: 124 St & 107 to 1
- 09 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://124s
- treet.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedmon
- ton.com/event-calendar/all-is-bright-festival
-LAST-MODIFIED:20261026T224822Z
+ ival returns for two days of winter festivities!\n\nYour guide to celebrat
+ ing National Indigenous History Month in Edmonton\n\nEVENT INFORMATION\nSc
+ hedule: Friday\, November 13\, 2026 at 8:00 PM\nLocation: 124 St & 107 to 
+ 109 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://124
+ street.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedmo
+ nton.com/event-calendar/all-is-bright-festival
+LAST-MODIFIED:20261027T045953Z
 LOCATION:124 St & 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -311,48 +331,14 @@ URL:https://exploreedmonton.com/event-calendar/all-is-bright-festival
 X-ALT-DESC;FMTTYPE=text/html:<p>The All Is Bright Festival is a free\, fam
  ily-friendly event celebrating the magic of winter\, the spirit of the sea
  son\, and the local businesses along 124 Street and the surrounding area. 
- This year\, the festival returns for two days of winter festivities!</p><h
- 3>Event Information</h3><ul><li><strong>Schedule:</strong> Friday\, Novemb
- er 13\, 2026 at 8:00 PM</li><li><strong>Location:</strong> 124 St &amp\; 1
- 07 to 109 Avenue NW\, Edmonton\, Alberta\, CA</li><li><strong>Tickets / Vi
- sit site:</strong> https://124street.ca/event/all-is-bright-2026/</li><li>
- <strong>Explore Edmonton:</strong> https://exploreedmonton.com/event-calen
- dar/all-is-bright-festival</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo
- .jpg
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://124street.ca/event/all-is-bright-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All Is Bright Festival
-DTSTART;TZID=America/Edmonton:20261114T200000
-DTSTAMP:20261026T225040Z
-UID:0bd037b2d9a53e71f155dcf1466c64ff@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo.
- jpg
-DESCRIPTION:The All Is Bright Festival is a free\, family-friendly event c
- elebrating the magic of winter\, the spirit of the season\, and the local 
- businesses along 124 Street and the surrounding area. This year\, the fest
- ival returns for two days of winter festivities!\n\nEVENT INFORMATION\nSch
- edule: Saturday\, November 14\, 2026 at 8:00 PM\nLocation: 124 St & 107 to
-  109 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://12
- 4street.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedm
- onton.com/event-calendar/all-is-bright-festival
-LAST-MODIFIED:20261026T224822Z
-LOCATION:124 St & 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/all-is-bright-festival
-X-ALT-DESC;FMTTYPE=text/html:<p>The All Is Bright Festival is a free\, fam
- ily-friendly event celebrating the magic of winter\, the spirit of the sea
- son\, and the local businesses along 124 Street and the surrounding area. 
- This year\, the festival returns for two days of winter festivities!</p><h
- 3>Event Information</h3><ul><li><strong>Schedule:</strong> Saturday\, Nove
- mber 14\, 2026 at 8:00 PM</li><li><strong>Location:</strong> 124 St &amp\;
-  107 to 109 Avenue NW\, Edmonton\, Alberta\, CA</li><li><strong>Tickets / 
- Visit site:</strong> https://124street.ca/event/all-is-bright-2026/</li><l
- i><strong>Explore Edmonton:</strong> https://exploreedmonton.com/event-cal
- endar/all-is-bright-festival</li></ul>
+ This year\, the festival returns for two days of winter festivities!</p><p
+ >Your guide to celebrating National Indigenous History Month in Edmonton</
+ p><h3>Event Information</h3><ul><li><strong>Schedule:</strong> Friday\, No
+ vember 13\, 2026 at 8:00 PM</li><li><strong>Location:</strong> 124 St &amp
+ \; 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA</li><li><strong>Tickets 
+ / Visit site:</strong> https://124street.ca/event/all-is-bright-2026/</li>
+ <li><strong>Explore Edmonton:</strong> https://exploreedmonton.com/event-c
+ alendar/all-is-bright-festival</li></ul>
 X-IMAGE:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo
  .jpg
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
