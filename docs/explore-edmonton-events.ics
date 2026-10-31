@@ -9,57 +9,10 @@ X-PUBLISHED-TTL:PT6H
 X-WR-CALNAME:Explore Edmonton Timed Events
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-SUMMARY:Under 100 Art Show YEG
-DTSTART;TZID=America/Edmonton:20261105T190000
-DTSTAMP:20261030T221911Z
-UID:7c201f714da954b52020caa3486a858c@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/Aerial-Downtown-Winter-Ph
- oto_1-4.jpg
-DESCRIPTION:Discover incredible art for under $100!\n\nThe Under $100 Art 
- Show is a pop-up art exhibition featuring thousands of original works from
-  nearly 100 local and emerging artists in Edmonton\, with every piece pric
- ed at $100 or less! From paintings and photography to textiles\, mixed med
- ia\, ceramics\, handmade accessories and so much more\, there’s somethin
- g for every kind of art lover.\n\nAnd there’s more to experience beyond 
- the art\, with live music\, a bar\, photo booths and plenty of surprises t
- hroughout the weekend. With a different group of artists each week\, there
- ’s a reason to come back for both! Walk-ins are welcome after 7 PM on op
- ening night and anytime throughout the weekend. Kids 16 and under get in f
- ree!\n\nEVENT INFORMATION\nSchedule: Thursday\, November 5\, 2026 at 7:00 
- PM\nLocation: 10310 102 St\, Edmonton\, Alberta\, CA\nTickets / Visit site
- : https://www.showpass.com/under-100-show-edmonton/\nExplore Edmonton: htt
- ps://exploreedmonton.com/event-calendar/under-100-art-show-yeg
-LAST-MODIFIED:20261030T221900Z
-LOCATION:10310 102 St\, Edmonton\, Alberta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/under-100-art-show-yeg
-X-ALT-DESC;FMTTYPE=text/html:<p>Discover incredible art for under $100!</p
- ><p>The Under $100 Art Show is a pop-up art exhibition featuring thousands
-  of original works from nearly 100 local and emerging artists in Edmonton\
- , with every piece priced at $100 or less! From paintings and photography 
- to textiles\, mixed media\, ceramics\, handmade accessories and so much mo
- re\, there’s something for every kind of art lover.</p><p>And there’s 
- more to experience beyond the art\, with live music\, a bar\, photo booths
-  and plenty of surprises throughout the weekend. With a different group of
-  artists each week\, there’s a reason to come back for both! Walk-ins ar
- e welcome after 7 PM on opening night and anytime throughout the weekend. 
- Kids 16 and under get in free!</p><h3>Event Information</h3><ul><li><stron
- g>Schedule:</strong> Thursday\, November 5\, 2026 at 7:00 PM</li><li><stro
- ng>Location:</strong> 10310 102 St\, Edmonton\, Alberta\, CA</li><li><stro
- ng>Tickets / Visit site:</strong> https://www.showpass.com/under-100-show-
- edmonton/</li><li><strong>Explore Edmonton:</strong> https://exploreedmont
- on.com/event-calendar/under-100-art-show-yeg</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Aerial-Downtown-Winter-P
- hoto_1-4.jpg
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://www.showpass.com/under-100-show-edmonton/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T120000
 DTEND;TZID=America/Edmonton:20261106T160000
-DTSTAMP:20261030T221911Z
+DTSTAMP:20261031T053848Z
 UID:c130021bea4b66dfcdb436d89fe26242@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -82,7 +35,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  monton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.com
  /edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.c
  om/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261030T221830Z
+LAST-MODIFIED:20261031T053806Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -120,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T173000
 DTEND;TZID=America/Edmonton:20261107T100000
-DTSTAMP:20261030T221911Z
+DTSTAMP:20261031T053848Z
 UID:b03ad9d5ccbeed9f938a0265a5496ca1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -144,7 +97,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  ite: https://rockymountainwine.com/edmonton-wine-food-festival/\nExplore E
  dmonton: https://exploreedmonton.com/event-calendar/rocky-mountain-wine-fo
  od-festival
-LAST-MODIFIED:20261030T221830Z
+LAST-MODIFIED:20261031T053806Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -182,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T180000
 DTEND;TZID=America/Edmonton:20261106T220000
-DTSTAMP:20261030T221911Z
+DTSTAMP:20261031T053848Z
 UID:6f733cbd82c0c0f9e3c2708b13ffc4a1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -205,7 +158,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  dmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.co
  m/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261030T221830Z
+LAST-MODIFIED:20261031T053806Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -243,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Love Pro Wrestling x Art Gallery of Alberta: The Joy of Grappling
 DTSTART;TZID=America/Edmonton:20261107T110000
 DTEND;TZID=America/Edmonton:20261107T170000
-DTSTAMP:20261030T221911Z
+DTSTAMP:20261031T053848Z
 UID:e32525228ca57ceadf4d7d50612ddc83@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/AGA.jpg
 DESCRIPTION:Love Pro Wrestling and the AGA invite you to an unforgettable 
@@ -263,7 +216,7 @@ DESCRIPTION:Love Pro Wrestling and the AGA invite you to an unforgettable
  raga.ca/whats-on/aga-x-love-pro-wrestling\nExplore Edmonton: https://explo
  reedmonton.com/event-calendar/love-pro-wrestling-x-art-gallery-of-alberta-
  the-joy-of-grappling
-LAST-MODIFIED:20261030T221757Z
+LAST-MODIFIED:20261031T053733Z
 LOCATION:Art Gallery of Alberta - 2 Sir Winston Churchill Sq\, Edmonton\, 
  Alberta\, CA
 STATUS:CONFIRMED
@@ -297,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261107T180000
 DTEND;TZID=America/Edmonton:20261107T220000
-DTSTAMP:20261030T221911Z
+DTSTAMP:20261031T053848Z
 UID:e2b10cef9d73461d562a3985a2eb5221@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -320,7 +273,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  Edmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.c
  om/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton
  .com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261030T221830Z
+LAST-MODIFIED:20261031T053806Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -355,103 +308,9 @@ X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-TICKETS-URL:https://rockymountainwine.com/edmonton-wine-food-festival/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Under 100 Art Show YEG
-DTSTART;TZID=America/Edmonton:20261108T190000
-DTSTAMP:20261030T221911Z
-UID:b48e5e8148e7e49edf9b3d10f7a03afc@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/Aerial-Downtown-Winter-Ph
- oto_1-4.jpg
-DESCRIPTION:Discover incredible art for under $100!\n\nThe Under $100 Art 
- Show is a pop-up art exhibition featuring thousands of original works from
-  nearly 100 local and emerging artists in Edmonton\, with every piece pric
- ed at $100 or less! From paintings and photography to textiles\, mixed med
- ia\, ceramics\, handmade accessories and so much more\, there’s somethin
- g for every kind of art lover.\n\nAnd there’s more to experience beyond 
- the art\, with live music\, a bar\, photo booths and plenty of surprises t
- hroughout the weekend. With a different group of artists each week\, there
- ’s a reason to come back for both! Walk-ins are welcome after 7 PM on op
- ening night and anytime throughout the weekend. Kids 16 and under get in f
- ree!\n\nEVENT INFORMATION\nSchedule: Sunday\, November 8\, 2026 at 7:00 PM
- \nLocation: 10310 102 St\, Edmonton\, Alberta\, CA\nTickets / Visit site: 
- https://www.showpass.com/under-100-show-edmonton/\nExplore Edmonton: https
- ://exploreedmonton.com/event-calendar/under-100-art-show-yeg
-LAST-MODIFIED:20261030T221900Z
-LOCATION:10310 102 St\, Edmonton\, Alberta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/under-100-art-show-yeg
-X-ALT-DESC;FMTTYPE=text/html:<p>Discover incredible art for under $100!</p
- ><p>The Under $100 Art Show is a pop-up art exhibition featuring thousands
-  of original works from nearly 100 local and emerging artists in Edmonton\
- , with every piece priced at $100 or less! From paintings and photography 
- to textiles\, mixed media\, ceramics\, handmade accessories and so much mo
- re\, there’s something for every kind of art lover.</p><p>And there’s 
- more to experience beyond the art\, with live music\, a bar\, photo booths
-  and plenty of surprises throughout the weekend. With a different group of
-  artists each week\, there’s a reason to come back for both! Walk-ins ar
- e welcome after 7 PM on opening night and anytime throughout the weekend. 
- Kids 16 and under get in free!</p><h3>Event Information</h3><ul><li><stron
- g>Schedule:</strong> Sunday\, November 8\, 2026 at 7:00 PM</li><li><strong
- >Location:</strong> 10310 102 St\, Edmonton\, Alberta\, CA</li><li><strong
- >Tickets / Visit site:</strong> https://www.showpass.com/under-100-show-ed
- monton/</li><li><strong>Explore Edmonton:</strong> https://exploreedmonton
- .com/event-calendar/under-100-art-show-yeg</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Aerial-Downtown-Winter-P
- hoto_1-4.jpg
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://www.showpass.com/under-100-show-edmonton/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Under 100 Art Show YEG
-DTSTART;TZID=America/Edmonton:20261110T190000
-DTSTAMP:20261030T221911Z
-UID:ad3a8979d409fc82eb4fffab854db057@explore-edmonton-calendar
-ATTACH:https://assets.exploreedmonton.com/images/Aerial-Downtown-Winter-Ph
- oto_1-4.jpg
-DESCRIPTION:Discover incredible art for under $100!\n\nThe Under $100 Art 
- Show is a pop-up art exhibition featuring thousands of original works from
-  nearly 100 local and emerging artists in Edmonton\, with every piece pric
- ed at $100 or less! From paintings and photography to textiles\, mixed med
- ia\, ceramics\, handmade accessories and so much more\, there’s somethin
- g for every kind of art lover.\n\nAnd there’s more to experience beyond 
- the art\, with live music\, a bar\, photo booths and plenty of surprises t
- hroughout the weekend. With a different group of artists each week\, there
- ’s a reason to come back for both! Walk-ins are welcome after 7 PM on op
- ening night and anytime throughout the weekend. Kids 16 and under get in f
- ree!\n\nEVENT INFORMATION\nSchedule: Tuesday\, November 10\, 2026 at 7:00 
- PM\nLocation: 10310 102 St\, Edmonton\, Alberta\, CA\nTickets / Visit site
- : https://www.showpass.com/under-100-show-edmonton/\nExplore Edmonton: htt
- ps://exploreedmonton.com/event-calendar/under-100-art-show-yeg
-LAST-MODIFIED:20261030T221900Z
-LOCATION:10310 102 St\, Edmonton\, Alberta\, CA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://exploreedmonton.com/event-calendar/under-100-art-show-yeg
-X-ALT-DESC;FMTTYPE=text/html:<p>Discover incredible art for under $100!</p
- ><p>The Under $100 Art Show is a pop-up art exhibition featuring thousands
-  of original works from nearly 100 local and emerging artists in Edmonton\
- , with every piece priced at $100 or less! From paintings and photography 
- to textiles\, mixed media\, ceramics\, handmade accessories and so much mo
- re\, there’s something for every kind of art lover.</p><p>And there’s 
- more to experience beyond the art\, with live music\, a bar\, photo booths
-  and plenty of surprises throughout the weekend. With a different group of
-  artists each week\, there’s a reason to come back for both! Walk-ins ar
- e welcome after 7 PM on opening night and anytime throughout the weekend. 
- Kids 16 and under get in free!</p><h3>Event Information</h3><ul><li><stron
- g>Schedule:</strong> Tuesday\, November 10\, 2026 at 7:00 PM</li><li><stro
- ng>Location:</strong> 10310 102 St\, Edmonton\, Alberta\, CA</li><li><stro
- ng>Tickets / Visit site:</strong> https://www.showpass.com/under-100-show-
- edmonton/</li><li><strong>Explore Edmonton:</strong> https://exploreedmont
- on.com/event-calendar/under-100-art-show-yeg</li></ul>
-X-IMAGE:https://assets.exploreedmonton.com/images/Aerial-Downtown-Winter-P
- hoto_1-4.jpg
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-TICKETS-URL:https://www.showpass.com/under-100-show-edmonton/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:All Is Bright Festival
 DTSTART;TZID=America/Edmonton:20261113T200000
-DTSTAMP:20261030T221911Z
+DTSTAMP:20261031T053848Z
 UID:fcb40468faf9262e8b1bf86514d7a5ef@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo.
  jpg
@@ -463,7 +322,7 @@ DESCRIPTION:The All Is Bright Festival is a free\, family-friendly event c
  09 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://124s
  treet.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedmon
  ton.com/event-calendar/all-is-bright-festival
-LAST-MODIFIED:20261030T221636Z
+LAST-MODIFIED:20261031T053611Z
 LOCATION:124 St & 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
