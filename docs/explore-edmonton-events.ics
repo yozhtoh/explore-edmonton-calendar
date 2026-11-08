@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T120000
 DTEND;TZID=America/Edmonton:20261106T160000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:c130021bea4b66dfcdb436d89fe26242@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -35,7 +35,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  monton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.com
  /edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.c
  om/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261108T132058Z
+LAST-MODIFIED:20261108T220221Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T173000
 DTEND;TZID=America/Edmonton:20261107T100000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:b03ad9d5ccbeed9f938a0265a5496ca1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -97,7 +97,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  ite: https://rockymountainwine.com/edmonton-wine-food-festival/\nExplore E
  dmonton: https://exploreedmonton.com/event-calendar/rocky-mountain-wine-fo
  od-festival
-LAST-MODIFIED:20261108T132058Z
+LAST-MODIFIED:20261108T220221Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261106T180000
 DTEND;TZID=America/Edmonton:20261106T220000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:6f733cbd82c0c0f9e3c2708b13ffc4a1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -158,7 +158,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  dmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.co
  m/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261108T132058Z
+LAST-MODIFIED:20261108T220221Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Love Pro Wrestling x Art Gallery of Alberta: The Joy of Grappling
 DTSTART;TZID=America/Edmonton:20261107T110000
 DTEND;TZID=America/Edmonton:20261107T170000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:e32525228ca57ceadf4d7d50612ddc83@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/AGA.jpg
 DESCRIPTION:Love Pro Wrestling and the AGA invite you to an unforgettable 
@@ -216,7 +216,7 @@ DESCRIPTION:Love Pro Wrestling and the AGA invite you to an unforgettable
  raga.ca/whats-on/aga-x-love-pro-wrestling\nExplore Edmonton: https://explo
  reedmonton.com/event-calendar/love-pro-wrestling-x-art-gallery-of-alberta-
  the-joy-of-grappling
-LAST-MODIFIED:20261108T132023Z
+LAST-MODIFIED:20261108T220145Z
 LOCATION:Art Gallery of Alberta - 2 Sir Winston Churchill Sq\, Edmonton\, 
  Alberta\, CA
 STATUS:CONFIRMED
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:Rocky Mountain Wine & Food Festival
 DTSTART;TZID=America/Edmonton:20261107T180000
 DTEND;TZID=America/Edmonton:20261107T220000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:e2b10cef9d73461d562a3985a2eb5221@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Photo-Credit_-Derek-Andre
  w-Photography-49-1.JPG
@@ -273,7 +273,7 @@ DESCRIPTION:Dynamic wines\, smooth spirits\, and downright delicious beers
  Edmonton\, Alberta\, CA\nTickets / Visit site: https://rockymountainwine.c
  om/edmonton-wine-food-festival/\nExplore Edmonton: https://exploreedmonton
  .com/event-calendar/rocky-mountain-wine-food-festival
-LAST-MODIFIED:20261108T132058Z
+LAST-MODIFIED:20261108T220221Z
 LOCATION:Edmonton Convention Centre - 9797 Jasper Avenue\, Edmonton\, Albe
  rta\, CA
 STATUS:CONFIRMED
@@ -310,7 +310,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Is Bright Festival
 DTSTART;TZID=America/Edmonton:20261110T200000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:d07df8aca1472eede0aac354c7ee7503@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo.
  jpg
@@ -322,7 +322,7 @@ DESCRIPTION:The All Is Bright Festival is a free\, family-friendly event c
  109 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://124
  street.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedmo
  nton.com/event-calendar/all-is-bright-festival
-LAST-MODIFIED:20261108T131909Z
+LAST-MODIFIED:20261108T220028Z
 LOCATION:124 St & 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -345,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Is Bright Festival
 DTSTART;TZID=America/Edmonton:20261113T200000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:fcb40468faf9262e8b1bf86514d7a5ef@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo.
  jpg
@@ -357,7 +357,7 @@ DESCRIPTION:The All Is Bright Festival is a free\, family-friendly event c
  09 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://124s
  treet.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedmon
  ton.com/event-calendar/all-is-bright-festival
-LAST-MODIFIED:20261108T131909Z
+LAST-MODIFIED:20261108T220028Z
 LOCATION:124 St & 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -380,7 +380,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5th Annual Broad View International Film Festival
 DTSTART;TZID=America/Edmonton:20261114T190000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:37e04d00c7edd9ec56e82a5211f85ce3@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Exterior-Garneau-Theatre-
  2025.jpg
@@ -397,7 +397,7 @@ DESCRIPTION:Calling all movie lovers\, this is the festival for you!\n\nTh
  tro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA\nTickets / Visit site: 
  https://broadviewfilmfest.com/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/5th-annual-broad-view-international-film-festival
-LAST-MODIFIED:20261108T131903Z
+LAST-MODIFIED:20261108T220022Z
 LOCATION:Metro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -427,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Is Bright Festival
 DTSTART;TZID=America/Edmonton:20261114T200000
-DTSTAMP:20261108T132141Z
+DTSTAMP:20261108T220306Z
 UID:0bd037b2d9a53e71f155dcf1466c64ff@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo.
  jpg
@@ -439,7 +439,7 @@ DESCRIPTION:The All Is Bright Festival is a free\, family-friendly event c
   109 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://12
  4street.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedm
  onton.com/event-calendar/all-is-bright-festival
-LAST-MODIFIED:20261108T131909Z
+LAST-MODIFIED:20261108T220028Z
 LOCATION:124 St & 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
