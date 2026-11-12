@@ -10,8 +10,55 @@ X-WR-CALNAME:Explore Edmonton Timed Events
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
 SUMMARY:5th Annual Broad View International Film Festival
+DTSTART;TZID=America/Edmonton:20260310T190000
+DTSTAMP:20261112T233832Z
+UID:288539fb1a28b4d159acf5b4d75d5e9a@explore-edmonton-calendar
+ATTACH:https://assets.exploreedmonton.com/images/Exterior-Garneau-Theatre-
+ 2025.jpg
+DESCRIPTION:Calling all movie lovers\, this is the festival for you!\n\nTh
+ e Broad View International Film Festival is dedicated to showcasing the wo
+ rk of women directors from Edmonton's own backyard\, across Canada and aro
+ und the world!\n\nThe 5th annual festival opens Nov. 12 at 7:00 PM with th
+ e exquisite documentary AGATHA'S ALMANAC by Amalie Atkins\, followed by a 
+ festive reception. The full festival program includes shorts\, feature len
+ gth films\, dramas and documentaries\, and Q&A's with guest directors. Bro
+ ad View closes on Saturday with the feature film\, JIMPA - a tender study 
+ of intergenerational family dynamics starring Olivia Coleman.\n\nEVENT INF
+ ORMATION\nSchedule: Tuesday\, March 10\, 2026 at 7:00 PM\nLocation: Metro 
+ Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA\nTickets / Visit site: http
+ s://broadviewfilmfest.com/\nExplore Edmonton: https://exploreedmonton.com/
+ event-calendar/5th-annual-broad-view-international-film-festival
+LAST-MODIFIED:20261112T233607Z
+LOCATION:Metro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://exploreedmonton.com/event-calendar/5th-annual-broad-view-inter
+ national-film-festival
+X-ALT-DESC;FMTTYPE=text/html:<p>Calling all movie lovers\, this is the fes
+ tival for you!</p><p>The Broad View International Film Festival is dedicat
+ ed to showcasing the work of women directors from Edmonton&#x27\;s own bac
+ kyard\, across Canada and around the world!</p><p>The 5th annual festival 
+ opens Nov. 12 at 7:00 PM with the exquisite documentary AGATHA&#x27\;S ALM
+ ANAC by Amalie Atkins\, followed by a festive reception. The full festival
+  program includes shorts\, feature length films\, dramas and documentaries
+ \, and Q&amp\;A&#x27\;s with guest directors. Broad View closes on Saturda
+ y with the feature film\, JIMPA - a tender study of intergenerational fami
+ ly dynamics starring Olivia Coleman.</p><h3>Event Information</h3><ul><li>
+ <strong>Schedule:</strong> Tuesday\, March 10\, 2026 at 7:00 PM</li><li><s
+ trong>Location:</strong> Metro Cinema\, 8712 109 St\, Edmonton\, Alberta\,
+  CA</li><li><strong>Tickets / Visit site:</strong> https://broadviewfilmfe
+ st.com/</li><li><strong>Explore Edmonton:</strong> https://exploreedmonton
+ .com/event-calendar/5th-annual-broad-view-international-film-festival</li>
+ </ul>
+X-IMAGE:https://assets.exploreedmonton.com/images/Exterior-Garneau-Theatre
+ -2025.jpg
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TICKETS-URL:https://broadviewfilmfest.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5th Annual Broad View International Film Festival
 DTSTART;TZID=America/Edmonton:20261110T190000
-DTSTAMP:20261112T151040Z
+DTSTAMP:20261112T233832Z
 UID:fc24775ccc52ced2f4a0ce007e423c4e@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Exterior-Garneau-Theatre-
  2025.jpg
@@ -28,7 +75,7 @@ DESCRIPTION:Calling all movie lovers\, this is the festival for you!\n\nTh
  ro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA\nTickets / Visit site: h
  ttps://broadviewfilmfest.com/\nExplore Edmonton: https://exploreedmonton.c
  om/event-calendar/5th-annual-broad-view-international-film-festival
-LAST-MODIFIED:20261112T150821Z
+LAST-MODIFIED:20261112T233607Z
 LOCATION:Metro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5th Annual Broad View International Film Festival
 DTSTART;TZID=America/Edmonton:20261112T190000
-DTSTAMP:20261112T151040Z
+DTSTAMP:20261112T233832Z
 UID:fb6be3bee9db4acf26873775a9fdb1d1@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Exterior-Garneau-Theatre-
  2025.jpg
@@ -75,7 +122,7 @@ DESCRIPTION:Calling all movie lovers\, this is the festival for you!\n\nTh
  tro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA\nTickets / Visit site: 
  https://broadviewfilmfest.com/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/5th-annual-broad-view-international-film-festival
-LAST-MODIFIED:20261112T150821Z
+LAST-MODIFIED:20261112T233607Z
 LOCATION:Metro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -105,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Is Bright Festival
 DTSTART;TZID=America/Edmonton:20261113T200000
-DTSTAMP:20261112T151040Z
+DTSTAMP:20261112T233832Z
 UID:fcb40468faf9262e8b1bf86514d7a5ef@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/AIB-2024_Highlight_Photo.
  jpg
@@ -117,7 +164,7 @@ DESCRIPTION:The All Is Bright Festival is a free\, family-friendly event c
  09 Avenue NW\, Edmonton\, Alberta\, CA\nTickets / Visit site: https://124s
  treet.ca/event/all-is-bright-2026/\nExplore Edmonton: https://exploreedmon
  ton.com/event-calendar/all-is-bright-festival
-LAST-MODIFIED:20261112T150827Z
+LAST-MODIFIED:20261112T233613Z
 LOCATION:124 St & 107 to 109 Avenue NW\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -140,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5th Annual Broad View International Film Festival
 DTSTART;TZID=America/Edmonton:20261114T190000
-DTSTAMP:20261112T151040Z
+DTSTAMP:20261112T233832Z
 UID:37e04d00c7edd9ec56e82a5211f85ce3@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/Exterior-Garneau-Theatre-
  2025.jpg
@@ -157,7 +204,7 @@ DESCRIPTION:Calling all movie lovers\, this is the festival for you!\n\nTh
  tro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA\nTickets / Visit site: 
  https://broadviewfilmfest.com/\nExplore Edmonton: https://exploreedmonton.
  com/event-calendar/5th-annual-broad-view-international-film-festival
-LAST-MODIFIED:20261112T150821Z
+LAST-MODIFIED:20261112T233607Z
 LOCATION:Metro Cinema\, 8712 109 St\, Edmonton\, Alberta\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
