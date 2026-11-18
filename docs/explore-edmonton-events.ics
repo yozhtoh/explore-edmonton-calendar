@@ -11,7 +11,7 @@ X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
 SUMMARY:Edmonton Elks 2026 Grey Cup Champions Celebration
 DTSTART;TZID=America/Edmonton:20261117T173000
-DTSTAMP:20261117T205426Z
+DTSTAMP:20261118T072535Z
 UID:844898db4a9b09f0ea864b80a5525a4e@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/feature/20261115_113th_Gr
  ey_Cup_2110_53A4941.jpg_CL1.JPG
@@ -42,7 +42,7 @@ DESCRIPTION:Fresh off winning their 15th Grey Cup Championship\, the Edmon
  y\, November 17\, 2026 at 5:30 PM\nLocation: Edmonton EXPO Centre\, Edmont
  on\, AB\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar
  /edmonton-elks-2026-grey-cup-champions-celebration
-LAST-MODIFIED:20261117T205253Z
+LAST-MODIFIED:20261118T072358Z
 LOCATION:Edmonton EXPO Centre\, Edmonton\, AB\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Edmonton Elks 2026 Grey Cup Champions Celebration
 DTSTART;TZID=America/Edmonton:20261117T183000
-DTSTAMP:20261117T205426Z
+DTSTAMP:20261118T072535Z
 UID:f2405b49298909641c9c2665900fec57@explore-edmonton-calendar
 ATTACH:https://assets.exploreedmonton.com/images/feature/20261115_113th_Gr
  ey_Cup_2110_53A4941.jpg_CL1.JPG
@@ -115,7 +115,7 @@ DESCRIPTION:Fresh off winning their 15th Grey Cup Championship\, the Edmon
  y\, November 17\, 2026 at 6:30 PM\nLocation: Edmonton EXPO Centre\, Edmont
  on\, AB\, CA\nExplore Edmonton: https://exploreedmonton.com/event-calendar
  /edmonton-elks-2026-grey-cup-champions-celebration
-LAST-MODIFIED:20261117T205253Z
+LAST-MODIFIED:20261118T072358Z
 LOCATION:Edmonton EXPO Centre\, Edmonton\, AB\, CA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
